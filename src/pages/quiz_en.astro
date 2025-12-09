@@ -86,10 +86,10 @@ await writeFile(
         <!-- Header -->
         <div class="text-center mb-8">
           <h1 class="text-4xl md:text-5xl font-bold text-white mb-4">
-            Character Quiz - EN Server
+            Kuis Karakter - Server EN 
           </h1>
           <p class="text-xl text-gray-300">
-            Guess the character based on the clues!
+            Tebak karakter berdasarkan petunjuk yang diberikan (sori belom di translet le)
           </p>
         </div>
 
@@ -97,13 +97,13 @@ await writeFile(
         <div class="bg-white/10 backdrop-blur-lg rounded-2xl p-4 mb-6">
           <div class="flex justify-between items-center mb-2">
             <span class="text-white font-semibold"
-              >Clues Revealed: <span id="clues-revealed">0</span>/10</span
+              >Petunjuk tersisa: <span id="clues-revealed">0</span>/10</span
             >
           </div>
           <div class="w-full bg-white/20 rounded-full h-3">
             <div
               id="progress-bar"
-              class="bg-gradient-to-r from-purple-500 to-pink-500 h-3 rounded-full transition-all duration-500"
+              class="bg-linear-to-r from-purple-500 to-pink-500 h-3 rounded-full transition-all duration-500"
               style="width: 0%"
             >
             </div>
@@ -116,7 +116,7 @@ await writeFile(
           <div class="lg:col-span-7">
             <div class="bg-white/10 backdrop-blur-lg rounded-2xl p-8">
               <h3 class="text-2xl font-bold text-white mb-6 text-center">
-                Character Clues
+                Petunjuk Karakter
               </h3>
               <div id="clues-container" class="space-y-4">
                 <!-- Questions will be dynamically added here -->
@@ -130,32 +130,52 @@ await writeFile(
               class="bg-white/10 backdrop-blur-lg rounded-2xl p-6 sticky top-6"
             >
               <label
-                class="block text-white text-lg font-semibold mb-4 text-center"
-                >Select Your Answer:</label
+                class="block text-2xl font-bold text-white mb-6 text-center"
+                >Pilih Jawabanmu:</label
               >
-              <div
-                class="flex flex-col gap-3 max-h-[600px] overflow-y-auto pr-2"
-                id="character-grid"
-              >
-                {
-                  uniqueCharacters.map((char) => (
-                    <button
-                      type="button"
-                      class="character-option bg-white/10 hover:bg-white/20 rounded-lg p-3 border-2 border-transparent transition-colors duration-200 flex items-center gap-3"
-                      data-char-id={char.char_id}
-                      data-card-id={char.card_id}
-                    >
-                      <img
-                        src={`${import.meta.env.BASE_URL}/images/character_hd/hd_${char.char_id}_${char.card_id}.png`}
-                        alt={char.name_en}
-                        class="w-16 h-16 object-cover rounded-lg flex-shrink-0"
-                      />
-                      <p class="text-white text-sm font-semibold text-left flex-1">
-                        {char.name_en}
-                      </p>
-                    </button>
-                  ))
-                }
+              
+              <!-- Custom Dropdown -->
+              <div class="relative">
+                <button
+                  id="dropdown-button"
+                  type="button"
+                  class="w-full bg-white/10 hover:bg-white/20 rounded-lg p-4 mt-9 border-2 border-white/20 transition-colors duration-200 flex items-center justify-between text-white"
+                >
+                  <span id="selected-text">Pilih karakter...</span>
+                  <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                  </svg>
+                </button>
+                
+                <div
+                  id="dropdown-menu"
+                  class="hidden absolute z-10 w-full mt-2 bg-gray-900/95 backdrop-blur-lg rounded-lg border-2 border-white/20 max-h-96 overflow-y-auto"
+                >
+                  {
+                    uniqueCharacters.map((char) => (
+                      <button
+                        type="button"
+                        class="character-option w-full hover:bg-white/20 p-3 transition-colors duration-200 flex items-center gap-3 border-b border-white/10 last:border-b-0"
+                        data-char-id={char.char_id}
+                        data-card-id={char.card_id}
+                        data-name={char.name_en}
+                      >
+                        <img
+                          src={`${import.meta.env.BASE_URL}/images/character_hd/hd_${char.char_id}_${char.card_id}.png`}
+                          alt={char.name_en}
+                          class="w-12 h-12 object-cover rounded-lg shrink-0"
+                        />
+                        <p class="text-white text-sm font-semibold text-left flex-1">
+                          {char.name_en}
+                        </p>
+                      </button>
+                    ))
+                  }
+                </div>
+              </div>
+
+              <!-- Wrong Answers Display -->
+              <div id="wrong-answers-container" class="mt-6 space-y-4 hidden">
               </div>
             </div>
           </div>

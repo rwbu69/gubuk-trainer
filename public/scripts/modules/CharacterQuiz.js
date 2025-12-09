@@ -127,6 +127,17 @@ export class CharacterQuiz {
       const selectedChar = this.uniqueCharacters.find(
         (c) => c.char_id === selectedCharacterId
       );
+      
+      // Find the full character data with all clue answers
+      const selectedCharData = this.characters.find(
+        (c) => c.char_id === selectedCharacterId
+      );
+      
+      // Display the character's answers
+      if (selectedCharData) {
+        this.displayWrongCharacterAnswers(selectedCharData);
+      }
+      
       resultMessage.textContent = `❌ Wrong! ${selectedChar?.name_en} is not the answer. Revealing next clue...`;
       resultMessage.className =
         "mt-6 p-4 rounded-xl text-center text-xl font-bold bg-red-500/30 text-red-100";
@@ -142,6 +153,36 @@ export class CharacterQuiz {
         }
       }, 1500);
     }
+  }
+
+  displayWrongCharacterAnswers(character) {
+    const container = document.getElementById("wrong-answers-container");
+    container.classList.remove("hidden");
+    
+    const charDiv = document.createElement("div");
+    charDiv.className = "bg-red-900/30 rounded-lg p-3 border-2 border-red-500/50";
+    charDiv.dataset.charId = character.char_id;
+    
+    charDiv.innerHTML = `
+      <div class="flex items-center gap-3">
+        <img
+          src="${this.getBasePath()}/images/character_hd/hd_${character.char_id}_${character.card_id}.png"
+          alt="${character.name_en}"
+          class="w-12 h-12 object-cover rounded-lg flex-shrink-0"
+        />
+        <p class="text-red-200 font-semibold">${character.name_en}</p>
+      </div>
+    `;
+    
+    container.appendChild(charDiv);
+  }
+  
+  getBasePath() {
+    const scriptPath = document.currentScript?.src || window.location.pathname;
+    if (scriptPath.includes('/gubuk-trainer/')) {
+      return '/gubuk-trainer';
+    }
+    return '';
   }
 
   showFinalResults(won) {
@@ -174,6 +215,19 @@ export class CharacterQuiz {
     document.querySelectorAll(".character-option").forEach((button) => {
       button.classList.remove("selected-wrong");
     });
+    
+    // Reset dropdown text
+    const selectedText = document.getElementById("selected-text");
+    if (selectedText) {
+      selectedText.textContent = "Choose a character...";
+    }
+    
+    // Clear wrong answers display
+    const wrongAnswersContainer = document.getElementById("wrong-answers-container");
+    if (wrongAnswersContainer) {
+      wrongAnswersContainer.innerHTML = "";
+      wrongAnswersContainer.classList.add("hidden");
+    }
 
     this.selectRandomCharacter();
     this.initializeClues();
@@ -193,8 +247,32 @@ export class CharacterQuiz {
       .getElementById("restart-btn")
       .addEventListener("click", () => this.restartQuiz());
 
+    // Dropdown toggle
+    const dropdownButton = document.getElementById("dropdown-button");
+    const dropdownMenu = document.getElementById("dropdown-menu");
+    
+    dropdownButton.addEventListener("click", () => {
+      dropdownMenu.classList.toggle("hidden");
+    });
+
+    // Close dropdown when clicking outside
+    document.addEventListener("click", (e) => {
+      if (!dropdownButton.contains(e.target) && !dropdownMenu.contains(e.target)) {
+        dropdownMenu.classList.add("hidden");
+      }
+    });
+
+    // Character selection from dropdown
     document.querySelectorAll(".character-option").forEach((button) => {
-      button.addEventListener("click", (e) => this.handleCharacterClick(e));
+      button.addEventListener("click", (e) => {
+        e.stopPropagation();
+        this.handleCharacterClick(e);
+        
+        // Update dropdown text and close menu
+        const selectedText = document.getElementById("selected-text");
+        selectedText.textContent = button.dataset.name;
+        dropdownMenu.classList.add("hidden");
+      });
     });
   }
 }
