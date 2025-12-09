@@ -1,19 +1,33 @@
-export class CharacterQuiz {
+export class CharacterRandomQuiz {
   constructor(characters, uniqueCharacters) {
     this.characters = characters;
     this.uniqueCharacters = uniqueCharacters;
-    this.questions = [
+    
+    // All available question fields
+    this.allPossibleQuestions = [
+      { key: "title", title: "Title" },
+      { key: "tagline", title: "Tagline" },
       { key: "weight", title: "Weight" },
+      { key: "shoes", title: "Shoes" },
+      { key: "dorm", title: "Dorm" },
+      { key: "class", title: "Class" },
       { key: "ears", title: "Ears" },
-      { key: "weak", title: "Weakness" },
       { key: "tail", title: "Tail" },
       { key: "strong", title: "Strength" },
-      { key: "three_sizes", title: "Three Sizes" },
-      { key: "active", title: "Active Years" },
-      { key: "record", title: "Race Record" },
+      { key: "weak", title: "Weakness" },
+      { key: "family", title: "Family" },
+      { key: "secrets", title: "Secrets" },
       { key: "va_en", title: "Voice Actor (EN)" },
-      { key: "title", title: "Title" },
+      { key: "three_sizes", title: "Three Sizes" },
+      { key: "country", title: "Country" },
+      { key: "death", title: "Death" },
+      { key: "record", title: "Race Record" },
+      { key: "earnings", title: "Earnings (in Yen)" },
+      { key: "active", title: "Active Years" },
+      { key: "release_en", title: "EN Release Date" },
     ];
+    
+    this.questions = [];
     this.revealedClues = 0;
     this.currentAnswer = null;
     this.gameEnded = false;
@@ -21,6 +35,7 @@ export class CharacterQuiz {
 
   init() {
     this.selectRandomCharacter();
+    this.selectRandomQuestions();
     this.initializeClues();
     this.attachEventListeners();
   }
@@ -29,6 +44,12 @@ export class CharacterQuiz {
     const randomIndex = Math.floor(Math.random() * this.characters.length);
     this.currentAnswer = this.characters[randomIndex];
     console.log("Answer:", this.currentAnswer.name_en);
+  }
+
+  selectRandomQuestions() {
+    // Shuffle and pick 10 random questions
+    const shuffled = [...this.allPossibleQuestions].sort(() => Math.random() - 0.5);
+    this.questions = shuffled.slice(0, 10);
   }
 
   initializeClues() {
@@ -219,7 +240,7 @@ export class CharacterQuiz {
     // Reset dropdown text
     const selectedText = document.getElementById("selected-text");
     if (selectedText) {
-      selectedText.textContent = "Pilih Karakter...";
+      selectedText.textContent = "Choose a character...";
     }
     
     // Clear wrong answers display
@@ -230,6 +251,7 @@ export class CharacterQuiz {
     }
 
     this.selectRandomCharacter();
+    this.selectRandomQuestions();
     this.initializeClues();
   }
 
