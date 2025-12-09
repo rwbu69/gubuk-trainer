@@ -1,0 +1,149 @@
+{
+  "url_name": "101701-symboli-rudolf",
+  "card_id": 101701,
+  "char_id": 1017,
+  "name_en": "Symboli Rudolf",
+  "name_jp": "シンボリルドルフ",
+  "name_ko": "심볼리 루돌프",
+  "name_tw": "魯道夫象徵",
+  "title": "Road of Emperor",
+  "title_jp": "[ロード・オブ・エンペラー]",
+  "title_ko": "[로드・오브・엠퍼러]",
+  "title_tw": "[皇帝之路]",
+  "title_en_gl": "[Emperor's Path]",
+  "rarity": 3,
+  "costume": 101701,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "obtained": "gacha",
+  "skills_unique": [
+    100171
+  ],
+  "skills_innate": [
+    200332,
+    201152,
+    200572
+  ],
+  "skills_evo": [
+    {
+      "old": 201151,
+      "new": 101701111
+    },
+    {
+      "old": 200331,
+      "new": 101701211
+    }
+  ],
+  "skills_awakening": [
+    200891,
+    201151,
+    201322,
+    200331
+  ],
+  "skills_event": [
+    200232
+  ],
+  "stat_bonus": [
+    0,
+    20,
+    0,
+    10,
+    0
+  ],
+  "talent_group": 101701,
+  "base_stats": [
+    86,
+    91,
+    83,
+    96,
+    94
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "E",
+    "C",
+    "A",
+    "A",
+    "B",
+    "A",
+    "A",
+    "C"
+  ],
+  "four_star_stats": [
+    96,
+    101,
+    92,
+    107,
+    104
+  ],
+  "five_star_stats": [
+    106,
+    111,
+    101,
+    118,
+    114
+  ],
+  "profile": {
+    "self_intro": "I am Symboli Rudolf. I hold the honor of being the \"Emperor\" who seeks to help all Umamusume reach their true potential. Together, let us forge a path to honor and glory!",
+    "tagline": "The reigning Emperor. Her rule is absolute!",
+    "weight": "Nearly ideal",
+    "shoes": "Left and right: 25.0cm",
+    "dorm": "Miho Dormitory",
+    "class": "Senior Division",
+    "ears": "Twitch noticeably whenever she comes up with a pun",
+    "tail": "Even the hairs on her tail feel electric when she's giving a speech",
+    "strong": "Chess",
+    "weak": "Small talk",
+    "family": "Her parents have been teaching her the art of governing from a young age",
+    "secrets": [
+      "Did you know? She'll always remember a face."
+    ]
+  },
+  "charData": {
+    "url_name": "symboli-rudolf",
+    "char_id": 1017,
+    "jp_name": "シンボリルドルフ",
+    "en_name": "Symboli Rudolf",
+    "name_ko": "심볼리 루돌프",
+    "name_tw": "魯道夫象徵",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "playable_en": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Azusa Tadokoro",
+    "va_ja": "田所あずさ",
+    "va_ko": "타도코로 아즈사",
+    "va_zh_tw": "田所あずさ",
+    "va_link": "https://myanimelist.net/people/17297/Azusa_Tadokoro",
+    "three_sizes": {
+      "b": 86,
+      "w": 59,
+      "h": 85
+    },
+    "birth_day": 13,
+    "birth_month": 3,
+    "birth_year": 1981,
+    "height": 165,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2011-10-04",
+      "races": 16,
+      "wins": 13,
+      "record": "13-1-1-1",
+      "earnings": 684820000,
+      "active": "1983-1986"
+    }
+  },
+  "__file": "101701-symboli-rudolf.json",
+  "has_release_en": true,
+  "has_version": false
+}

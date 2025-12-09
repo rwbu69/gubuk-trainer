@@ -1,0 +1,210 @@
+{
+  "url_name": "105101-nishino-flower",
+  "card_id": 105101,
+  "char_id": 1051,
+  "name_en": "Nishino Flower",
+  "name_jp": "ニシノフラワー",
+  "name_ko": "니시노 플라워",
+  "name_tw": "西野花",
+  "title": "Tiered Petal",
+  "title_jp": "[ティアード・ペタル]",
+  "title_ko": "[티어드・페탈]",
+  "title_tw": "[重瓣花朵]",
+  "title_en_gl": "[Layered Petals]",
+  "rarity": 3,
+  "costume": 105101,
+  "release": "2022-04-11",
+  "release_ko": "2023-07-31",
+  "release_zh_tw": "2023-08-12",
+  "obtained": "gacha",
+  "skills_unique": [
+    100511
+  ],
+  "skills_innate": [
+    200362,
+    201062,
+    201342
+  ],
+  "skills_evo": [
+    {
+      "old": 200361,
+      "new": 105101111
+    },
+    {
+      "old": 200361,
+      "new": 105101121
+    },
+    {
+      "old": 201341,
+      "new": 105101211
+    }
+  ],
+  "skills_awakening": [
+    200652,
+    200361,
+    201392,
+    201341
+  ],
+  "skills_event": [
+    200152,
+    200332,
+    200702,
+    201052,
+    200732,
+    201902
+  ],
+  "stat_bonus": [
+    15,
+    0,
+    15,
+    0,
+    0
+  ],
+  "talent_group": 105101,
+  "base_stats": [
+    93,
+    81,
+    95,
+    86,
+    95
+  ],
+  "aptitude": [
+    "A",
+    "F",
+    "A",
+    "A",
+    "E",
+    "G",
+    "F",
+    "A",
+    "A",
+    "G"
+  ],
+  "four_star_stats": [
+    103,
+    90,
+    105,
+    96,
+    106
+  ],
+  "five_star_stats": [
+    113,
+    99,
+    116,
+    105,
+    117
+  ],
+  "profile": {
+    "char_id": 1051,
+    "ja": {
+      "self_intro": "こんにちは、ニシノフラワーです。みなさんに頼ってもらえるくらい、素敵なおねえさんウマ娘になりたいです…！",
+      "tagline": "花咲く笑顔♪気配り上手なウマ娘",
+      "weight": "増減なし",
+      "shoes": "左右ともに18.5cm",
+      "dorm": "栗東寮",
+      "class": "中等部",
+      "ears": "さわると安心感に包まれ、癒されると評判",
+      "tail": "太陽と、四季折々の花の香りがする",
+      "strong": "家事全般、園芸",
+      "weak": "炭酸ジュース",
+      "family": "両親からもらったじょうろは今も宝物",
+      "secrets": [
+        "実は、お手玉なら永遠に続けられる。",
+        "実は、いい香りの消しゴムを何個もコレクションしている。"
+      ]
+    },
+    "ko": {
+      "self_intro": "안녕하세요, 니시노 플라워입니다. 여러분이 의지할 수 있을 만큼, 멋진 언니 우마무스메가 되고 싶어요…!",
+      "tagline": "꽃피는 미소♪ 사려 깊은 우마무스메",
+      "weight": "변화 없음",
+      "shoes": "좌우 모두 18.5cm",
+      "dorm": "릿토 생활관",
+      "class": "중등부",
+      "ears": "만지면 안도감에 휩싸이며 힐링 받을 수 있다고 한다",
+      "tail": "햇살내음과 사계절 다양한 꽃의 향기가 난다",
+      "strong": "대부분의 집안일, 원예",
+      "weak": "탄산 주스",
+      "family": "부모님이 주신 물뿌리개는 지금도 보물",
+      "secrets": [
+        "사실은 저글링을 영원히 계속할 수 있다.",
+        "사실은 향이 좋은 지우개를 여러 개 수집하고 있다."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "你好，我是西野花。我希望能成為受大家依賴又完美的大姐姐賽馬娘……！",
+      "tagline": "如花盛開的笑容♪體貼入微的賽馬娘",
+      "weight": "無增減",
+      "shoes": "左右都是18.5cm",
+      "dorm": "栗東宿舍",
+      "class": "國中部",
+      "ears": "大家都說摸了後會充滿安心感並被療癒",
+      "tail": "散發出太陽與四季的花香",
+      "strong": "所有家事、園藝",
+      "weak": "氣泡果汁",
+      "family": "雙親送的澆花器至今仍是寶物",
+      "secrets": [
+        "其實她可以一直拋接沙包不會掉下來。",
+        "其實她收藏了好幾個有香味的橡皮擦。"
+      ]
+    },
+    "en": {
+      "self_intro": "Hello. My name is Nishino Flower. My dream is to become the kind of Umamusume that everyone can depend on!",
+      "tagline": "Her smile brightens the room. She's a very thoughtful and kind Umamusume.",
+      "weight": "No change",
+      "shoes": "Left and right: 18.5cm",
+      "dorm": "Ritto Dormitory",
+      "class": "Junior Division",
+      "ears": "Known to be comforting to those who touch them",
+      "tail": "Smells like the sun and the flowers from each season",
+      "strong": "Housework, gardening",
+      "weak": "Carbonated drinks",
+      "family": "Still treasures the watering can her parents gave her",
+      "secrets": [
+        "Did you know? She can juggle forever."
+      ]
+    }
+  },
+  "charData": {
+    "url_name": "nishino-flower",
+    "char_id": 1051,
+    "jp_name": "ニシノフラワー",
+    "en_name": "Nishino Flower",
+    "name_ko": "니시노 플라워",
+    "name_tw": "西野花",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Haruna Kawai",
+    "va_ja": "河井晴菜",
+    "va_ko": "카와이 하루나",
+    "va_zh_tw": "河井晴菜",
+    "va_link": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=134667",
+    "three_sizes": {
+      "b": 67,
+      "w": 48,
+      "h": 70
+    },
+    "birth_day": 19,
+    "birth_month": 4,
+    "birth_year": 1989,
+    "height": 135,
+    "sex": 2,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2020-02-05",
+      "races": 16,
+      "wins": 7,
+      "record": "7-1-3-5",
+      "earnings": 469706600,
+      "active": "1991-1993"
+    }
+  },
+  "__file": "105101-nishino-flower.json",
+  "has_release_en": false,
+  "has_version": false
+}

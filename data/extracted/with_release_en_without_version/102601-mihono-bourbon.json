@@ -1,0 +1,151 @@
+{
+  "url_name": "102601-mihono-bourbon",
+  "card_id": 102601,
+  "char_id": 1026,
+  "name_en": "Mihono Bourbon",
+  "name_jp": "ミホノブルボン",
+  "name_ko": "미호노 부르봉",
+  "name_tw": "美浦波旁",
+  "title": "MB-19890425",
+  "title_jp": "[MB-19890425]",
+  "title_ko": "[MB-19890425]",
+  "title_tw": "[MB-19890425]",
+  "title_en_gl": "[MB-19890425]",
+  "rarity": 3,
+  "costume": 102601,
+  "release": "2021-03-09",
+  "release_ko": "2022-07-04",
+  "release_zh_tw": "2022-07-11",
+  "release_en": "2025-07-02",
+  "obtained": "gacha",
+  "skills_unique": [
+    100261
+  ],
+  "skills_innate": [
+    200232,
+    200532,
+    200712
+  ],
+  "skills_evo": [
+    {
+      "old": 200531,
+      "new": 102601111
+    },
+    {
+      "old": 200711,
+      "new": 102601211
+    }
+  ],
+  "skills_awakening": [
+    201242,
+    200531,
+    201252,
+    200711
+  ],
+  "skills_event": [
+    200162,
+    200552,
+    200372
+  ],
+  "stat_bonus": [
+    0,
+    20,
+    10,
+    0,
+    0
+  ],
+  "talent_group": 102601,
+  "base_stats": [
+    96,
+    72,
+    92,
+    102,
+    88
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "C",
+    "B",
+    "A",
+    "B",
+    "A",
+    "E",
+    "G",
+    "G"
+  ],
+  "four_star_stats": [
+    106,
+    80,
+    102,
+    113,
+    99
+  ],
+  "five_star_stats": [
+    117,
+    88,
+    112,
+    124,
+    109
+  ],
+  "profile": {
+    "self_intro": "My name is Mihono Bourbon. My objective is to win the Triple Crown. Please refer to my specs for information regarding my capabilities.",
+    "tagline": "Always follows commands! The cyborg Umamusume.",
+    "weight": "No change",
+    "shoes": "Left and right: 24.0cm",
+    "dorm": "Ritto Dormitory",
+    "class": "Senior Division",
+    "ears": "Perk right up when they hear a command, even if she's dead asleep",
+    "tail": "Her tail's strong enough that she can stand on it... according to rumors",
+    "strong": "Staring contests",
+    "weak": "Using electronic appliances",
+    "family": "Her family lives an analog lifestyle now because their appliances kept breaking",
+    "secrets": [
+      "Did you know? Thanks to her father, she still thinks something might steal her tail when thunder strikes."
+    ]
+  },
+  "charData": {
+    "url_name": "mihono-bourbon",
+    "char_id": 1026,
+    "jp_name": "ミホノブルボン",
+    "en_name": "Mihono Bourbon",
+    "name_ko": "미호노 부르봉",
+    "name_tw": "美浦波旁",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "playable_en": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Ikumi Hasegawa",
+    "va_ja": "長谷川育美",
+    "va_ko": "하세가와 이쿠미",
+    "va_zh_tw": "長谷川育美",
+    "va_link": "https://myanimelist.net/people/48048/Ikumi_Hasegawa",
+    "three_sizes": {
+      "b": 86,
+      "w": 54,
+      "h": 87
+    },
+    "birth_day": 25,
+    "birth_month": 4,
+    "birth_year": 1989,
+    "height": 160,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2017-02-22",
+      "races": 8,
+      "wins": 7,
+      "record": "7-1-0-0",
+      "earnings": 437300000,
+      "active": "1991-1992"
+    }
+  },
+  "__file": "102601-mihono-bourbon.json",
+  "has_release_en": true,
+  "has_version": false
+}

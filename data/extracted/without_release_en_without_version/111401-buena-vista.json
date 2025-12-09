@@ -1,0 +1,169 @@
+{
+  "url_name": "111401-buena-vista",
+  "card_id": 111401,
+  "char_id": 1114,
+  "name_en": "Buena Vista",
+  "name_jp": "ブエナビスタ",
+  "name_ko": "부에나 비스타",
+  "name_tw": "迷人景致",
+  "title": "Heroína Inocente",
+  "title_jp": "[Heroína Inocente]",
+  "rarity": 3,
+  "costume": 111401,
+  "release": "2025-11-19",
+  "obtained": "gacha",
+  "skills_unique": [
+    101141
+  ],
+  "skills_innate": [
+    204062,
+    202872,
+    201462
+  ],
+  "skills_evo": [
+    {
+      "old": 204061,
+      "new": 111401111
+    },
+    {
+      "old": 202871,
+      "new": 111401211
+    }
+  ],
+  "skills_awakening": [
+    203532,
+    204061,
+    203792,
+    202871
+  ],
+  "skills_event": [
+    203522,
+    200642
+  ],
+  "stat_bonus": [
+    10,
+    0,
+    10,
+    0,
+    10
+  ],
+  "talent_group": 111401,
+  "base_stats": [
+    98,
+    79,
+    100,
+    81,
+    92
+  ],
+  "aptitude": [
+    "A",
+    "F",
+    "G",
+    "A",
+    "A",
+    "C",
+    "G",
+    "B",
+    "A",
+    "A"
+  ],
+  "four_star_stats": [
+    109,
+    88,
+    111,
+    90,
+    102
+  ],
+  "five_star_stats": [
+    120,
+    97,
+    122,
+    99,
+    112
+  ],
+  "profile": {
+    "char_id": 1114,
+    "ja": {
+      "self_intro": "ブエナビスタですっ。私の夢は、約束を果たすこと。――絶景に、辿り着くこと。よろしく、トレーナーさん！…ふふっ",
+      "tagline": "いつか“絶景”へ。ひたむき愛されウマ娘",
+      "weight": "微減（レース前で調整中）",
+      "shoes": "左右ともに23.0cm",
+      "dorm": "栗東寮",
+      "class": "中等部",
+      "ears": "ファンの声を聴き分ける精度はかなりのもの",
+      "tail": "一緒に歩く人の方に、少しだけ傾く",
+      "strong": "お弁当作り、弓道",
+      "weak": "渋滞、サスペンス映画",
+      "family": "なんでも母親の真似をしていた時期がある",
+      "secrets": [
+        "実は、自家製ドレッシングを研究中。",
+        "実は、デーツがちょっぴり苦手。"
+      ]
+    },
+    "ko": {
+      "self_intro": "부에나 비스타입니다. 제 꿈은 약속을 지키는 것. …절경에 도달하는 것. 잘 부탁해요, 트레이너 선생님! …후훗.",
+      "tagline": "언젠가 보았던 '절경'으로. 한결같이 사랑받는 우마무스메",
+      "dorm": "릿토 생활관",
+      "class": "중등부",
+      "secrets": [
+        "사실은 홈메이드 드레싱을 연구 중."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "我是迷人景致。我的夢想是實現約定──抵達絕景。還請多多指教，訓練員……呵呵！",
+      "tagline": "有朝一日將奔向「絕景」。一心逐夢的受寵賽馬娘",
+      "dorm": "栗東宿舍",
+      "class": "國中部",
+      "secrets": [
+        "其實她正在研究自製沙拉醬。"
+      ]
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "url_name": "buena-vista",
+    "char_id": 1114,
+    "jp_name": "ブエナビスタ",
+    "en_name": "Buena Vista",
+    "name_ko": "부에나 비스타",
+    "name_tw": "迷人景致",
+    "playable": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "va_en": "Fuuka Izumi",
+    "va_ja": "和泉風花",
+    "va_ko": "이즈미 후카",
+    "va_zh_tw": "和泉風花",
+    "va_link": "https://myanimelist.net/people/64390/Fuuka_Izumi",
+    "three_sizes": {
+      "b": 81,
+      "w": 56,
+      "h": 81
+    },
+    "birth_day": 14,
+    "birth_month": 3,
+    "birth_year": 2006,
+    "height": 159,
+    "sex": 2,
+    "rl": {
+      "country": "jp",
+      "races": 23,
+      "wins": 9,
+      "record": "23-9-8-3",
+      "earnings": 1386433000,
+      "earnings_other": [
+        [
+          1000000,
+          "AED"
+        ]
+      ],
+      "active": "2008-2011"
+    }
+  },
+  "__file": "111401-buena-vista.json",
+  "has_release_en": false,
+  "has_version": false
+}

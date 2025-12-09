@@ -22,7 +22,5 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 
-# data folder (source files)
-data/
-# Keep generated data files (needed for website to work)
+# Keep public/data for runtime
 !public/data/

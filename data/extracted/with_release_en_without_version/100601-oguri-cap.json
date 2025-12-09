@@ -1,0 +1,154 @@
+{
+  "url_name": "100601-oguri-cap",
+  "card_id": 100601,
+  "char_id": 1006,
+  "name_en": "Oguri Cap",
+  "name_jp": "オグリキャップ",
+  "name_ko": "오구리 캡",
+  "name_tw": "小栗帽",
+  "title": "Starlight Beat",
+  "title_jp": "[スターライトビート]",
+  "title_ko": "[스타라이트 비트]",
+  "title_tw": "[星光躍動]",
+  "title_en_gl": "[Starlight Beat]",
+  "rarity": 3,
+  "costume": 100601,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "obtained": "gacha",
+  "skills_unique": [
+    100061
+  ],
+  "skills_innate": [
+    200342,
+    201062,
+    201352
+  ],
+  "skills_evo": [
+    {
+      "old": 201351,
+      "new": 100601111
+    },
+    {
+      "old": 201351,
+      "new": 100601121
+    },
+    {
+      "old": 200341,
+      "new": 100601211
+    }
+  ],
+  "skills_awakening": [
+    200222,
+    201351,
+    200492,
+    200341
+  ],
+  "skills_event": [
+    200042,
+    201352
+  ],
+  "stat_bonus": [
+    20,
+    0,
+    10,
+    0,
+    0
+  ],
+  "talent_group": 100601,
+  "base_stats": [
+    101,
+    66,
+    106,
+    84,
+    93
+  ],
+  "aptitude": [
+    "A",
+    "B",
+    "E",
+    "A",
+    "A",
+    "B",
+    "F",
+    "A",
+    "A",
+    "D"
+  ],
+  "four_star_stats": [
+    112,
+    74,
+    118,
+    94,
+    102
+  ],
+  "five_star_stats": [
+    124,
+    81,
+    130,
+    103,
+    112
+  ],
+  "profile": {
+    "self_intro": "I'm Oguri Cap. I'll do my best to win for the folks back home. Thanks for your support.",
+    "tagline": "A coolheaded dreamer from the countryside.",
+    "weight": "Slight increase (overate)",
+    "shoes": "Left and right: 27.0cm",
+    "dorm": "Ritto Dormitory",
+    "class": "Senior Division",
+    "ears": "Can tell apart people from her hometown just from their cheers",
+    "tail": "She's flexible enough, so there's no spot she can't reach",
+    "strong": "Eating delicious food",
+    "weak": "Swimming",
+    "family": "Her family always vacations at hot springs, and knows of at least one hidden spring",
+    "secrets": [
+      "Did you know? She's fantastic at trimming her nails just right."
+    ]
+  },
+  "charData": {
+    "url_name": "oguri-cap",
+    "char_id": 1006,
+    "jp_name": "オグリキャップ",
+    "en_name": "Oguri Cap",
+    "name_ko": "오구리 캡",
+    "name_tw": "小栗帽",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "playable_en": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Tomoyo Takayanagi",
+    "va_ja": "高柳知葉",
+    "va_ko": "타카야나기 토모요",
+    "va_zh_tw": "高柳知葉",
+    "va_link": "https://myanimelist.net/people/45241/Tomoyo_Takayanagi",
+    "three_sizes": {
+      "b": 82,
+      "w": 57,
+      "h": 82
+    },
+    "birth_day": 27,
+    "birth_month": 3,
+    "birth_year": 1985,
+    "height": 167,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2010-07-03",
+      "races": 32,
+      "wins": 22,
+      "record": "22-6-1-3",
+      "earnings": 911110000,
+      "active": "1987-1990"
+    }
+  },
+  "__file": "100601-oguri-cap.json",
+  "has_release_en": true,
+  "has_version": false
+}

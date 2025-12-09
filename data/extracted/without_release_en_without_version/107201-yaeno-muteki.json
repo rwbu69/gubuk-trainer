@@ -1,0 +1,208 @@
+{
+  "url_name": "107201-yaeno-muteki",
+  "card_id": 107201,
+  "char_id": 1072,
+  "name_en": "Yaeno Muteki",
+  "name_jp": "ヤエノムテキ",
+  "name_ko": "야에노 무테키",
+  "name_tw": "八重無敵",
+  "title": "Attack of the Four White Meteors",
+  "title_jp": "[四白流星の襲]",
+  "title_ko": "[사백유성의 습격]",
+  "title_tw": "[四白流星襲擊]",
+  "title_en_gl": "[Blazed Head, Covered Fists]",
+  "rarity": 3,
+  "costume": 107201,
+  "release": "2022-04-19",
+  "release_ko": "2023-08-08",
+  "release_zh_tw": "2023-08-20",
+  "obtained": "gacha",
+  "skills_unique": [
+    100721
+  ],
+  "skills_innate": [
+    200462,
+    200732,
+    201322
+  ],
+  "skills_evo": [
+    {
+      "old": 200461,
+      "new": 107201111
+    },
+    {
+      "old": 200731,
+      "new": 107201211
+    },
+    {
+      "old": 200731,
+      "new": 107201221
+    }
+  ],
+  "skills_awakening": [
+    202092,
+    200461,
+    200342,
+    200731
+  ],
+  "skills_event": [
+    200132,
+    201661,
+    200462,
+    200512
+  ],
+  "stat_bonus": [
+    0,
+    0,
+    20,
+    10,
+    0
+  ],
+  "talent_group": 107201,
+  "base_stats": [
+    92,
+    81,
+    97,
+    97,
+    83
+  ],
+  "aptitude": [
+    "A",
+    "E",
+    "G",
+    "B",
+    "A",
+    "E",
+    "F",
+    "A",
+    "A",
+    "G"
+  ],
+  "four_star_stats": [
+    103,
+    90,
+    108,
+    108,
+    91
+  ],
+  "five_star_stats": [
+    113,
+    99,
+    119,
+    119,
+    100
+  ],
+  "profile": {
+    "char_id": 1072,
+    "ja": {
+      "self_intro": "ヤエノムテキです。金剛八重垣流の門弟として、強者とのレースを所望します。いざ、尋常に勝負！！",
+      "tagline": "武を以て礼節を成し、駆ける。無骨なウマ娘",
+      "weight": "増減なし",
+      "shoes": "左右ともに24.0cm",
+      "dorm": "栗東寮",
+      "class": "高等部",
+      "ears": "可愛い声を聞くとほんのり赤くなる",
+      "tail": "飛来してきたものを叩き落せるほど強靭",
+      "strong": "裁縫、雑巾がけ",
+      "weak": "正座、買い食い",
+      "family": "帰省した時は必ず祖父の肩たたきをする",
+      "secrets": [
+        "実は、動揺すると幼児のような字しか書けなくなる。",
+        "実は、動物モノの映画は予告で泣いてしまうので見られない。"
+      ]
+    },
+    "ko": {
+      "self_intro": "야에노 무테키입니다. 콘고 야에가키류의 문하생으로서 강자와의 레이스를 바랍니다. 자, 정정당당하게 승부를!!",
+      "tagline": "무예로 예를 갖추고 달린다. 무뚝뚝한 우마무스메",
+      "weight": "변화 없음",
+      "shoes": "좌우 모두 24.0cm",
+      "dorm": "릿토 생활관",
+      "class": "고등부",
+      "ears": "귀엽다는 소리를 들으면 발그레해진다",
+      "tail": "날아온 것을 쳐낼 수 있을 만큼 강인",
+      "strong": "바느질, 걸레질",
+      "weak": "정좌, 군것질",
+      "family": "귀성하면 반드시 할아버지 어깨를 안마해드린다",
+      "secrets": [
+        "사실은 동요하면 어린애 같은 글씨밖에 못 쓴다.",
+        "사실은 동물 영화는 예고만 봐도 울어버리는 바람에 못 본다."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "我是八重無敵。身為金剛八重垣流的門徒，我期望能跟強者競賽。讓我們堂堂正正地一決勝負吧！！",
+      "tagline": "以武術展現禮儀並奔馳。個性粗曠的賽馬娘",
+      "weight": "無增減",
+      "shoes": "左右都是24.0cm",
+      "dorm": "栗東宿舍",
+      "class": "高中部",
+      "ears": "聽見可愛的聲音會稍微泛紅",
+      "tail": "強韌到可以把飛過來的東西給擊落",
+      "strong": "裁縫、用抹布擦地板",
+      "weak": "跪坐、買零食邊走邊吃",
+      "family": "返鄉時一定會幫爺爺捶肩膀",
+      "secrets": [
+        "其實她心生動搖時，只能寫出幼童般的字。",
+        "其實她因為在預告時段就會忍不住想哭，所以看不了動物主題電影。"
+      ]
+    },
+    "en": {
+      "self_intro": "I am Yaeno Muteki. As a student of the Kongo Yaegaki style, I am always in search of honorable opponents with whom to race. Let us fight fair and square!",
+      "tagline": "She runs with the dignity of a warrior. This Umamusume is rough and rugged.",
+      "weight": "No change",
+      "shoes": "Left and right: 24.0cm",
+      "dorm": "Ritto Dormitory",
+      "class": "Senior Division",
+      "ears": "Turn ever so slightly red upon hearing a cute voice",
+      "tail": "Strong enough to knock down incoming projectiles",
+      "strong": "Sewing, wiping floors",
+      "weak": "Kneeling, eating on the street",
+      "family": "Always gives her grandfather a shoulder massage when she visits home",
+      "secrets": [
+        "Did you know? When she's agitated, it really shows in her handwriting."
+      ]
+    }
+  },
+  "charData": {
+    "url_name": "yaeno-muteki",
+    "char_id": 1072,
+    "jp_name": "ヤエノムテキ",
+    "en_name": "Yaeno Muteki",
+    "name_ko": "야에노 무테키",
+    "name_tw": "八重無敵",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Ayumi Hinohara",
+    "va_ja": "日原あゆみ",
+    "va_ko": "히노하라 아유미",
+    "va_zh_tw": "日原あゆみ",
+    "va_link": "https://www.sma.co.jp/s/sma/artist/549?ima=0000#/news/0",
+    "three_sizes": {
+      "b": 78,
+      "w": 54,
+      "h": 81
+    },
+    "birth_day": 11,
+    "birth_month": 4,
+    "birth_year": 1985,
+    "height": 159,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2014-03-28",
+      "races": 23,
+      "wins": 8,
+      "record": "8-4-3-8",
+      "earnings": 524227500,
+      "active": "1988-1990"
+    }
+  },
+  "__file": "107201-yaeno-muteki.json",
+  "has_release_en": false,
+  "has_version": false
+}

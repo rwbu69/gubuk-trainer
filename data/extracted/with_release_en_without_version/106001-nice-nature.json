@@ -1,0 +1,165 @@
+{
+  "url_name": "106001-nice-nature",
+  "card_id": 106001,
+  "char_id": 1060,
+  "name_en": "Nice Nature",
+  "name_jp": "ナイスネイチャ",
+  "name_ko": "나이스 네이처",
+  "name_tw": "優秀素質",
+  "title": "Poinsettia Ribbon",
+  "title_jp": "[ポインセチア・リボン]",
+  "title_ko": "[포인세티아・리본]",
+  "title_tw": "[聖誕紅緞帶]",
+  "title_en_gl": "[Poinsettia Ribbon]",
+  "rarity": 1,
+  "costume": 106001,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "obtained": "gacha",
+  "skills_unique": [
+    10601,
+    100601
+  ],
+  "skills_innate": [
+    200122,
+    201162,
+    201442
+  ],
+  "skills_evo": [
+    {
+      "old": 201161,
+      "new": 106001111
+    },
+    {
+      "old": 201441,
+      "new": 106001211
+    }
+  ],
+  "skills_awakening": [
+    200911,
+    201161,
+    201422,
+    201441
+  ],
+  "skills_event": [
+    201432,
+    200512
+  ],
+  "stat_bonus": [
+    0,
+    0,
+    20,
+    0,
+    10
+  ],
+  "talent_group": 106001,
+  "base_stats": [
+    86,
+    72,
+    89,
+    69,
+    84
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "G",
+    "C",
+    "A",
+    "A",
+    "F",
+    "B",
+    "A",
+    "D"
+  ],
+  "two_star_stats": [
+    91,
+    76,
+    95,
+    74,
+    89
+  ],
+  "three_star_stats": [
+    97,
+    81,
+    100,
+    78,
+    94
+  ],
+  "four_star_stats": [
+    107,
+    90,
+    112,
+    87,
+    104
+  ],
+  "five_star_stats": [
+    118,
+    99,
+    123,
+    96,
+    114
+  ],
+  "profile": {
+    "self_intro": "Hey. I'm Nice Nature. Haha, truth is, I don't really live up to people's expectations of me, but... that's cool too, you know? I prefer to take it easy.",
+    "tagline": "Don't expect much from her. This Umamusume is super cynical.",
+    "weight": "No change",
+    "shoes": "Left and right: 22.0cm",
+    "dorm": "Ritto Dormitory",
+    "class": "Junior Division",
+    "ears": "Always jerk a little anytime she hears \"Natie\"",
+    "tail": "She secretly brushes it late at night",
+    "strong": "Table tennis, finding new snacks",
+    "weak": "Social media",
+    "family": "Articles about her are displayed on the walls of her family's bar",
+    "secrets": [
+      "Did you know? She's an expert at using up leftovers in the fridge."
+    ]
+  },
+  "charData": {
+    "url_name": "nice-nature",
+    "char_id": 1060,
+    "jp_name": "ナイスネイチャ",
+    "en_name": "Nice Nature",
+    "name_ko": "나이스 네이처",
+    "name_tw": "優秀素質",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "playable_en": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Kaori Maeda",
+    "va_ja": "前田佳織里",
+    "va_ko": "마에다 카오리",
+    "va_zh_tw": "前田佳織里",
+    "va_link": "https://myanimelist.net/people/48147/Kaori_Maeda",
+    "three_sizes": {
+      "b": 79,
+      "w": 56,
+      "h": 80
+    },
+    "birth_day": 16,
+    "birth_month": 4,
+    "birth_year": 1988,
+    "height": 157,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2023-05-30",
+      "races": 41,
+      "wins": 7,
+      "record": "7-6-8-20",
+      "earnings": 623585600,
+      "active": "1990-1996"
+    }
+  },
+  "__file": "106001-nice-nature.json",
+  "has_release_en": true,
+  "has_version": false
+}
