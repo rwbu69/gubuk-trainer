@@ -1,6 +1,5 @@
 # build output
 dist/
-
 # generated types
 .astro/
 
@@ -22,3 +21,8 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# data folder (source files)
+data/
+# Keep generated data files (needed for website to work)
+!public/data/
