@@ -1,0 +1,206 @@
+{
+  "url_name": "106002-nice-nature",
+  "card_id": 106002,
+  "char_id": 1060,
+  "name_en": "Nice Nature",
+  "name_jp": "ナイスネイチャ",
+  "name_ko": "나이스 네이처",
+  "name_tw": "優秀素質",
+  "version": "cheerleader",
+  "title": "RUN＆WIN",
+  "title_jp": "[RUN＆WIN]",
+  "title_ko": "[RUN&WIN]",
+  "title_tw": "[RUN＆WIN]",
+  "title_en_gl": "[Run & Win]",
+  "rarity": 3,
+  "costume": 106050,
+  "release": "2022-04-28",
+  "release_ko": "2023-08-17",
+  "release_zh_tw": "2023-08-29",
+  "obtained": "gacha",
+  "skills_unique": [
+    110601
+  ],
+  "skills_innate": [
+    200492,
+    201152,
+    201542
+  ],
+  "skills_evo": [
+    {
+      "old": 201151,
+      "new": 106002111
+    },
+    {
+      "old": 200491,
+      "new": 106002211
+    }
+  ],
+  "skills_awakening": [
+    202082,
+    201151,
+    200302,
+    200491
+  ],
+  "skills_event": [
+    201432,
+    201402,
+    202122,
+    200512
+  ],
+  "stat_bonus": [
+    0,
+    10,
+    10,
+    0,
+    10
+  ],
+  "talent_group": 106002,
+  "base_stats": [
+    86,
+    86,
+    94,
+    86,
+    98
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "G",
+    "C",
+    "A",
+    "A",
+    "F",
+    "B",
+    "A",
+    "D"
+  ],
+  "four_star_stats": [
+    95,
+    95,
+    105,
+    95,
+    110
+  ],
+  "five_star_stats": [
+    105,
+    105,
+    115,
+    105,
+    120
+  ],
+  "profile": {
+    "char_id": 1060,
+    "ja": {
+      "self_intro": "あー…ナイスネイチャでーす。あはは、やっぱ『素晴らしい素質』なんて名前負けですよねー…まーぼちぼちやってきましょ？",
+      "tagline": "期待はノーサンキュー？なシニカルガール",
+      "weight": "増減なし",
+      "shoes": "左右ともに22.0cm",
+      "dorm": "栗東寮",
+      "class": "中等部",
+      "ears": "ネーチャンと聞くとつい反応してしまう",
+      "tail": "夜中にこっそり手入れしている",
+      "strong": "卓球、美味しいおつまみ探し",
+      "weak": "SNS",
+      "family": "実家のスナックには娘の記事が飾ってある",
+      "secrets": [
+        "実は、冷蔵庫の余りもの整理の達人。",
+        "実は、折り紙が得意。"
+      ]
+    },
+    "ko": {
+      "self_intro": "아… 나이스 네이처입니다~ 아하하, 역시 『멋진 소질』이라는 이름값을 못한다고나 할까… 뭐, 슬슬 해보자구요~",
+      "tagline": "기대는 사절인 시니컬한 소녀",
+      "weight": "변화 없음",
+      "shoes": "좌우 모두 22.0cm",
+      "dorm": "릿토 생활관",
+      "class": "중등부",
+      "ears": "네짱이라는 말을 들으면 무의식적으로 반응한다",
+      "tail": "밤중에 몰래 손질한다.",
+      "strong": "탁구, 맛있는 안주 찾기",
+      "weak": "SNS",
+      "family": "집에서 하는 가게에 딸에 대한 기사를 걸어두었다.",
+      "secrets": [
+        "사실은 냉장고 속 남은 재료 정리하기 달인.",
+        "사실은 종이접기가 특기."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "啊……我是優秀素質～啊哈哈。不過感覺還是沒辦法名符其實吧……唉～總之就一點一點努力吧？",
+      "tagline": "謝絕期待？語中帶刺的女孩",
+      "weight": "無增減",
+      "shoes": "左右都是22.0cm",
+      "dorm": "栗東宿舍",
+      "class": "國中部",
+      "ears": "聽到有人說到數值就會忍不住有反應",
+      "tail": "都在深夜偷偷地保養",
+      "strong": "桌球、尋找美味小菜",
+      "weak": "社群平台",
+      "family": "老家開的小酒館貼著女兒的報導",
+      "secrets": [
+        "其實她是整理冰箱空間的高手。",
+        "其實她很擅長摺紙。"
+      ]
+    },
+    "en": {
+      "self_intro": "Hey. I'm Nice Nature. Haha, truth is, I don't really live up to people's expectations of me, but... that's cool too, you know? I prefer to take it easy.",
+      "tagline": "Don't expect much from her. This Umamusume is super cynical.",
+      "weight": "No change",
+      "shoes": "Left and right: 22.0cm",
+      "dorm": "Ritto Dormitory",
+      "class": "Junior Division",
+      "ears": "Always jerk a little anytime she hears \"Natie\"",
+      "tail": "She secretly brushes it late at night",
+      "strong": "Table tennis, finding new snacks",
+      "weak": "Social media",
+      "family": "Articles about her are displayed on the walls of her family's bar",
+      "secrets": [
+        "Did you know? She's an expert at using up leftovers in the fridge."
+      ]
+    }
+  },
+  "charData": {
+    "url_name": "nice-nature",
+    "char_id": 1060,
+    "jp_name": "ナイスネイチャ",
+    "en_name": "Nice Nature",
+    "name_ko": "나이스 네이처",
+    "name_tw": "優秀素質",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "playable_en": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Kaori Maeda",
+    "va_ja": "前田佳織里",
+    "va_ko": "마에다 카오리",
+    "va_zh_tw": "前田佳織里",
+    "va_link": "https://myanimelist.net/people/48147/Kaori_Maeda",
+    "three_sizes": {
+      "b": 79,
+      "w": 56,
+      "h": 80
+    },
+    "birth_day": 16,
+    "birth_month": 4,
+    "birth_year": 1988,
+    "height": 157,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2023-05-30",
+      "races": 41,
+      "wins": 7,
+      "record": "7-6-8-20",
+      "earnings": 623585600,
+      "active": "1990-1996"
+    }
+  },
+  "__file": "106002-nice-nature.json",
+  "has_release_en": false,
+  "has_version": true
+}

@@ -1,0 +1,169 @@
+{
+  "url_name": "109701-still-in-love",
+  "card_id": 109701,
+  "char_id": 1097,
+  "name_en": "Still in Love",
+  "name_jp": "スティルインラブ",
+  "name_ko": "스틸 인 러브",
+  "name_tw": "愛如往昔",
+  "title": "Scarlet Vow Raiment",
+  "title_jp": "[緋想の誓衣]",
+  "rarity": 3,
+  "costume": 109701,
+  "release": "2025-08-24",
+  "obtained": "gacha",
+  "skills_unique": [
+    100971
+  ],
+  "skills_innate": [
+    203792,
+    203781,
+    203802
+  ],
+  "skills_evo": [
+    {
+      "old": 203791,
+      "new": 109701111
+    },
+    {
+      "old": 203801,
+      "new": 109701211
+    },
+    {
+      "old": 203801,
+      "new": 109701221
+    }
+  ],
+  "skills_awakening": [
+    203812,
+    203791,
+    203822,
+    203801
+  ],
+  "skills_event": [
+    203332,
+    201392,
+    200272
+  ],
+  "stat_bonus": [
+    0,
+    10,
+    10,
+    10,
+    0
+  ],
+  "talent_group": 109701,
+  "base_stats": [
+    91,
+    89,
+    97,
+    90,
+    83
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "C",
+    "A",
+    "A",
+    "G",
+    "G",
+    "A",
+    "A",
+    "F"
+  ],
+  "four_star_stats": [
+    101,
+    99,
+    108,
+    100,
+    92
+  ],
+  "five_star_stats": [
+    112,
+    109,
+    119,
+    110,
+    100
+  ],
+  "profile": {
+    "char_id": 1097,
+    "ja": {
+      "self_intro": "スティルインラブです…。私は…いえ。取り立てて、語るべきことなどありません…あるのは、ええ…秘すべきこと、だけ…",
+      "tagline": "良識と本能の板挟み。渇きを抱く妖艶の君",
+      "weight": "魅惑的",
+      "shoes": "左右ともに23.0cm",
+      "dorm": "栗東寮",
+      "class": "中等部",
+      "ears": "ひたむきにトレーナーの方を向く",
+      "tail": "揺れるとほのかにいい香りがする",
+      "strong": "ボビンレース、赤い果実のジャムづくり",
+      "weak": "大きな姿見、香りの強い食べ物、満月",
+      "family": "父とはよく歴史談義をする",
+      "secrets": [
+        "実は、お菓子があると幸せ。コーヒーもあると、もっと幸せ。",
+        "実は、よく鏡の前で笑顔を練習している。"
+      ]
+    },
+    "ko": {
+      "self_intro": "스틸 인 러브입니다…. 저는… 아뇨. 딱히, 할 말은 없어요… 있는 건, 네… 감춰야 할 것, 뿐…",
+      "tagline": "이성과 본능의 딜레마. 갈증에 시달리는 요염한 그대.",
+      "dorm": "릿토 생활관",
+      "class": "중등부",
+      "secrets": [
+        "사실은 과자가 있으면 행복해 한다. 커피를 곁들이면 더욱 그렇다."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "我是愛如往昔……我……沒什麼。沒有什麼特別要說的事……真要說的話，就只有……得保密的事……",
+      "tagline": "在理智與本能之間左右為難。內心充滿渴望的妖豔少女",
+      "dorm": "栗東宿舍",
+      "class": "國中部",
+      "secrets": [
+        "其實她有點心就會覺得很幸福，還有咖啡的話會更幸福。"
+      ]
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "url_name": "still-in-love",
+    "char_id": 1097,
+    "jp_name": "スティルインラブ",
+    "en_name": "Still in Love",
+    "name_ko": "스틸 인 러브",
+    "name_tw": "愛如往昔",
+    "playable": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "va_en": "Saki Miyashita",
+    "va_ja": "宮下早紀",
+    "va_ko": "미야시타 사키",
+    "va_zh_tw": "宮下早紀",
+    "va_link": "https://myanimelist.net/people/47669/Saki_Miyashita",
+    "three_sizes": {
+      "b": 72,
+      "w": 50,
+      "h": 76
+    },
+    "birth_day": 2,
+    "birth_month": 5,
+    "birth_year": 2000,
+    "height": 153,
+    "sex": 2,
+    "rl": {
+      "country": "jp",
+      "death": "2007-08-02",
+      "races": 16,
+      "wins": 5,
+      "record": "16-5-2-1",
+      "earnings": 437778000,
+      "active": "2002-2005"
+    }
+  },
+  "__file": "109701-still-in-love.json",
+  "has_release_en": false,
+  "has_version": false
+}

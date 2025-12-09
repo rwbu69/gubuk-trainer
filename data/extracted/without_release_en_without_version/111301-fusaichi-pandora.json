@@ -1,0 +1,144 @@
+{
+  "url_name": "111301-fusaichi-pandora",
+  "card_id": 111301,
+  "char_id": 1113,
+  "name_en": "Fusaichi Pandora",
+  "name_jp": "フサイチパンドラ",
+  "title": "Assorted Cuteness♡",
+  "title_jp": "[Assorted Cuteness♡]",
+  "rarity": 3,
+  "costume": 111301,
+  "release": "2025-07-22",
+  "obtained": "gacha",
+  "skills_unique": [
+    101131
+  ],
+  "skills_innate": [
+    200722,
+    201902,
+    203112
+  ],
+  "skills_evo": [
+    {
+      "old": 200721,
+      "new": 111301111
+    },
+    {
+      "old": 201901,
+      "new": 111301211
+    }
+  ],
+  "skills_awakening": [
+    200012,
+    200721,
+    201342,
+    201901
+  ],
+  "skills_event": [
+    201631
+  ],
+  "stat_bonus": [
+    0,
+    10,
+    0,
+    10,
+    10
+  ],
+  "talent_group": 111301,
+  "base_stats": [
+    95,
+    94,
+    85,
+    83,
+    93
+  ],
+  "aptitude": [
+    "A",
+    "E",
+    "G",
+    "B",
+    "A",
+    "G",
+    "C",
+    "A",
+    "B",
+    "F"
+  ],
+  "four_star_stats": [
+    106,
+    105,
+    94,
+    92,
+    103
+  ],
+  "five_star_stats": [
+    116,
+    115,
+    104,
+    102,
+    113
+  ],
+  "profile": {
+    "char_id": 1113,
+    "ja": {
+      "self_intro": "フサイチパンドラちゃんで～す♡あたしまーじ天才だし、手かかんないよ♡だ～か～ら～、根性系とかナシ方向でよろ♡",
+      "tagline": "飛び出せ！無限の希望とマシュマロハート♡",
+      "weight": "いーかんじ♡",
+      "shoes": "左右ともに24.0cm",
+      "dorm": "栗東寮",
+      "class": "中等部",
+      "ears": "ガチおねだりのときは極限まで垂らす",
+      "tail": "寝ているときの荒ぶり方が恐れられている",
+      "strong": "だいたいぜ～んぶ♡（早着替え、口笛）",
+      "weak": "キツすぎちゃうのはイヤ",
+      "family": "家族全員、旅行前日は眠れないタイプ",
+      "secrets": [
+        "実は、自称くじ引き強者。（底から引くのがコ・ツ♡）",
+        "実は、なんかよさげな枕を見かけると即買いしてしまう。"
+      ]
+    },
+    "ko": {
+      "secrets": []
+    },
+    "zh_tw": {
+      "secrets": []
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "url_name": "fusaichi-pandora",
+    "char_id": 1113,
+    "jp_name": "フサイチパンドラ",
+    "en_name": "Fusaichi Pandora",
+    "playable": true,
+    "active": true,
+    "va_en": "Moe Kahara",
+    "va_ja": "佳原萌枝",
+    "va_link": "https://myanimelist.net/people/53530/Moe_Kahara",
+    "three_sizes": {
+      "b": 92,
+      "w": 61,
+      "h": 86
+    },
+    "birth_day": 27,
+    "birth_month": 2,
+    "birth_year": 2003,
+    "height": 165,
+    "sex": 2,
+    "race": false,
+    "rl": {
+      "country": "jp",
+      "death": "2017-10-28",
+      "races": 21,
+      "wins": 4,
+      "record": "21-4-4-4",
+      "earnings": 378113000,
+      "active": "2005-2007"
+    }
+  },
+  "__file": "111301-fusaichi-pandora.json",
+  "has_release_en": false,
+  "has_version": false
+}

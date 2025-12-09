@@ -1,0 +1,207 @@
+{
+  "url_name": "106401-mejiro-palmer",
+  "card_id": 106401,
+  "char_id": 1064,
+  "name_en": "Mejiro Palmer",
+  "name_jp": "メジロパーマー",
+  "name_ko": "메지로 파머",
+  "name_tw": "目白善信",
+  "title": "Line Breakthrough",
+  "title_jp": "[Line Breakthrough]",
+  "title_ko": "[Line Breakthrough]",
+  "title_tw": "[Line Breakthrough]",
+  "title_en_gl": "[Line Breakthrough]",
+  "rarity": 3,
+  "costume": 106401,
+  "release": "2022-05-20",
+  "release_ko": "2023-09-08",
+  "release_zh_tw": "2023-09-21",
+  "obtained": "gacha",
+  "skills_unique": [
+    100641
+  ],
+  "skills_innate": [
+    201661,
+    201242,
+    201192
+  ],
+  "skills_evo": [
+    {
+      "old": 201662,
+      "new": 106401111
+    },
+    {
+      "old": 201191,
+      "new": 106401211
+    },
+    {
+      "old": 201191,
+      "new": 106401221
+    }
+  ],
+  "skills_awakening": [
+    200532,
+    201662,
+    200302,
+    201191
+  ],
+  "skills_event": [
+    201522,
+    201631,
+    202051
+  ],
+  "stat_bonus": [
+    10,
+    10,
+    0,
+    10,
+    0
+  ],
+  "talent_group": 106401,
+  "base_stats": [
+    92,
+    103,
+    76,
+    91,
+    88
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "G",
+    "F",
+    "A",
+    "A",
+    "A",
+    "E",
+    "F",
+    "G"
+  ],
+  "four_star_stats": [
+    102,
+    115,
+    84,
+    101,
+    98
+  ],
+  "five_star_stats": [
+    112,
+    126,
+    93,
+    111,
+    108
+  ],
+  "profile": {
+    "char_id": 1064,
+    "ja": {
+      "self_intro": "メジロパーマーだよ！元気してる～？ま、なんかあったらいつでも聞くからさ。気軽に話しちゃってよ♪",
+      "tagline": "気楽にいこーよ。頼れるポジティブギャル",
+      "weight": "微減 ",
+      "shoes": "左右ともに24.0cm",
+      "dorm": "栗東寮",
+      "class": "高等部",
+      "ears": "風向きと風の強さを感知できる",
+      "tail": "他人の脚をくすぐって笑わせることがある",
+      "strong": "ゴルフ、穴掘り",
+      "weak": "ハードル走",
+      "family": "父はゴルフの師匠だが、スコアは逆転した",
+      "secrets": [
+        "実は、教わったパリピ語をすべて日記に残している。",
+        "実は、日焼け止めはとにかくいいものを使う主義。"
+      ]
+    },
+    "ko": {
+      "self_intro": "메지로 파머야! 잘 지내~? 뭐, 무슨 일 있으면 언제든 들어 줄게. 마음 편하게 말하라고♪",
+      "tagline": "마음 편하게 가자. 든든한 포지티브 걸",
+      "weight": "약간 감소",
+      "shoes": "좌우 모두 24.0cm",
+      "dorm": "릿토 생활관",
+      "class": "고등부",
+      "ears": "풍향과 바람의 세기를 감지할 수 있다",
+      "tail": "다른 사람의 다리를 간지럽혀서 웃게 만들 때가 있다",
+      "strong": "골프, 구멍 파기",
+      "weak": "허들 경주",
+      "family": "아버지는 골프 스승이지만, 스코어는 역전됐다",
+      "secrets": [
+        "사실은 배운 인싸 감성 용어를 전부 일기에 적어두고 있다.",
+        "사실은 자외선 차단제는 아무튼 좋은 것을 쓰는 편."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "我是目白善信！今天過得好嗎～？什麼事情都可以跟我說，隨時都能找我聊聊喔♪",
+      "tagline": "放輕鬆一點──可靠的樂觀辣妹",
+      "weight": "微減 ",
+      "shoes": "左右都是24.0cm",
+      "dorm": "栗東宿舍",
+      "class": "高中部",
+      "ears": "可以察覺風向和風的強度",
+      "tail": "曾用尾巴搔別人的腳而讓對方笑出來",
+      "strong": "高爾夫球、挖洞",
+      "weak": "障礙賽",
+      "family": "逆轉勝過了教自己高爾夫的父親",
+      "secrets": [
+        "其實她把學到的玩咖語都寫在日記裡。",
+        "其實她對防曬油的主張是總之只用最好的牌子。"
+      ]
+    },
+    "en": {
+      "self_intro": "I'm Mejiro Palmer! How ya doing? I'm always around if you need me, so don't be shy! ♪",
+      "tagline": "Let's have a good time! This Umamusume is upbeat and always there for friends.",
+      "weight": "Slightly down",
+      "shoes": "Left and right: 24.0cm",
+      "dorm": "Ritto Dormitory",
+      "class": "Senior Division",
+      "ears": "Can sense wind speed and direction",
+      "tail": "Has a tendency to tickle people's legs",
+      "strong": "Golf, digging holes",
+      "weak": "Hurdles",
+      "family": "Her father taught her how to golf, but her handicap is now lower than his",
+      "secrets": [
+        "Did you know? She writes down any slang she learns in her journal."
+      ]
+    }
+  },
+  "charData": {
+    "url_name": "mejiro-palmer",
+    "char_id": 1064,
+    "jp_name": "メジロパーマー",
+    "en_name": "Mejiro Palmer",
+    "name_ko": "메지로 파머",
+    "name_tw": "目白善信",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Yuri Noguchi",
+    "va_ja": "のぐちゆり",
+    "va_ko": "노구치 유리",
+    "va_zh_tw": "のぐちゆり",
+    "va_link": "https://myanimelist.net/people/36811/Yuri_Noguchi",
+    "three_sizes": {
+      "b": 84,
+      "w": 57,
+      "h": 86
+    },
+    "birth_day": 21,
+    "birth_month": 3,
+    "birth_year": 1987,
+    "height": 160,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2012-04-07",
+      "races": 38,
+      "wins": 9,
+      "record": "9-5-2-22",
+      "earnings": 536742200,
+      "active": "1989-1994"
+    }
+  },
+  "__file": "106401-mejiro-palmer.json",
+  "has_release_en": false,
+  "has_version": false
+}

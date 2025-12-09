@@ -1,0 +1,188 @@
+{
+  "url_name": "109801-copano-rickey",
+  "card_id": 109801,
+  "char_id": 1098,
+  "name_en": "Copano Rickey",
+  "name_jp": "コパノリッキー",
+  "name_ko": "코파노 리키",
+  "name_tw": "小林歷奇",
+  "title": "Yin-yang Bagua ☆ Lucky Costume",
+  "title_jp": "[陰陽八卦☆開運衣]",
+  "title_ko": "[음양팔괘☆운이 트이는 옷]",
+  "title_tw": "[陰陽八卦☆開運衣]",
+  "rarity": 3,
+  "costume": 109801,
+  "release": "2022-08-19",
+  "release_ko": "2023-12-08",
+  "release_zh_tw": "2023-12-22",
+  "obtained": "gacha",
+  "skills_unique": [
+    100981
+  ],
+  "skills_innate": [
+    202262,
+    201532,
+    201112
+  ],
+  "skills_evo": [
+    {
+      "old": 202261,
+      "new": 109801111
+    },
+    {
+      "old": 202331,
+      "new": 109801211
+    }
+  ],
+  "skills_awakening": [
+    202332,
+    202261,
+    202252,
+    202331
+  ],
+  "skills_event": [
+    202332,
+    201672,
+    201682
+  ],
+  "stat_bonus": [
+    0,
+    0,
+    10,
+    0,
+    20
+  ],
+  "talent_group": 109801,
+  "base_stats": [
+    93,
+    87,
+    93,
+    87,
+    90
+  ],
+  "aptitude": [
+    "F",
+    "A",
+    "C",
+    "A",
+    "A",
+    "G",
+    "A",
+    "A",
+    "C",
+    "G"
+  ],
+  "four_star_stats": [
+    104,
+    97,
+    103,
+    96,
+    100
+  ],
+  "five_star_stats": [
+    114,
+    107,
+    113,
+    106,
+    110
+  ],
+  "profile": {
+    "char_id": 1098,
+    "ja": {
+      "self_intro": "リッキー☆ラッキー☆大吉祥☆コパノリッキーだよっ！風水の力でキミにもハッピーを呼び込んであげる♪",
+      "tagline": "リッキー☆ラッキー☆世話焼き系・風水娘☆",
+      "weight": "秘密☆",
+      "shoes": "左右ともに25.0cm",
+      "dorm": "栗東寮",
+      "class": "中等部",
+      "ears": "両耳のカバーはパパの手作り",
+      "tail": "その日の吉方位に向かってパタパタしがち",
+      "strong": "掃除、断捨離、植物の世話",
+      "weak": "ホコリっぽい場所",
+      "family": "きょうだいが多いから、とっても賑やか☆",
+      "secrets": [
+        "実は、かしわ餅は無限に食べられるくらい好き。",
+        "実は、ちびっこたちの初恋ハンター。"
+      ]
+    },
+    "ko": {
+      "self_intro": "리키☆ 럭키☆ 대길조☆ 코파노 리키야! 풍수의 힘으로 네게도 해피를 불러와 줄게♪",
+      "tagline": "리키☆럭키☆ 참견쟁이 스타일・풍수 아가씨☆",
+      "weight": "비밀☆",
+      "shoes": "좌우 모두 25.0cm",
+      "dorm": "릿토 생활관",
+      "class": "중등부",
+      "ears": "두 귀의 커버는 아빠가 직접 만든 것",
+      "tail": "그날의 길한 방향을 향해서 파닥대곤 한다",
+      "strong": "청소, 물건 정리, 식물 돌보기",
+      "weak": "먼지가 많은 장소",
+      "family": "형제가 많아서 무척 떠들썩☆",
+      "secrets": [
+        "사실은 카시와모찌는 무한히 먹을 수 있을 정도로 좋아한다.",
+        "사실은 어린이들의 첫사랑 헌터."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "Rickey☆Lucky☆大吉利☆我是小林歷奇喔！讓我用風水的力量帶給你happy吧♪",
+      "tagline": "Rickey☆Lucky☆樂於助人的風水女孩☆",
+      "weight": "祕密☆",
+      "shoes": "左右都是25.0cm",
+      "dorm": "栗東宿舍",
+      "class": "國中部",
+      "ears": "兩隻耳朵的護罩是爸爸手工做的",
+      "tail": "經常會對著當天的吉位擺動",
+      "strong": "打掃、斷捨離、照顧植物",
+      "weak": "灰塵很多的地方",
+      "family": "因為兄弟姊妹眾多，所以很熱鬧☆",
+      "secrets": [
+        "其實她對柏餅的喜歡幾乎到了可以無限吃的程度。",
+        "其實她是專門讓小朋友們陷入初戀的初戀獵人。"
+      ]
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "url_name": "copano-rickey",
+    "char_id": 1098,
+    "jp_name": "コパノリッキー",
+    "en_name": "Copano Rickey",
+    "name_ko": "코파노 리키",
+    "name_tw": "小林歷奇",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "va_en": "Konomi Inagaki",
+    "va_ja": "稲垣好",
+    "va_ko": "이나가키 코노미",
+    "va_zh_tw": "稲垣好",
+    "va_link": "https://myanimelist.net/people/57409/Konomi_Inagaki",
+    "three_sizes": {
+      "b": 83,
+      "w": 55,
+      "h": 87
+    },
+    "birth_day": 24,
+    "birth_month": 3,
+    "birth_year": 2010,
+    "height": 165,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": null,
+      "races": 33,
+      "wins": 16,
+      "record": "16-3-3-11",
+      "earnings": 995144000,
+      "active": "2012-2017"
+    }
+  },
+  "__file": "109801-copano-rickey.json",
+  "has_release_en": false,
+  "has_version": false
+}

@@ -1,0 +1,187 @@
+{
+  "url_name": "110702-tap-dance-city",
+  "card_id": 110702,
+  "char_id": 1107,
+  "name_en": "Tap Dance City",
+  "name_jp": "タップダンスシチー",
+  "name_ko": "탭 댄스 시티",
+  "name_tw": "踢踏城市",
+  "version": "ballroom",
+  "title": "Tap! Tap! Tap!",
+  "title_jp": "[Tap! Tap! Tap!]",
+  "rarity": 3,
+  "costume": 110720,
+  "release": "2025-03-31",
+  "obtained": "gacha",
+  "skills_unique": [
+    111071
+  ],
+  "skills_innate": [
+    202462,
+    202692,
+    202392
+  ],
+  "skills_evo": [
+    {
+      "old": 202461,
+      "new": 110702111
+    },
+    {
+      "old": 202391,
+      "new": 110702211
+    }
+  ],
+  "skills_awakening": [
+    201102,
+    202461,
+    203392,
+    202391
+  ],
+  "skills_event": [
+    200712,
+    201262,
+    202051,
+    201252,
+    200012
+  ],
+  "stat_bonus": [
+    10,
+    0,
+    0,
+    20,
+    0
+  ],
+  "talent_group": 110702,
+  "base_stats": [
+    102,
+    98,
+    72,
+    95,
+    83
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "G",
+    "E",
+    "A",
+    "A",
+    "A",
+    "B",
+    "F",
+    "G"
+  ],
+  "four_star_stats": [
+    114,
+    109,
+    80,
+    105,
+    92
+  ],
+  "five_star_stats": [
+    125,
+    120,
+    88,
+    116,
+    101
+  ],
+  "profile": {
+    "char_id": 1107,
+    "ja": {
+      "self_intro": "さあ、心躍る旅を！仲間と踊る日々を！Everyone!　夢を見たいヤツは全員――このタップダンスシチーの船に乗りな！",
+      "tagline": "仲間も夢も金も総獲り！ロマンに生きるウマ娘",
+      "weight": "気にしてないね",
+      "shoes": "左右ともに25.0cm",
+      "dorm": "栗東寮",
+      "class": "高等部",
+      "ears": "ロマンを求めてクルクルと動く",
+      "tail": "ダンスで映えるようにオイルケアしている",
+      "strong": "ピザのカット、ケンカの仲裁",
+      "weak": "時間を守ること、にらめっこ",
+      "family": "ママの焼くマシュマロパイは自慢の味",
+      "secrets": [
+        "実は、時差ボケを一切しない。",
+        "実は、抱き枕派。"
+      ]
+    },
+    "ko": {
+      "self_intro": "자, 가슴 뛰는 여행을! 친구와 춤추는 나날을! Everyone! 꿈을 꾸고 싶은 녀석은 모두… 이 탭 댄스 시티의 배에 타라!",
+      "tagline": "친구도 꿈도 돈도 전부 손에 넣겠어! 낭만에 사는 우마무스메",
+      "weight": "신경 안 써",
+      "shoes": "좌우 모두 25.0cm",
+      "dorm": "릿토 생활관",
+      "class": "고등부",
+      "ears": "로망을 바라며 빙글빙글 움직인다.",
+      "tail": "댄스 중 사진이 잘 찍히게 오일 케어를 하고 있다.",
+      "strong": "피자 커팅, 싸움 중재",
+      "weak": "시간 지키기, 눈싸움",
+      "family": "엄마가 구워 주는 마시멜로 파이는 자랑할 만한 맛.",
+      "secrets": [
+        "사실은 시차 적응 문제를 전혀 겪지 않는다.",
+        "사실은 안는 베개 사용자."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "來吧，踏上令人雀躍的旅途！享受與夥伴起舞的每一天！Everyone!想追夢的所有人──快搭上踢踏城市的船吧！",
+      "tagline": "將同伴、夢想及財富盡收囊中！浪漫度日的賽馬娘",
+      "weight": "沒去在意呢",
+      "shoes": "左右都是25.0cm",
+      "dorm": "栗東宿舍",
+      "class": "高中部",
+      "ears": "為追求浪漫而旋轉擺動",
+      "tail": "會使用保養油以確保在跳舞時很上鏡",
+      "strong": "切披薩、調解紛爭",
+      "weak": "守時、和他人相互凝視",
+      "family": "最自豪的味道是媽媽烤的棉花糖派",
+      "secrets": [
+        "其實她完全不會受時差影響。",
+        "其實她是抱枕派。"
+      ]
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "url_name": "tap-dance-city",
+    "char_id": 1107,
+    "jp_name": "タップダンスシチー",
+    "en_name": "Tap Dance City",
+    "name_ko": "탭 댄스 시티",
+    "name_tw": "踢踏城市",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "va_en": "Minami Shinoda",
+    "va_ja": "篠田みなみ",
+    "va_ko": "시노다 미나미",
+    "va_zh_tw": "篠田みなみ",
+    "va_link": "https://myanimelist.net/people/40399/Minami_Shinoda",
+    "three_sizes": {
+      "b": 89,
+      "w": 55,
+      "h": 88
+    },
+    "birth_day": 16,
+    "birth_month": 3,
+    "birth_year": 1997,
+    "height": 170,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "us",
+      "death": null,
+      "races": 42,
+      "wins": 12,
+      "record": "12-6-7-17",
+      "earnings": 1084221000,
+      "active": "2000-2006"
+    }
+  },
+  "__file": "110702-tap-dance-city.json",
+  "has_release_en": false,
+  "has_version": true
+}

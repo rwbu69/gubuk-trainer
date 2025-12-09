@@ -1,0 +1,169 @@
+{
+  "url_name": "103501-winning-ticket",
+  "card_id": 103501,
+  "char_id": 1035,
+  "name_en": "Winning Ticket",
+  "name_jp": "ウイニングチケット",
+  "name_ko": "위닝 티켓",
+  "name_tw": "勝利獎券",
+  "title": "Go To Winning!",
+  "title_jp": "[Go To Winning!]",
+  "title_ko": "[Go To Winning!]",
+  "title_tw": "[Go To Winning!]",
+  "title_en_gl": "[Get to Winning!]",
+  "rarity": 1,
+  "costume": 103501,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "obtained": "gacha",
+  "skills_unique": [
+    10351,
+    100351
+  ],
+  "skills_innate": [
+    200152,
+    200732,
+    201402
+  ],
+  "skills_evo": [
+    {
+      "old": 201401,
+      "new": 103501111
+    },
+    {
+      "old": 200591,
+      "new": 103501211
+    }
+  ],
+  "skills_awakening": [
+    200592,
+    201401,
+    201392,
+    200591
+  ],
+  "skills_event": [
+    200492,
+    201382,
+    201392,
+    200592,
+    200602,
+    200612
+  ],
+  "stat_bonus": [
+    0,
+    10,
+    20,
+    0,
+    0
+  ],
+  "talent_group": 103501,
+  "base_stats": [
+    87,
+    68,
+    91,
+    74,
+    80
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "G",
+    "F",
+    "A",
+    "B",
+    "G",
+    "B",
+    "A",
+    "G"
+  ],
+  "two_star_stats": [
+    93,
+    72,
+    97,
+    78,
+    85
+  ],
+  "three_star_stats": [
+    98,
+    76,
+    102,
+    83,
+    91
+  ],
+  "four_star_stats": [
+    109,
+    85,
+    114,
+    92,
+    100
+  ],
+  "five_star_stats": [
+    120,
+    93,
+    125,
+    101,
+    111
+  ],
+  "profile": {
+    "self_intro": "Hey, hey! My dream's always been to become a Derby Champion! OH, RIGHT! MY NAME! I'm Winning Ticket! Keep your eyes on me!",
+    "tagline": "Never hold back your feelings! This girl wears her heart on her sleeve.",
+    "weight": "No change",
+    "shoes": "Left and right: 21.5cm",
+    "dorm": "Ritto Dormitory",
+    "class": "Senior Division",
+    "ears": "Her best friend says \"Even the way her ears move is annoying\"",
+    "tail": "Expresses her joy, anger, and even sorrow",
+    "strong": "Cheering on friends, feeling her feelings",
+    "weak": "Not going all out!",
+    "family": "Nothing gets in the way of her family's annual tradition of watching the Derby",
+    "secrets": [
+      "Did you know? She's very particular about her choice of undergarments."
+    ]
+  },
+  "charData": {
+    "url_name": "winning-ticket",
+    "char_id": 1035,
+    "jp_name": "ウイニングチケット",
+    "en_name": "Winning Ticket",
+    "name_ko": "위닝 티켓",
+    "name_tw": "勝利獎券",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "playable_en": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Yui Watanabe",
+    "va_ja": "渡部優衣",
+    "va_ko": "와타나베 유이",
+    "va_zh_tw": "渡部優衣",
+    "va_link": "https://myanimelist.net/people/11864/Yui_Watanabe",
+    "three_sizes": {
+      "b": 88,
+      "w": 57,
+      "h": 85
+    },
+    "birth_day": 21,
+    "birth_month": 3,
+    "birth_year": 1990,
+    "height": 157,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2023-02-18",
+      "races": 14,
+      "wins": 6,
+      "record": "6-1-2-5",
+      "earnings": 371770000,
+      "active": "1992-1994"
+    }
+  },
+  "__file": "103501-winning-ticket.json",
+  "has_release_en": true,
+  "has_version": false
+}

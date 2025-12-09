@@ -1,0 +1,159 @@
+{
+  "url_name": "104501-super-creek",
+  "card_id": 104501,
+  "char_id": 1045,
+  "name_en": "Super Creek",
+  "name_jp": "スーパークリーク",
+  "name_ko": "슈퍼 크릭",
+  "name_tw": "超級小溪",
+  "title": "Murmuring Stream",
+  "title_jp": "[マーマリングストリーム]",
+  "title_ko": "[머머링 스트림]",
+  "title_tw": "[低語溪流]",
+  "title_en_gl": "[Murmuring Stream]",
+  "rarity": 2,
+  "costume": 104501,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "obtained": "gacha",
+  "skills_unique": [
+    10451,
+    100451
+  ],
+  "skills_innate": [
+    200352,
+    200742,
+    201372
+  ],
+  "skills_evo": [
+    {
+      "old": 201371,
+      "new": 104501111
+    },
+    {
+      "old": 200351,
+      "new": 104501211
+    }
+  ],
+  "skills_awakening": [
+    200462,
+    201371,
+    200881,
+    200351
+  ],
+  "skills_event": [
+    200352,
+    "201352",
+    200582
+  ],
+  "stat_bonus": [
+    0,
+    10,
+    0,
+    0,
+    20
+  ],
+  "talent_group": 104501,
+  "base_stats": [
+    65,
+    100,
+    71,
+    100,
+    89
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "G",
+    "G",
+    "A",
+    "A",
+    "D",
+    "A",
+    "B",
+    "G"
+  ],
+  "three_star_stats": [
+    69,
+    106,
+    75,
+    106,
+    94
+  ],
+  "four_star_stats": [
+    76,
+    118,
+    84,
+    118,
+    104
+  ],
+  "five_star_stats": [
+    84,
+    129,
+    92,
+    129,
+    116
+  ],
+  "profile": {
+    "self_intro": "Hehe. ♪ I'm Super Creek. I'll work hard to make everyone around me smile. Just leave it to me. ♪",
+    "tagline": "Motherly and kind, her presence is soothing.",
+    "weight": "Slight increase (the reason is a secret)",
+    "shoes": "Left and right: 25.5cm",
+    "dorm": "Ritto Dormitory",
+    "class": "Senior Division",
+    "ears": "Likes cleaning out people's ears. Does not like having her ears cleaned",
+    "tail": "Great at calming children",
+    "strong": "Taking care of others",
+    "weak": "Drawing",
+    "family": "Her family runs a daycare with a reputation for warmth",
+    "secrets": [
+      "Did you know? She's great at rolling perfectly round rice cakes."
+    ]
+  },
+  "charData": {
+    "url_name": "super-creek",
+    "char_id": 1045,
+    "jp_name": "スーパークリーク",
+    "en_name": "Super Creek",
+    "name_ko": "슈퍼 크릭",
+    "name_tw": "超級小溪",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "playable_en": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Kana Yuuki",
+    "va_ja": "優木かな",
+    "va_ko": "유우키 카나",
+    "va_zh_tw": "優木かな",
+    "va_link": "https://myanimelist.net/people/30613/Kana_Yuuki",
+    "three_sizes": {
+      "b": 97,
+      "w": 61,
+      "h": 91
+    },
+    "birth_day": 27,
+    "birth_month": 5,
+    "birth_year": 1985,
+    "height": 168,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2010-08-29",
+      "races": 16,
+      "wins": 8,
+      "record": "8-2-2-4",
+      "earnings": 556100000,
+      "active": "1987-1990"
+    }
+  },
+  "__file": "104501-super-creek.json",
+  "has_release_en": true,
+  "has_version": false
+}

@@ -1,0 +1,160 @@
+{
+  "url_name": "111701-win-variation",
+  "card_id": 111701,
+  "char_id": 1117,
+  "name_en": "Win Variation",
+  "name_jp": "ウインバリアシオン",
+  "name_ko": "윈 바리아시옹",
+  "name_tw": "凱旋芭蕾",
+  "title": "Dramatic Tutu",
+  "title_jp": "[ドラマティック・チュチュ]",
+  "rarity": 3,
+  "costume": 111701,
+  "release": "2024-12-10",
+  "obtained": "gacha",
+  "skills_unique": [
+    101171
+  ],
+  "skills_innate": [
+    202932,
+    201512,
+    202722
+  ],
+  "skills_evo": [
+    {
+      "old": 202931,
+      "new": 111701111
+    },
+    {
+      "old": 202721,
+      "new": 111701211
+    }
+  ],
+  "skills_awakening": [
+    200292,
+    202931,
+    202902,
+    202721
+  ],
+  "skills_event": [
+    202892,
+    202522,
+    203152,
+    202922,
+    202942,
+    201462
+  ],
+  "stat_bonus": [
+    10,
+    0,
+    10,
+    10,
+    0
+  ],
+  "talent_group": 111701,
+  "base_stats": [
+    85,
+    100,
+    94,
+    90,
+    81
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "G",
+    "E",
+    "A",
+    "A",
+    "G",
+    "E",
+    "A",
+    "A"
+  ],
+  "four_star_stats": [
+    94,
+    111,
+    104,
+    100,
+    91
+  ],
+  "five_star_stats": [
+    104,
+    122,
+    114,
+    110,
+    100
+  ],
+  "profile": {
+    "char_id": 1117,
+    "ja": {
+      "self_intro": "ウインバリアシオンっす。主役…プリンシパルになるには努力あるのみ！周りは強いヤツばっかだけど挫けないっす！",
+      "tagline": "七転八起。何度負けてもその心は砕けない！",
+      "weight": "増量中",
+      "shoes": "左右ともに23.5cm",
+      "dorm": "栗東寮",
+      "class": "高等部",
+      "ears": "クラシック音楽には反応しやすい",
+      "tail": "戸惑いはするけど、触られるのは嫌ではない",
+      "strong": "スイカ割り、柔軟体操",
+      "weak": "コンテンポラリーダンス、モデル歩き",
+      "family": "爪をケアする方法は、母親から教わった",
+      "secrets": [
+        "実は、慣れた場所なら目をつむっていても歩ける。",
+        "実は、しじみの身を残すのは許せない派。"
+      ]
+    },
+    "ko": {
+      "secrets": [
+        "사실은 익숙한 장소라면 눈을 감고도 걸을 수 있다.",
+        "사실은 바지락 살을 남기는 걸 용서하지 못한다."
+      ]
+    },
+    "zh_tw": {
+      "secrets": [
+        "其實她如果在待習慣的地方即使閉著眼睛也能行走。",
+        "其實她是主張不能留下蛤蠣肉的那一派。"
+      ]
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "url_name": "win-variation",
+    "char_id": 1117,
+    "jp_name": "ウインバリアシオン",
+    "en_name": "Win Variation",
+    "name_ko": "윈 바리아시옹",
+    "name_tw": "凱旋芭蕾",
+    "playable": true,
+    "active": true,
+    "va_en": "Hika Tsukishiro",
+    "va_ja": "月城日花",
+    "va_ko": "츠키시로 히카",
+    "va_zh_tw": "月城日花",
+    "va_link": "https://myanimelist.net/people/57932/Hika_Tsukishiro",
+    "three_sizes": {
+      "b": 76,
+      "w": 55,
+      "h": 80
+    },
+    "birth_day": 10,
+    "birth_month": 4,
+    "birth_year": 2008,
+    "height": 159,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "races": 23,
+      "wins": 4,
+      "record": "23-4-7-2",
+      "earnings": 579946000,
+      "active": "2010-2015"
+    }
+  },
+  "__file": "111701-win-variation.json",
+  "has_release_en": false,
+  "has_version": false
+}

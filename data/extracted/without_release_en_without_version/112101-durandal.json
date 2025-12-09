@@ -1,0 +1,161 @@
+{
+  "url_name": "112101-durandal",
+  "card_id": 112101,
+  "char_id": 1121,
+  "name_en": "Durandal",
+  "name_jp": "デュランダル",
+  "name_ko": "뒤랑달",
+  "name_tw": "杜蘭達爾",
+  "title": "Chevalier Fidèle",
+  "title_jp": "[Chevalier fidèle]",
+  "rarity": 3,
+  "costume": 112101,
+  "release": "2024-09-20",
+  "obtained": "gacha",
+  "skills_unique": [
+    101211
+  ],
+  "skills_innate": [
+    201462,
+    202922,
+    202402
+  ],
+  "skills_evo": [
+    {
+      "old": 202921,
+      "new": 112101111
+    },
+    {
+      "old": 202401,
+      "new": 112101211
+    }
+  ],
+  "skills_awakening": [
+    200192,
+    202921,
+    202932,
+    202401
+  ],
+  "skills_event": [
+    200632,
+    200642
+  ],
+  "stat_bonus": [
+    20,
+    0,
+    10,
+    0,
+    0
+  ],
+  "talent_group": 112101,
+  "base_stats": [
+    98,
+    76,
+    105,
+    84,
+    87
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "A",
+    "A",
+    "F",
+    "G",
+    "G",
+    "G",
+    "C",
+    "A"
+  ],
+  "four_star_stats": [
+    109,
+    85,
+    116,
+    93,
+    97
+  ],
+  "five_star_stats": [
+    119,
+    93,
+    128,
+    103,
+    107
+  ],
+  "profile": {
+    "char_id": 1121,
+    "ja": {
+      "self_intro": "我が聖剣は疾駆する光輝を放ち、御身に仇なす闇を斬り払います！私はデュランダル、誓いと忠義の騎士！",
+      "tagline": "いざや刮目せよ。瞬く双脚、忠義の聖剣",
+      "weight": "忠実な仕上がり",
+      "shoes": "左右ともに23.5cm",
+      "dorm": "栗東寮",
+      "class": "高等部",
+      "ears": "誉め言葉は一言一句、聞き逃さない",
+      "tail": "武器として使えないか、よく思案している",
+      "strong": "草刈り、恋愛ドラマ長文考察レビュー",
+      "weak": "にらめっこ、1人旅、『降参』",
+      "family": "家事当番は『あっち向いてホイ』で決める",
+      "secrets": [
+        "実は、トマトは薄～く切られてないと無理。",
+        "実は、寝相が悪すぎてシーツをビリビリにしたことがある。"
+      ]
+    },
+    "ko": {
+      "secrets": [
+        "사실은 토마토는 얇~게 썰지 않으면 못 먹는다."
+      ]
+    },
+    "zh_tw": {
+      "secrets": [
+        "其實她如果不切得很薄～的話就不敢吃番茄。"
+      ]
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "url_name": "durandal",
+    "char_id": 1121,
+    "jp_name": "デュランダル",
+    "en_name": "Durandal",
+    "name_ko": "뒤랑달",
+    "name_tw": "杜蘭達爾",
+    "playable": true,
+    "active": true,
+    "va_en": "Kana Nogi",
+    "va_ja": "野木奏",
+    "va_ko": "노기 카나",
+    "va_zh_tw": "野木奏",
+    "va_link": "https://umamusu.wiki/Kana_Nogi",
+    "three_sizes": {
+      "b": 89,
+      "w": 56,
+      "h": 85
+    },
+    "birth_day": 25,
+    "birth_month": 5,
+    "birth_year": 1999,
+    "height": 162,
+    "sex": 1,
+    "race": false,
+    "rl": {
+      "country": "jp",
+      "death": "2013-07-17",
+      "races": 18,
+      "wins": 8,
+      "record": "18-8-4-1",
+      "earnings": 503232000,
+      "earnings_other": [
+        [
+          450000,
+          "HKD"
+        ]
+      ],
+      "active": "2001-2005"
+    }
+  },
+  "__file": "112101-durandal.json",
+  "has_release_en": false,
+  "has_version": false
+}

@@ -1,0 +1,214 @@
+{
+  "url_name": "106601-twin-turbo",
+  "card_id": 106601,
+  "char_id": 1066,
+  "name_en": "Twin Turbo",
+  "name_jp": "ツインターボ",
+  "name_ko": "트윈 터보",
+  "name_tw": "雙渦輪",
+  "title": "Blast Mode! Turbo Engine",
+  "title_jp": "[爆走！ターボエンジン]",
+  "title_ko": "[폭주! 터보 엔진]",
+  "title_tw": "[暴衝！渦輪引擎]",
+  "rarity": 1,
+  "costume": 106601,
+  "release": "2023-02-24",
+  "release_ko": "2024-06-14",
+  "release_zh_tw": "2024-06-27",
+  "obtained": "gacha",
+  "skills_unique": [
+    10661,
+    100661
+  ],
+  "skills_innate": [
+    202392,
+    201282,
+    200532
+  ],
+  "skills_evo": [
+    {
+      "old": 202391,
+      "new": 106601111
+    },
+    {
+      "old": 200531,
+      "new": 106601211
+    }
+  ],
+  "skills_awakening": [
+    201252,
+    202391,
+    200432,
+    200531
+  ],
+  "skills_event": [
+    201272,
+    201242,
+    200722,
+    200712,
+    202051,
+    200742,
+    200042
+  ],
+  "stat_bonus": [
+    30,
+    0,
+    0,
+    0,
+    0
+  ],
+  "talent_group": 106601,
+  "base_stats": [
+    99,
+    71,
+    78,
+    86,
+    66
+  ],
+  "aptitude": [
+    "A",
+    "F",
+    "G",
+    "A",
+    "A",
+    "E",
+    "A",
+    "G",
+    "G",
+    "G"
+  ],
+  "two_star_stats": [
+    106,
+    76,
+    83,
+    92,
+    68
+  ],
+  "three_star_stats": [
+    112,
+    80,
+    88,
+    97,
+    73
+  ],
+  "four_star_stats": [
+    124,
+    89,
+    97,
+    108,
+    82
+  ],
+  "five_star_stats": [
+    137,
+    98,
+    107,
+    119,
+    89
+  ],
+  "profile": {
+    "char_id": 1066,
+    "ja": {
+      "self_intro": "ツインターボだー！ターボ1番とるもん、ぜったいとるもんっ！いっくぞー、ターボぜんかーーーい！！",
+      "tagline": "ターボ全開！限界知らずの爆走ウマ娘！",
+      "weight": "計測不能",
+      "shoes": "左：20.0cm右：19.5cm",
+      "dorm": "美浦寮",
+      "class": "中等部",
+      "ears": "追い詰められるほど、嬉しそうにピクつく",
+      "tail": "落ち着きなく、あっちこっちフラフラ",
+      "strong": "限界突破",
+      "weak": "漢字",
+      "family": "虚弱だった娘の無茶は、親的には成長の証",
+      "secrets": [
+        "実は、ムーンウォークが得意。",
+        "実は、目薬をさす時なぜか口も開いてしまう。"
+      ]
+    },
+    "ko": {
+      "self_intro": "트윈 터보다~! 터보 1착할 거야, 반드시 할 거야! 간다~ 터보 전개~~~!",
+      "tagline": "터보 전개! 한계를 모르는 폭주 우마무스메!",
+      "weight": "측정 불가",
+      "shoes": "좌:20.0cm 우:19.5cm",
+      "dorm": "미호 생활관",
+      "class": "중등부",
+      "ears": "궁지에 몰릴수록 기쁜 듯이 움찔거린다",
+      "tail": "차분하게 있지 못하고 여기저기를 어슬렁어슬렁",
+      "strong": "한계 돌파",
+      "weak": "한자",
+      "family": "허약했던 딸의 무모함은, 부모에게는 성장의 증거",
+      "secrets": [
+        "사실은 문워크를 잘한다.",
+        "사실은 안약을 넣을 때 어째선지 입도 벌리게 된다."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "我是雙渦輪──！渦輪會拿到第一名，一定會拿到！要上囉──渦輪全開────！！",
+      "tagline": "渦輪全開！沒有極限的暴衝賽馬娘！",
+      "weight": "無法測量",
+      "shoes": "左：20.0cm右：19.5cm",
+      "dorm": "美浦宿舍",
+      "class": "國中部",
+      "ears": "越是被逼到絕境時，越會開心地抖動起來",
+      "tail": "靜不下來，一直晃來晃去",
+      "strong": "突破極限",
+      "weak": "漢字",
+      "family": "對父母而言，曾經體弱的女兒胡來也是種成長",
+      "secrets": [
+        "其實她很會跳月球漫步。",
+        "其實她在點眼藥水時，不知為何會張著嘴巴。"
+      ]
+    },
+    "en": {
+      "self_intro": "Twin Turbo here about to take first place! Let's go! Turbo booost!",
+      "tagline": "Turbo boost! This wild charger knows no limits!",
+      "dorm": "Miho Dormitory",
+      "class": "Junior Division",
+      "secrets": [
+        "Did you know? She's great at moonwalking."
+      ]
+    }
+  },
+  "charData": {
+    "url_name": "twin-turbo",
+    "char_id": 1066,
+    "jp_name": "ツインターボ",
+    "en_name": "Twin Turbo",
+    "name_ko": "트윈 터보",
+    "name_tw": "雙渦輪",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Miharu Hanai",
+    "va_ja": "花井美春",
+    "va_ko": "하나이 미하루",
+    "va_zh_tw": "花井美春",
+    "va_link": "https://myanimelist.net/people/44312/Miharu_Hanai",
+    "three_sizes": {
+      "b": 72,
+      "w": 51,
+      "h": 74
+    },
+    "birth_day": 13,
+    "birth_month": 4,
+    "birth_year": 1988,
+    "height": 146,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "1998-01-15",
+      "races": 35,
+      "wins": 6,
+      "record": "6-2-0-25",
+      "earnings": 186708000,
+      "active": "1990-1996"
+    }
+  },
+  "__file": "106601-twin-turbo.json",
+  "has_release_en": false,
+  "has_version": false
+}

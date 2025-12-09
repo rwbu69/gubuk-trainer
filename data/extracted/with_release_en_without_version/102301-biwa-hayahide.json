@@ -1,0 +1,151 @@
+{
+  "url_name": "102301-biwa-hayahide",
+  "card_id": 102301,
+  "char_id": 1023,
+  "name_en": "Biwa Hayahide",
+  "name_jp": "ビワハヤヒデ",
+  "name_ko": "비와 하야히데",
+  "name_tw": "琵琶晨光",
+  "title": "pf.Victory Formula...",
+  "title_jp": "[pf.Victory formula...]",
+  "title_ko": "[pf.Victory formula...]",
+  "title_tw": "[pf.Victory formula...]",
+  "title_en_gl": "[pf. Winning Equation...]",
+  "rarity": 3,
+  "costume": 102301,
+  "release": "2021-03-18",
+  "release_ko": "2022-07-11",
+  "release_zh_tw": "2022-07-20",
+  "release_en": "2025-07-10",
+  "obtained": "gacha",
+  "skills_unique": [
+    100231
+  ],
+  "skills_innate": [
+    200162,
+    200742,
+    200562
+  ],
+  "skills_evo": [
+    {
+      "old": 200561,
+      "new": 102301111
+    },
+    {
+      "old": 200741,
+      "new": 102301211
+    }
+  ],
+  "skills_awakening": [
+    200262,
+    200561,
+    200821,
+    200741
+  ],
+  "skills_event": [
+    200052,
+    200372,
+    200582
+  ],
+  "stat_bonus": [
+    0,
+    0,
+    0,
+    10,
+    20
+  ],
+  "talent_group": 102301,
+  "base_stats": [
+    85,
+    93,
+    82,
+    93,
+    97
+  ],
+  "aptitude": [
+    "A",
+    "F",
+    "F",
+    "C",
+    "A",
+    "A",
+    "E",
+    "A",
+    "B",
+    "E"
+  ],
+  "four_star_stats": [
+    95,
+    104,
+    91,
+    104,
+    106
+  ],
+  "five_star_stats": [
+    104,
+    114,
+    101,
+    114,
+    117
+  ],
+  "profile": {
+    "self_intro": "I'm Biwa Hayahide. My goal is to devise the perfect winning equation... I'd also like to point out that my head is of completely average size!",
+    "tagline": "A fiery intellectual. Logic is her weapon!",
+    "weight": "No change",
+    "shoes": "Left and right: 25.0cm",
+    "dorm": "Ritto Dormitory",
+    "class": "Senior Division",
+    "ears": "She's been sensitive to noises since she was little, and was therefore easily startled",
+    "tail": "Has a hard time getting her tail through the hole in her pants when it's humid",
+    "strong": "Cleaning",
+    "weak": "Rainy season",
+    "family": "Her mother used to have her wear matching hairstyles with her sister",
+    "secrets": [
+      "Did you know? She writes hair spray reviews."
+    ]
+  },
+  "charData": {
+    "url_name": "biwa-hayahide",
+    "char_id": 1023,
+    "jp_name": "ビワハヤヒデ",
+    "en_name": "Biwa Hayahide",
+    "name_ko": "비와 하야히데",
+    "name_tw": "琵琶晨光",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "playable_en": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Yui Kondou",
+    "va_ja": "近藤唯",
+    "va_ko": "콘도 유이",
+    "va_zh_tw": "近藤唯",
+    "va_link": "https://myanimelist.net/people/24189/Yui_Kondou",
+    "three_sizes": {
+      "b": 93,
+      "w": 61,
+      "h": 88
+    },
+    "birth_day": 10,
+    "birth_month": 3,
+    "birth_year": 1990,
+    "height": 171,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2020-07-21",
+      "races": 16,
+      "wins": 10,
+      "record": "10-5-0-1",
+      "earnings": 817690000,
+      "active": "1992-1994"
+    }
+  },
+  "__file": "102301-biwa-hayahide.json",
+  "has_release_en": true,
+  "has_version": false
+}

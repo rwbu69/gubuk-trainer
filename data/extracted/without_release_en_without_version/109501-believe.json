@@ -1,0 +1,142 @@
+{
+  "url_name": "109501-believe",
+  "card_id": 109501,
+  "char_id": 1095,
+  "name_en": "Believe",
+  "name_jp": "ビリーヴ",
+  "name_ko": "빌리브",
+  "name_tw": "信念",
+  "title": "",
+  "title_jp": "[精粋]",
+  "rarity": 3,
+  "costume": 109501,
+  "release": "2025-09-19",
+  "obtained": "gacha",
+  "skills_unique": [
+    100951
+  ],
+  "skills_innate": [
+    202372,
+    203932,
+    200022
+  ],
+  "skills_evo": [
+    {
+      "old": 202371,
+      "new": 109501111
+    },
+    {
+      "old": 203931,
+      "new": 109501211
+    }
+  ],
+  "skills_awakening": [
+    201322,
+    202371,
+    201902,
+    203931
+  ],
+  "skills_event": [
+    203712,
+    200362,
+    202042,
+    203492
+  ],
+  "stat_bonus": [
+    0,
+    0,
+    10,
+    10,
+    10
+  ],
+  "talent_group": 109501,
+  "base_stats": [
+    103,
+    64,
+    99,
+    92,
+    92
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "A",
+    "D",
+    "G",
+    "G",
+    "D",
+    "A",
+    "D",
+    "G"
+  ],
+  "four_star_stats": [
+    115,
+    71,
+    111,
+    103,
+    100
+  ],
+  "five_star_stats": [
+    126,
+    78,
+    122,
+    113,
+    111
+  ],
+  "profile": {
+    "char_id": 1095,
+    "ja": {
+      "self_intro": "ビリーヴです。いい仕事をしたいと思います。…………お願いします",
+      "tagline": "『最速』とは業の極み堅忍不抜の職人ウマ娘",
+      "weight": "堅実な仕上がり",
+      "shoes": "左右ともに23.0cm",
+      "dorm": "栗東寮",
+      "class": "高等部",
+      "ears": "モルタルを作る際は音も頼りにしている",
+      "tail": "ケア用ブラシは知る人ぞ知る職人の逸品",
+      "strong": "針の糸通し、ビレイ",
+      "weak": "犬が悲しい目にあう話",
+      "family": "祖父母の家の柱には背比べの跡が残っている",
+      "secrets": [
+        "実は、よくラジオを聴いて英会話を勉強している。",
+        "実は、地域の登山同好会に所属中。"
+      ]
+    },
+    "ko": {
+      "secrets": [
+        "사실은 자주 라디오를 들으며 영어 회화 공부를 한다."
+      ]
+    },
+    "zh_tw": {
+      "secrets": [
+        "其實她常聽廣播學習英文會話。"
+      ]
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "url_name": "believe",
+    "char_id": 1095,
+    "jp_name": "ビリーヴ",
+    "en_name": "Believe",
+    "name_ko": "빌리브",
+    "name_tw": "信念",
+    "playable": true,
+    "active": true,
+    "va_ja": "秋山実咲",
+    "va_ko": "아키야마 미사키",
+    "va_zh_tw": "秋山実咲",
+    "birth_day": 26,
+    "birth_month": 4,
+    "birth_year": 1998,
+    "height": 156,
+    "sex": 2,
+    "race": false,
+    "rl": {}
+  },
+  "__file": "109501-believe.json",
+  "has_release_en": false,
+  "has_version": false
+}
