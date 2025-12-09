@@ -1,11 +1,180 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
-
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+import Layout from "../layouts/Layout.astro";
 ---
 
 <Layout>
-	<Welcome />
+  <div
+    class="min-h-screen bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900"
+  >
+    <!-- Navigation -->
+    <nav class="container mx-auto px-6 py-6">
+      <div class="flex items-center justify-between">
+        <div
+          class="text-white text-2xl font-bold tracking-wider animate-fade-in"
+        >
+          Gubuk Trainer
+        </div>
+      </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="container mx-auto px-6 py-20 md:py-32">
+      <div id="welcome-screen" class="flex flex-col items-center justify-center min-h-[60vh]">
+        <h1
+          class="text-5xl md:text-7xl font-bold text-white mb-8 animate-slide-up text-center"
+        >
+          Selamat datang di <span
+            class="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent"
+            >Gubuk Trainer</span
+          > !
+        </h1>
+        <p
+          class="text-2xl md:text-3xl text-gray-300 mb-12 animate-slide-up-delay text-center"
+        >
+          "Kalo kamu gabut bisa buka ini sob"
+        </p>
+
+        <!-- Arrow and Button Container -->
+        <div class="flex items-center gap-8 animate-fade-in-slow">
+          <!-- Animated Arrow -->
+          <svg class="w-16 h-16 text-white animate-bounce-horizontal" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z"/>
+          </svg>
+
+          <!-- Button -->
+          <a
+            href="/pilih_server"
+            class="px-10 py-5 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-full font-bold text-2xl hover:shadow-2xl hover:scale-110 transition-all duration-300 hover:from-purple-600 hover:to-pink-600 animate-pulse-slow inline-block"
+          >
+            Tes Karbit
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Animated Background Elements -->
+    <div class="fixed inset-0 pointer-events-none overflow-hidden">
+      <div
+        class="absolute top-1/4 left-1/4 w-64 h-64 bg-purple-500 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob"
+      >
+      </div>
+      <div
+        class="absolute top-1/3 right-1/4 w-64 h-64 bg-pink-500 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob animation-delay-2000"
+      >
+      </div>
+      <div
+        class="absolute bottom-1/4 left-1/3 w-64 h-64 bg-blue-500 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob animation-delay-4000"
+      >
+      </div>
+    </div>
+  </div>
 </Layout>
+
+<style>
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes slide-up {
+    from {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes float {
+    0%,
+    100% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-20px);
+    }
+  }
+
+  @keyframes blob {
+    0%,
+    100% {
+      transform: translate(0px, 0px) scale(1);
+    }
+    33% {
+      transform: translate(30px, -50px) scale(1.1);
+    }
+    66% {
+      transform: translate(-20px, 20px) scale(0.9);
+    }
+  }
+
+  @keyframes bounce-horizontal {
+    0%,
+    100% {
+      transform: translateX(0);
+    }
+    50% {
+      transform: translateX(20px);
+    }
+  }
+
+  @keyframes pulse-slow {
+    0%,
+    100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.8;
+    }
+  }
+
+  .animate-fade-in {
+    animation: fade-in 1s ease-out;
+  }
+
+  .animate-fade-in-delay {
+    animation: fade-in 1s ease-out 0.3s both;
+  }
+
+  .animate-fade-in-slow {
+    animation: fade-in 1.5s ease-out 0.6s both;
+  }
+
+  .animate-slide-up {
+    animation: slide-up 1s ease-out;
+  }
+
+  .animate-slide-up-delay {
+    animation: slide-up 1s ease-out 0.3s both;
+  }
+
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+
+  .animate-blob {
+    animation: blob 7s infinite;
+  }
+
+  .animate-bounce-horizontal {
+    animation: bounce-horizontal 1.5s ease-in-out infinite;
+  }
+
+  .animate-pulse-slow {
+    animation: pulse-slow 2s ease-in-out infinite;
+  }
+
+  .animation-delay-2000 {
+    animation-delay: 2s;
+  }
+
+  .animation-delay-4000 {
+    animation-delay: 4s;
+  }
+</style>

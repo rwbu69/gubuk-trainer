@@ -1,0 +1,165 @@
+{
+  "url_name": "102701-mejiro-ryan",
+  "card_id": 102701,
+  "char_id": 1027,
+  "name_en": "Mejiro Ryan",
+  "name_jp": "メジロライアン",
+  "name_ko": "메지로 라이언",
+  "name_tw": "目白雷恩",
+  "title": "Straight Line",
+  "title_jp": "[ストレート・ライン]",
+  "title_ko": "[스트레이트・라인]",
+  "title_tw": "[勇往直前]",
+  "title_en_gl": "[Down the Line]",
+  "rarity": 1,
+  "costume": 102701,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "obtained": "gacha",
+  "skills_unique": [
+    10271,
+    100271
+  ],
+  "skills_innate": [
+    200232,
+    200722,
+    200612
+  ],
+  "skills_evo": [
+    {
+      "old": 200721,
+      "new": 102701111
+    },
+    {
+      "old": 200611,
+      "new": 102701211
+    }
+  ],
+  "skills_awakening": [
+    200472,
+    200721,
+    201102,
+    200611
+  ],
+  "skills_event": [
+    200162,
+    200602
+  ],
+  "stat_bonus": [
+    0,
+    0,
+    20,
+    0,
+    10
+  ],
+  "talent_group": 102701,
+  "base_stats": [
+    87,
+    66,
+    95,
+    71,
+    81
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "E",
+    "C",
+    "A",
+    "B",
+    "F",
+    "A",
+    "A",
+    "F"
+  ],
+  "two_star_stats": [
+    93,
+    70,
+    101,
+    76,
+    85
+  ],
+  "three_star_stats": [
+    98,
+    74,
+    106,
+    80,
+    92
+  ],
+  "four_star_stats": [
+    109,
+    83,
+    118,
+    89,
+    101
+  ],
+  "five_star_stats": [
+    120,
+    91,
+    130,
+    98,
+    111
+  ],
+  "profile": {
+    "self_intro": "Sup! Mejiro Ryan here! I'm real big into fitness and lifting. It's all 'bout keeping yourself swole! See you at the gym!",
+    "tagline": "Nothing beats a good workout! Even the sweat of her brow is earnest and pure.",
+    "weight": "Slight increase (the weightlifting's working!)",
+    "shoes": "Left and right: 24.5cm",
+    "dorm": "Miho Dormitory",
+    "class": "Senior Division",
+    "ears": "Change positions a lot when she's reading romance manga",
+    "tail": "She really works up a sweat, so she has a separate towel for her tail",
+    "strong": "Weightlifting",
+    "weak": "Cholesterol",
+    "family": "Her dad looks so young that he's often mistaken for her brother",
+    "secrets": [
+      "Did you know? It takes her a long time to decide what body cleansing wipes to buy."
+    ]
+  },
+  "charData": {
+    "url_name": "mejiro-ryan",
+    "char_id": 1027,
+    "jp_name": "メジロライアン",
+    "en_name": "Mejiro Ryan",
+    "name_ko": "메지로 라이언",
+    "name_tw": "目白雷恩",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "playable_en": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Afumi Hashi",
+    "va_ja": "土師亜文",
+    "va_ko": "하시 아후미",
+    "va_zh_tw": "土師亜文",
+    "va_link": "https://myanimelist.net/people/30125/Afumi_Hashi",
+    "three_sizes": {
+      "b": 87,
+      "w": 57,
+      "h": 86
+    },
+    "birth_day": 11,
+    "birth_month": 4,
+    "birth_year": 1987,
+    "height": 163,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2016-03-17",
+      "races": 19,
+      "wins": 7,
+      "record": "7-4-3-5",
+      "earnings": 486930000,
+      "active": "1989-1992"
+    }
+  },
+  "__file": "102701-mejiro-ryan.json",
+  "has_release_en": true,
+  "has_version": false
+}

@@ -1,0 +1,167 @@
+{
+  "url_name": "100801-vodka",
+  "card_id": 100801,
+  "char_id": 1008,
+  "name_en": "Vodka",
+  "name_jp": "ウオッカ",
+  "name_ko": "보드카",
+  "name_tw": "伏特加",
+  "title": "Wild Top Gear",
+  "title_jp": "[ワイルドトップギア]",
+  "title_ko": "[와일드 톱기어]",
+  "title_tw": "[狂野極速]",
+  "title_en_gl": "[Wild Top Gear]",
+  "rarity": 2,
+  "costume": 100801,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "obtained": "gacha",
+  "skills_unique": [
+    10081,
+    100081
+  ],
+  "skills_innate": [
+    200382,
+    200702,
+    200602
+  ],
+  "skills_evo": [
+    {
+      "old": 200381,
+      "new": 100801111
+    },
+    {
+      "old": 200701,
+      "new": 100801211
+    }
+  ],
+  "skills_awakening": [
+    200372,
+    200381,
+    201032,
+    200701
+  ],
+  "skills_event": [
+    201052,
+    201702,
+    200602,
+    202452,
+    200492
+  ],
+  "skills_event_en": [
+    201052,
+    201702,
+    200602,
+    200492
+  ],
+  "stat_bonus": [
+    10,
+    0,
+    20,
+    0,
+    0
+  ],
+  "talent_group": 100801,
+  "base_stats": [
+    96,
+    61,
+    105,
+    75,
+    88
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "F",
+    "A",
+    "A",
+    "F",
+    "C",
+    "B",
+    "A",
+    "F"
+  ],
+  "three_star_stats": [
+    102,
+    64,
+    111,
+    79,
+    94
+  ],
+  "four_star_stats": [
+    113,
+    72,
+    124,
+    88,
+    103
+  ],
+  "five_star_stats": [
+    124,
+    79,
+    136,
+    97,
+    114
+  ],
+  "profile": {
+    "self_intro": "Yo! Vodka here! Listen up. My policy is to be the coolest at all times! I don't act all lame. Got that?",
+    "tagline": "Headstrong and full of life! A roadster with a heart of gold.",
+    "weight": "No change",
+    "shoes": "Left: 24.5cm Right: 24.0cm",
+    "dorm": "Ritto Dormitory",
+    "class": "Junior Division",
+    "ears": "She gets strangely bashful when they're touched",
+    "tail": "Currently practicing a cool way to swish her tail",
+    "strong": "Air bike",
+    "weak": "Gossiping about romance",
+    "family": "Often gets scolded by her mom for causing mischief with her dad",
+    "secrets": [
+      "Did you know? She practices how to slide a glass down a counter."
+    ]
+  },
+  "charData": {
+    "url_name": "vodka",
+    "char_id": 1008,
+    "jp_name": "ウオッカ",
+    "en_name": "Vodka",
+    "name_ko": "보드카",
+    "name_tw": "伏特加",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "playable_en": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Ayaka Oohashi",
+    "va_ja": "大橋彩香",
+    "va_ko": "오오하시 아야카",
+    "va_zh_tw": "大橋彩香",
+    "va_link": "https://myanimelist.net/people/15903/Ayaka_Ohashi",
+    "three_sizes": {
+      "b": 76,
+      "w": 55,
+      "h": 78
+    },
+    "birth_day": 4,
+    "birth_month": 4,
+    "birth_year": 2004,
+    "height": 165,
+    "sex": 2,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2019-04-01",
+      "races": 26,
+      "wins": 10,
+      "record": "10-5-3-8",
+      "earnings": 1304870000,
+      "active": "2006-2010"
+    }
+  },
+  "__file": "100801-vodka.json",
+  "has_release_en": true,
+  "has_version": false
+}

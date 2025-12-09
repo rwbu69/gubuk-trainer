@@ -1,0 +1,249 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { readdir, readFile } from "fs/promises";
+import path from "path";
+
+const dataDir = path.join(
+  process.cwd(),
+  "data/extracted/with_release_en_without_version"
+);
+
+const files = await readdir(dataDir);
+const jsonFiles = files.filter((file) => file.endsWith(".json"));
+
+const characters = await Promise.all(
+  jsonFiles.map(async (file) => {
+    const filePath = path.join(dataDir, file);
+    const content = await readFile(filePath, "utf-8");
+    const data = JSON.parse(content);
+    return {
+      card_id: data.card_id,
+      char_id: data.char_id,
+      name_en: data.name_en,
+      weight: data.profile?.weight || "N/A",
+      ears: data.profile?.ears || "N/A",
+      weak: data.profile?.weak || "N/A",
+      tail: data.profile?.tail || "N/A",
+      strong: data.profile?.strong || "N/A",
+      three_sizes: data.charData?.three_sizes
+        ? `B${data.charData.three_sizes.b} W${data.charData.three_sizes.w} H${data.charData.three_sizes.h}`
+        : "N/A",
+      record: data.charData?.rl?.record || "N/A",
+      active: data.charData?.rl?.active || "N/A",
+      va_en: data.charData?.va_en || "N/A",
+      title: data.title || "N/A",
+    };
+  })
+);
+
+// Get unique characters (by char_id) for the dropdown
+const uniqueCharacters = Array.from(
+  new Map(characters.map((char) => [char.char_id, char])).values()
+);
+
+// Find matching images for each unique character
+const imageDir = path.join(process.cwd(), "public/images/character_hd");
+const imageFiles = await readdir(imageDir);
+
+uniqueCharacters.forEach((char: any) => {
+  const matchingImage = imageFiles.find((img) =>
+    img.startsWith(`hd_${char.char_id}_`)
+  );
+  char.imageUrl = matchingImage
+    ? `/images/character_hd/${matchingImage}`
+    : null;
+});
+
+// Write the data to a static JSON file for client-side fetching
+import { writeFile, mkdir } from "fs/promises";
+const publicDataDir = path.join(process.cwd(), "public/data");
+await mkdir(publicDataDir, { recursive: true });
+await writeFile(
+  path.join(publicDataDir, "characters-en.json"),
+  JSON.stringify({ characters, uniqueCharacters })
+);
+---
+
+<Layout>
+  <div
+    class="min-h-screen bg-linear-to-br from-purple-900 via-blue-900 to-indigo-900"
+  >
+    <!-- Navigation -->
+    <nav class="container mx-auto px-6 py-6">
+      <div class="flex items-center justify-between">
+        <a
+          href="/"
+          class="text-white text-2xl font-bold tracking-wider hover:text-purple-300 transition-colors duration-300"
+        >
+          Gubuk Trainer
+        </a>
+      </div>
+    </nav>
+
+    <!-- Quiz Container -->
+    <div class="container mx-auto px-6 py-10">
+      <div class="max-w-7xl mx-auto">
+        <!-- Header -->
+        <div class="text-center mb-8">
+          <h1 class="text-4xl md:text-5xl font-bold text-white mb-4">
+            Character Quiz - EN Server
+          </h1>
+          <p class="text-xl text-gray-300">
+            Guess the character based on the clues!
+          </p>
+        </div>
+
+        <!-- Progress -->
+        <div class="bg-white/10 backdrop-blur-lg rounded-2xl p-4 mb-6">
+          <div class="flex justify-between items-center mb-2">
+            <span class="text-white font-semibold"
+              >Clues Revealed: <span id="clues-revealed">0</span>/10</span
+            >
+          </div>
+          <div class="w-full bg-white/20 rounded-full h-3">
+            <div
+              id="progress-bar"
+              class="bg-gradient-to-r from-purple-500 to-pink-500 h-3 rounded-full transition-all duration-500"
+              style="width: 0%"
+            >
+            </div>
+          </div>
+        </div>
+
+        <!-- Main Layout: Questions Left, Characters Right -->
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+          <!-- Left Side: All Questions/Clues -->
+          <div class="lg:col-span-7">
+            <div class="bg-white/10 backdrop-blur-lg rounded-2xl p-8">
+              <h3 class="text-2xl font-bold text-white mb-6 text-center">
+                Character Clues
+              </h3>
+              <div id="clues-container" class="space-y-4">
+                <!-- Questions will be dynamically added here -->
+              </div>
+            </div>
+          </div>
+
+          <!-- Right Side: Character Selector -->
+          <div class="lg:col-span-5">
+            <div
+              class="bg-white/10 backdrop-blur-lg rounded-2xl p-6 sticky top-6"
+            >
+              <label
+                class="block text-white text-lg font-semibold mb-4 text-center"
+                >Select Your Answer:</label
+              >
+              <div
+                class="flex flex-col gap-3 max-h-[600px] overflow-y-auto pr-2"
+                id="character-grid"
+              >
+                {
+                  uniqueCharacters.map((char) => (
+                    <button
+                      type="button"
+                      class="character-option bg-white/10 hover:bg-white/20 rounded-lg p-3 border-2 border-transparent transition-colors duration-200 flex items-center gap-3"
+                      data-char-id={char.char_id}
+                      data-card-id={char.card_id}
+                    >
+                      <img
+                        src={`/images/character_hd/hd_${char.char_id}_${char.card_id}.png`}
+                        alt={char.name_en}
+                        class="w-16 h-16 object-cover rounded-lg flex-shrink-0"
+                      />
+                      <p class="text-white text-sm font-semibold text-left flex-1">
+                        {char.name_en}
+                      </p>
+                    </button>
+                  ))
+                }
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Result Message -->
+        <div
+          id="result-message"
+          class="hidden mt-6 p-4 rounded-xl text-center text-xl font-bold"
+        >
+        </div>
+
+        <!-- Final Results -->
+        <div
+          id="final-results"
+          class="hidden bg-white/10 backdrop-blur-lg rounded-2xl p-8 text-center"
+        >
+          <div id="result-icon" class="text-6xl mb-4"></div>
+          <h2 class="text-4xl font-bold text-white mb-4" id="result-title">
+            Quiz Complete!
+          </h2>
+          <p class="text-3xl text-gray-300 mb-4">
+            The answer was: <span class="text-purple-400" id="correct-answer"
+            ></span>
+          </p>
+          <p class="text-2xl text-gray-300 mb-6">
+            You guessed it with <span id="final-clues" class="text-pink-400"
+              >0</span
+            > clue(s)!
+          </p>
+          <button
+            id="restart-btn"
+            class="px-8 py-4 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-xl font-bold text-lg hover:shadow-2xl hover:scale-105 transition-all duration-300"
+          >
+            Play Again
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Animated Background Elements -->
+    <div class="fixed inset-0 pointer-events-none overflow-hidden -z-10">
+      <div
+        class="absolute top-1/4 left-1/4 w-64 h-64 bg-purple-500 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob"
+      >
+      </div>
+      <div
+        class="absolute top-1/3 right-1/4 w-64 h-64 bg-pink-500 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob animation-delay-2000"
+      >
+      </div>
+      <div
+        class="absolute bottom-1/4 left-1/3 w-64 h-64 bg-blue-500 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob animation-delay-4000"
+      >
+      </div>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  @keyframes blob {
+    0%,
+    100% {
+      transform: translate(0px, 0px) scale(1);
+    }
+    33% {
+      transform: translate(30px, -50px) scale(1.1);
+    }
+    66% {
+      transform: translate(-20px, 20px) scale(0.9);
+    }
+  }
+
+  .animate-blob {
+    animation: blob 7s infinite;
+  }
+
+  .animation-delay-2000 {
+    animation-delay: 2s;
+  }
+
+  .animation-delay-4000 {
+    animation-delay: 4s;
+  }
+
+  .selected-wrong {
+    background-color: rgba(239, 68, 68, 0.3) !important;
+    border-color: rgb(239, 68, 68) !important;
+  }
+</style>
+
+<script type="module" src="/scripts/quiz.js"></script>

@@ -1,0 +1,190 @@
+{
+  "url_name": "110901-rhein-kraft",
+  "card_id": 110901,
+  "char_id": 1109,
+  "name_en": "Rhein Kraft",
+  "name_jp": "ラインクラフト",
+  "name_ko": "라인 크라프트",
+  "name_tw": "萊茵實力",
+  "title": "Dream Successor",
+  "title_jp": "[Dream Successor]",
+  "title_ko": "[Dream Successor]",
+  "title_tw": "[Dream Successor]",
+  "rarity": 3,
+  "costume": 110901,
+  "release": "2024-03-21",
+  "release_ko": "2025-07-10",
+  "release_zh_tw": "2025-07-23",
+  "obtained": "gacha",
+  "skills_unique": [
+    101091
+  ],
+  "skills_innate": [
+    201902,
+    200582,
+    202502
+  ],
+  "skills_evo": [
+    {
+      "old": 202501,
+      "new": 110901111
+    },
+    {
+      "old": 201901,
+      "new": 110901211
+    }
+  ],
+  "skills_awakening": [
+    201312,
+    202501,
+    202802,
+    201901
+  ],
+  "skills_event": [
+    202672,
+    200212,
+    200582,
+    202532,
+    202742
+  ],
+  "stat_bonus": [
+    0,
+    0,
+    15,
+    15,
+    0
+  ],
+  "talent_group": 110901,
+  "base_stats": [
+    93,
+    86,
+    92,
+    93,
+    86
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "A",
+    "A",
+    "B",
+    "G",
+    "E",
+    "A",
+    "C",
+    "G"
+  ],
+  "four_star_stats": [
+    103,
+    96,
+    102,
+    103,
+    96
+  ],
+  "five_star_stats": [
+    114,
+    105,
+    112,
+    114,
+    105
+  ],
+  "profile": {
+    "char_id": 1109,
+    "ja": {
+      "self_intro": "ラインクラフトです！想いを引き継ぎ、道を切り拓き、未来へ繋いでいく。わたし、そんなティアラウマ娘になりたいんです！",
+      "tagline": "輝く未来へ！ティアラを夢見るお日さま娘",
+      "weight": "ほんわか",
+      "shoes": "左：23.5cm 右：23.0cm",
+      "dorm": "栗東寮",
+      "class": "中等部",
+      "ears": "スキンシップ中はだらんと垂れてリラックス",
+      "tail": "いつもほわほわで柔らかい",
+      "strong": "ハンドメイド全般、ロッククライミング",
+      "weak": "虫（特にハエ）、演技",
+      "family": "家族全員揃ったらみんなでピクニックが定番",
+      "secrets": [
+        "実は、雷っぽい形の跳ね毛が自慢。",
+        "実は、ビー玉バトルがめちゃくちゃ強い。"
+      ]
+    },
+    "ko": {
+      "self_intro": "라인 크라프트입니다! 마음을 잇고, 길을 개척하고, 미래로 이어 간다. 저는 그런 티아라 우마무스메가 되고 싶어요!",
+      "tagline": "빛나는 미래를 향해! 티아라를 꿈꾸는 햇살 같은 소녀",
+      "weight": "편안함",
+      "shoes": "좌 : 23.5cm 우 : 23.0cm",
+      "dorm": "릿토 생활관",
+      "class": "중등부",
+      "ears": "스킨십 중에는 편안하게 축 늘어진다",
+      "tail": "언제나 폭신폭신하고 부드럽다",
+      "strong": "수공예 전반, 암벽 등반",
+      "weak": "벌레(특히 파리), 연기하기",
+      "family": "가족 전원이 모이면 으레 다 함께 피크닉을 간다",
+      "secrets": [
+        "사실은 번개 같은 모양의 삐침머리가 자랑.",
+        "사실은 구슬치기를 엄청나게 잘한다."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "我是萊茵實力！繼承意志，開拓出與未來聯繫的道路。我想成為那樣的后冠賽馬娘！",
+      "tagline": "奔向光明的未來！將后冠視為夢想的陽光賽馬娘",
+      "weight": "溫柔暖心",
+      "shoes": "左：23.5cm 右：23.0cm",
+      "dorm": "栗東宿舍",
+      "class": "國中部",
+      "ears": "肢體接觸時會慵懶地下垂呈現放鬆的樣子",
+      "tail": "總是柔軟又溫暖",
+      "strong": "所有手工藝、攀岩",
+      "weak": "昆蟲（尤其是蒼蠅）、演戲",
+      "family": "固定活動是全家聚在一起野餐",
+      "secrets": [
+        "其實她對自己那撮像雷電的翹髮感到自豪。",
+        "其實她打彈珠超強。"
+      ]
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "url_name": "rhein-kraft",
+    "char_id": 1109,
+    "jp_name": "ラインクラフト",
+    "en_name": "Rhein Kraft",
+    "name_ko": "라인 크라프트",
+    "name_tw": "萊茵實力",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "va_en": "Nanae Kojima",
+    "va_ja": "小島菜々恵",
+    "va_ko": "코지마 나나에",
+    "va_zh_tw": "小島菜々恵",
+    "va_link": "https://myanimelist.net/people/56948/Nanae_Kojima",
+    "three_sizes": {
+      "b": 85,
+      "w": 55,
+      "h": 83
+    },
+    "birth_day": 4,
+    "birth_month": 4,
+    "birth_year": 2002,
+    "height": 157,
+    "sex": 2,
+    "race": false,
+    "rl": {
+      "country": "jp",
+      "death": "2006-08-19",
+      "races": 13,
+      "wins": 6,
+      "record": "13-6-3-2",
+      "earnings": 505630000,
+      "active": "2004-2006"
+    }
+  },
+  "__file": "110901-rhein-kraft.json",
+  "has_release_en": false,
+  "has_version": false
+}

@@ -1,0 +1,118 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout>
+  <div
+    class="min-h-screen bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900"
+  >
+    <!-- Navigation -->
+    <nav class="container mx-auto px-6 py-6">
+      <div class="flex items-center justify-between">
+        <a href="/"
+          class="text-white text-2xl font-bold tracking-wider animate-fade-in hover:text-purple-300 transition-colors duration-300"
+        >
+          Gubuk Trainer
+        </a>
+      </div>
+    </nav>
+
+    <!-- Server Selection Screen -->
+    <div class="container mx-auto px-6 py-20 md:py-32">
+      <div class="flex flex-col items-center justify-center min-h-[60vh]">
+        <h2 class="text-4xl md:text-6xl font-bold text-white mb-12 animate-slide-up text-center">
+          Pilih Server Sob
+        </h2>
+        
+        <div class="flex flex-col sm:flex-row gap-6 animate-fade-in-slow">
+          <a
+            href="/quiz_en"
+            class="px-12 py-6 bg-gradient-to-r from-blue-500 to-cyan-500 text-white rounded-2xl font-bold text-2xl hover:shadow-2xl hover:scale-110 transition-all duration-300 hover:from-blue-600 hover:to-cyan-600 inline-block text-center"
+          >
+            Server EN
+          </a>
+          <button
+            class="px-12 py-6 bg-gradient-to-r from-red-500 to-orange-500 text-white rounded-2xl font-bold text-2xl hover:shadow-2xl hover:scale-110 transition-all duration-300 hover:from-red-600 hover:to-orange-600"
+          >
+            Server JP
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Animated Background Elements -->
+    <div class="fixed inset-0 pointer-events-none overflow-hidden">
+      <div
+        class="absolute top-1/4 left-1/4 w-64 h-64 bg-purple-500 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob"
+      >
+      </div>
+      <div
+        class="absolute top-1/3 right-1/4 w-64 h-64 bg-pink-500 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob animation-delay-2000"
+      >
+      </div>
+      <div
+        class="absolute bottom-1/4 left-1/3 w-64 h-64 bg-blue-500 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob animation-delay-4000"
+      >
+      </div>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes slide-up {
+    from {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes blob {
+    0%,
+    100% {
+      transform: translate(0px, 0px) scale(1);
+    }
+    33% {
+      transform: translate(30px, -50px) scale(1.1);
+    }
+    66% {
+      transform: translate(-20px, 20px) scale(0.9);
+    }
+  }
+
+  .animate-fade-in {
+    animation: fade-in 1s ease-out;
+  }
+
+  .animate-fade-in-slow {
+    animation: fade-in 1.5s ease-out 0.6s both;
+  }
+
+  .animate-slide-up {
+    animation: slide-up 1s ease-out;
+  }
+
+  .animate-blob {
+    animation: blob 7s infinite;
+  }
+
+  .animation-delay-2000 {
+    animation-delay: 2s;
+  }
+
+  .animation-delay-4000 {
+    animation-delay: 4s;
+  }
+</style>

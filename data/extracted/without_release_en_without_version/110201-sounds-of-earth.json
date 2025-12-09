@@ -1,0 +1,197 @@
+{
+  "url_name": "110201-sounds-of-earth",
+  "card_id": 110201,
+  "char_id": 1102,
+  "name_en": "Sounds of Earth",
+  "name_jp": "サウンズオブアース",
+  "name_ko": "사운즈 오브 어스",
+  "name_tw": "萬籟爭鳴",
+  "title": "Ritmo Della Terra",
+  "title_jp": "[リトモ・デッラ・テッラ]",
+  "title_ko": "[Ritmo della Terra]",
+  "title_tw": "[地球的節奏]",
+  "rarity": 3,
+  "costume": 110201,
+  "release": "2024-04-19",
+  "release_ko": "2025-08-08",
+  "release_zh_tw": "2025-08-21",
+  "obtained": "gacha",
+  "skills_unique": [
+    101021
+  ],
+  "skills_innate": [
+    200382,
+    201661,
+    202542
+  ],
+  "skills_evo": [
+    {
+      "old": 200381,
+      "new": 110201111
+    },
+    {
+      "old": 202541,
+      "new": 110201211
+    },
+    {
+      "old": 202541,
+      "new": 110201221
+    }
+  ],
+  "skills_awakening": [
+    201651,
+    200381,
+    201591,
+    202541
+  ],
+  "skills_event": [
+    202642,
+    202122,
+    202612
+  ],
+  "stat_bonus": [
+    0,
+    10,
+    10,
+    10,
+    0
+  ],
+  "talent_group": 110201,
+  "base_stats": [
+    86,
+    92,
+    95,
+    84,
+    93
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "G",
+    "F",
+    "A",
+    "A",
+    "G",
+    "B",
+    "A",
+    "E"
+  ],
+  "four_star_stats": [
+    95,
+    103,
+    106,
+    94,
+    102
+  ],
+  "five_star_stats": [
+    105,
+    113,
+    116,
+    103,
+    113
+  ],
+  "profile": {
+    "char_id": 1102,
+    "ja": {
+      "self_intro": "おお、我が愛するムジチスタたちよ！このサウンズオブアースと共に、今日もメロディーアを重ね合おう！",
+      "tagline": "レースはアンサンボゥ！音楽愛する芸術家ウマ娘",
+      "weight": "ベニッシモ！",
+      "shoes": "左右ともに24.5cm",
+      "dorm": "栗東寮",
+      "class": "中等部",
+      "ears": "耳カバーは生地にこだわった海外ブランド製",
+      "tail": "普段と正装時で尻尾用コロンを変える",
+      "strong": "エスコート、銀製品の手入れ",
+      "weak": "わさび、人工甘味料、ノートをとること",
+      "family": "セッションで会話することも多い",
+      "secrets": [
+        "実は、作曲作業中のお供といえば『地球儀』。",
+        "実は、コロンで香りづけした便箋で手紙を出している。"
+      ]
+    },
+    "ko": {
+      "self_intro": "오오, 나의 사랑스러운 Musicista들이여! 이 사운즈 오브 어스와 함께 오늘도 Melodia를 쌓아 나가자!",
+      "tagline": "레이스는 앙상블! 음악을 사랑하는 예술가 우마무스메",
+      "weight": "Benissimo!",
+      "shoes": "좌우 모두 24.5cm",
+      "dorm": "릿토 생활관",
+      "class": "중등부",
+      "ears": "귀 커버는 원단이 뛰어난 해외 명품",
+      "tail": "일상용과 정장용 꼬리 코롱을 따로 쓴다",
+      "strong": "에스코트, 은 제품 관리",
+      "weak": "와사비, 인공 감미료, 노트 필기",
+      "family": "대화를 합주로 대신할 때도 많다.",
+      "secrets": [
+        "사실은 작곡 작업의 동반자는 『지구본』.",
+        "사실은 코롱으로 향을 입힌 편지지에 편지를 쓴다."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "哦哦，我所深愛的musicista們啊！今天也與我萬籟爭鳴，一起演奏出彼此的melodìa吧！",
+      "tagline": "競賽就是一場合奏！深愛音樂的藝術家賽馬娘",
+      "weight": "Benissimo!",
+      "shoes": "左右都是24.5cm",
+      "dorm": "栗東宿舍",
+      "class": "國中部",
+      "ears": "耳罩是講究材質的國外名牌製品",
+      "tail": "平時與著正裝時會分別用不同的尾巴專用香水",
+      "strong": "引導、保養銀製品",
+      "weak": "芥末、人工糖精、寫筆記",
+      "family": "經常透過合奏來溝通",
+      "secrets": [
+        "其實她在作曲時的良伴是「地球儀」。",
+        "其實她會用噴上古龍水的信紙寫信。"
+      ]
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "url_name": "sounds-of-earth",
+    "char_id": 1102,
+    "jp_name": "サウンズオブアース",
+    "en_name": "Sounds of Earth",
+    "name_ko": "사운즈 오브 어스",
+    "name_tw": "萬籟爭鳴",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "va_en": "MAKIKO",
+    "va_ja": "MAKIKO",
+    "va_ko": "MAKIKO",
+    "va_zh_tw": "MAKIKO",
+    "va_link": "https://myanimelist.net/people/67756/MAKIKO",
+    "three_sizes": {
+      "b": 80,
+      "w": 52,
+      "h": 81
+    },
+    "birth_day": 12,
+    "birth_month": 4,
+    "birth_year": 2011,
+    "height": 161,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2023-02-13",
+      "races": 30,
+      "wins": 2,
+      "record": "30-2-8-1",
+      "earnings": 467449000,
+      "earnings_other": [
+        [
+          120000,
+          "AED"
+        ]
+      ],
+      "active": "2013-2018"
+    }
+  },
+  "__file": "110201-sounds-of-earth.json",
+  "has_release_en": false,
+  "has_version": false
+}

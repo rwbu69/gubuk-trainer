@@ -1,0 +1,204 @@
+{
+  "url_name": "101602-narita-brian",
+  "card_id": 101602,
+  "char_id": 1016,
+  "name_en": "Narita Brian",
+  "name_jp": "ナリタブライアン",
+  "name_ko": "나리타 브라이언",
+  "name_tw": "成田白仁",
+  "version": "blaze",
+  "title": "Hungry Wolf",
+  "title_jp": "[餓狼]",
+  "title_ko": "[굶주린 늑대]",
+  "title_tw": "[餓狼]",
+  "rarity": 3,
+  "costume": 101602,
+  "release": "2022-12-20",
+  "release_ko": "2024-04-09",
+  "release_zh_tw": "2024-04-23",
+  "obtained": "gacha",
+  "skills_unique": [
+    110161
+  ],
+  "skills_innate": [
+    200172,
+    202472,
+    202482
+  ],
+  "skills_evo": [
+    {
+      "old": 202471,
+      "new": 101602111
+    },
+    {
+      "old": 202481,
+      "new": 101602211
+    }
+  ],
+  "skills_awakening": [
+    200742,
+    202471,
+    202192,
+    202481
+  ],
+  "skills_event": [
+    201202,
+    200562,
+    202012
+  ],
+  "stat_bonus": [
+    10,
+    10,
+    0,
+    10,
+    0
+  ],
+  "talent_group": 101602,
+  "base_stats": [
+    93,
+    98,
+    82,
+    97,
+    80
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "F",
+    "B",
+    "A",
+    "A",
+    "G",
+    "A",
+    "A",
+    "D"
+  ],
+  "four_star_stats": [
+    103,
+    109,
+    92,
+    108,
+    88
+  ],
+  "five_star_stats": [
+    113,
+    120,
+    101,
+    118,
+    98
+  ],
+  "profile": {
+    "char_id": 1016,
+    "ja": {
+      "self_intro": "…ナリタブライアンだ。わざわざ語って聞かせるような話はない。ただ走り、ブッちぎって勝つだけだ",
+      "tagline": "背中で語れ！硬派で頑固な一匹狼",
+      "weight": "レースに支障なし",
+      "shoes": "左右ともに24.5cm",
+      "dorm": "栗東寮",
+      "class": "高等部",
+      "ears": "ファンファーレを聞くと血が滾る",
+      "tail": "手入れしたことも気にかけたこともない",
+      "strong": "クルミを割ること",
+      "weak": "小さな生き物を触ること",
+      "family": "両親と姉いわく『寡黙なのは、優しい証拠』",
+      "secrets": [
+        "実は、咥えている枝は自家栽培。",
+        "実は、たまに猛禽カフェに通っている。"
+      ]
+    },
+    "ko": {
+      "self_intro": "…나리타 브라이언이다. 특별히 할 이야기는 없어. 그저 달리고, 앞서나가 이길 뿐이다.",
+      "tagline": "말보다는 행동!! 강경하고 완고한 한 마리의 고독한 늑대",
+      "weight": "레이스에 지장 없음",
+      "shoes": "좌우 모두 24.5cm",
+      "dorm": "릿토 생활관",
+      "class": "고등부",
+      "ears": "팡파르를 들으면 피가 끓는다.",
+      "tail": "손질한 적도 신경 쓴 적도 없다.",
+      "strong": "호두 까기",
+      "weak": "작은 동물들을 만지는 것",
+      "family": "부모님과 언니가 말하길 『과묵한 건 상냥함의 증거』",
+      "secrets": [
+        "사실은 물고 있는 가지를 직접 재배했다.",
+        "사실은 가끔 맹금류 카페에 다닌다."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "……我是成田白仁。沒有什麼特別需要說的。反正跑下去，遙遙領先然後獲勝就對了。",
+      "tagline": "用背影傳達一切！硬派的頑固獨行俠",
+      "weight": "不影響競賽",
+      "shoes": "左右都是24.5cm",
+      "dorm": "栗東宿舍",
+      "class": "高中部",
+      "ears": "聽到開場小號就會熱血沸騰",
+      "tail": "不在意保養，也沒有做過",
+      "strong": "敲碎胡桃",
+      "weak": "摸小生物",
+      "family": "父母跟姊姊表示「沉默寡言就是溫柔的證據」",
+      "secrets": [
+        "其實她嘴裡咬著的樹枝是自家種的。",
+        "其實她偶爾會去猛禽咖啡廳。"
+      ]
+    },
+    "en": {
+      "self_intro": "I'm Narita Brian. I'm here to run circles around my opponents, not chit-chat. That's it.",
+      "tagline": "Actions speak louder than words! A tough and stubborn lone wolf.",
+      "weight": "No impediment to racing",
+      "shoes": "Left and right: 24.5cm",
+      "dorm": "Ritto Dormitory",
+      "class": "Senior Division",
+      "ears": "Her blood starts pumping when she hears fanfare",
+      "tail": "She never cared much for appearances",
+      "strong": "Cracking walnuts",
+      "weak": "Petting small creatures",
+      "family": "Her parents and sister say her silence is proof of her kindness",
+      "secrets": [
+        "Did you know? The stem in her mouth comes from her family's gardens."
+      ]
+    }
+  },
+  "charData": {
+    "url_name": "narita-brian",
+    "char_id": 1016,
+    "jp_name": "ナリタブライアン",
+    "en_name": "Narita Brian",
+    "name_ko": "나리타 브라이언",
+    "name_tw": "成田白仁",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "playable_en": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Rika Kinugawa",
+    "va_ja": "衣川里佳",
+    "va_ko": "키누가와 리카",
+    "va_zh_tw": "衣川里佳",
+    "va_link": "https://myanimelist.net/people/40034/Rika_Kinugawa",
+    "three_sizes": {
+      "b": 91,
+      "w": 58,
+      "h": 85
+    },
+    "birth_day": 3,
+    "birth_month": 5,
+    "birth_year": 1991,
+    "height": 160,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "1998-09-27",
+      "races": 21,
+      "wins": 12,
+      "record": "12-3-1-5",
+      "earnings": 947420000,
+      "active": "1993-1996"
+    }
+  },
+  "__file": "101602-narita-brian.json",
+  "has_release_en": false,
+  "has_version": true
+}

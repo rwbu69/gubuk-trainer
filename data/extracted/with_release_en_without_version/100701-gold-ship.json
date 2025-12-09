@@ -1,0 +1,159 @@
+{
+  "url_name": "100701-gold-ship",
+  "card_id": 100701,
+  "char_id": 1007,
+  "name_en": "Gold Ship",
+  "name_jp": "ゴールドシップ",
+  "name_ko": "골드 쉽",
+  "name_tw": "黃金船",
+  "title": "Red Strife",
+  "title_jp": "[レッドストライフ]",
+  "title_ko": "[레드 스트라이프]",
+  "title_tw": "[火紅鬥爭]",
+  "title_en_gl": "[Red Strife]",
+  "rarity": 2,
+  "costume": 100701,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "obtained": "gacha",
+  "skills_unique": [
+    10071,
+    100071
+  ],
+  "skills_innate": [
+    201591,
+    201212,
+    201472
+  ],
+  "skills_evo": [
+    {
+      "old": 201471,
+      "new": 100701111
+    },
+    {
+      "old": 201481,
+      "new": 100701211
+    }
+  ],
+  "skills_awakening": [
+    201482,
+    201471,
+    200622,
+    201481
+  ],
+  "skills_event": [
+    200052,
+    200142,
+    200433
+  ],
+  "stat_bonus": [
+    0,
+    20,
+    10,
+    0,
+    0
+  ],
+  "talent_group": 100701,
+  "base_stats": [
+    82,
+    96,
+    100,
+    77,
+    70
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "G",
+    "C",
+    "A",
+    "A",
+    "G",
+    "B",
+    "B",
+    "A"
+  ],
+  "three_star_stats": [
+    87,
+    101,
+    105,
+    81,
+    76
+  ],
+  "four_star_stats": [
+    97,
+    113,
+    117,
+    90,
+    83
+  ],
+  "five_star_stats": [
+    106,
+    124,
+    129,
+    99,
+    92
+  ],
+  "profile": {
+    "self_intro": "Bow down! Gold Ship has arrived! Whether I gotta go through a raging inferno, the most downtrodden turf, or even way out there in outer space, I'm always up for adventure! ☆",
+    "tagline": "Wild and unpredictable, this golden runner is unlike anybody else!",
+    "weight": "Unmeasurable",
+    "shoes": "Left and right: 26.5cm",
+    "dorm": "Ritto Dormitory",
+    "class": "???",
+    "ears": "She covers people's ears and asks \"Guess who?\"",
+    "tail": "Sometimes forgets it in her room (according to her)",
+    "strong": "Moving facial muscles",
+    "weak": "Staying still",
+    "family": "Apparently, it's a national secret",
+    "secrets": [
+      "Did you know? She's scarily good at trivia quizzes."
+    ]
+  },
+  "charData": {
+    "url_name": "gold-ship",
+    "char_id": 1007,
+    "jp_name": "ゴールドシップ",
+    "en_name": "Gold Ship",
+    "name_ko": "골드 쉽",
+    "name_tw": "黃金船",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "playable_en": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Hitomi Ueda",
+    "va_ja": "上田瞳",
+    "va_ko": "우에다 히토미",
+    "va_zh_tw": "上田瞳",
+    "va_link": "https://myanimelist.net/people/47873/Hitomi_Ueda",
+    "three_sizes": {
+      "b": 88,
+      "w": 55,
+      "h": 88
+    },
+    "birth_day": 6,
+    "birth_month": 3,
+    "birth_year": 2009,
+    "height": 170,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": null,
+      "races": 28,
+      "wins": 13,
+      "record": "13-3-2-10",
+      "earnings": 1397767000,
+      "active": "2011-2015"
+    }
+  },
+  "__file": "100701-gold-ship.json",
+  "has_release_en": true,
+  "has_version": false
+}

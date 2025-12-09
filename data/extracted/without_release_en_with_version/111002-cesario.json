@@ -1,0 +1,169 @@
+{
+  "url_name": "111002-cesario",
+  "card_id": 111002,
+  "char_id": 1110,
+  "name_en": "Cesario",
+  "name_jp": "シーザリオ",
+  "name_ko": "세자리오",
+  "name_tw": "西薩里奧",
+  "version": "wedding",
+  "title": "Twinbell Queen",
+  "title_jp": "[Twinbell Queen]",
+  "rarity": 3,
+  "costume": 111026,
+  "release": "2025-05-30",
+  "obtained": "gacha",
+  "skills_unique": [
+    111101
+  ],
+  "skills_innate": [
+    202432,
+    203422,
+    203052
+  ],
+  "skills_evo": [
+    {
+      "old": 202431,
+      "new": 111002111
+    },
+    {
+      "old": 203051,
+      "new": 111002211
+    }
+  ],
+  "skills_awakening": [
+    203122,
+    202431,
+    201702,
+    203051
+  ],
+  "skills_event": [
+    202452,
+    200592,
+    203222,
+    201312,
+    200602,
+    203022,
+    202102
+  ],
+  "stat_bonus": [
+    0,
+    0,
+    10,
+    20,
+    0
+  ],
+  "talent_group": 111002,
+  "base_stats": [
+    90,
+    92,
+    99,
+    85,
+    84
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "G",
+    "A",
+    "A",
+    "F",
+    "G",
+    "A",
+    "A",
+    "C"
+  ],
+  "four_star_stats": [
+    100,
+    102,
+    110,
+    95,
+    93
+  ],
+  "five_star_stats": [
+    110,
+    112,
+    122,
+    104,
+    102
+  ],
+  "profile": {
+    "char_id": 1110,
+    "ja": {
+      "self_intro": "我が宿願は、ティアラを戴冠し輝かしき未来の礎となることです。――どうぞ、よろしくお願いしますね♪",
+      "tagline": "峻厳の士にして聖母――2つの顔を持つウマ娘",
+      "weight": "微減（レース前で節制気味）",
+      "shoes": "左右ともに24.5cm",
+      "dorm": "栗東寮",
+      "class": "中等部",
+      "ears": "甘えてもらえないと、時折イカ耳になる",
+      "tail": "海洋深層水のシャンプーを使っている",
+      "strong": "歌、手分量、変装",
+      "weak": "悲恋物語、冬の朝",
+      "family": "にんじんグラッセは母直伝のレシピ",
+      "secrets": [
+        "実は、コメディ劇が結構好き。",
+        "実は、フェーヴ集めが密かな趣味。"
+      ]
+    },
+    "ko": {
+      "secrets": [
+        "사실은 코미디 연극을 꽤 좋아한다.",
+        "사실은 페브 수집이 은밀한 취미."
+      ]
+    },
+    "zh_tw": {
+      "secrets": [
+        "其實她相當喜歡喜劇。",
+        "其實她不為人知的興趣是收集國王餅的瓷偶。"
+      ]
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "url_name": "cesario",
+    "char_id": 1110,
+    "jp_name": "シーザリオ",
+    "en_name": "Cesario",
+    "name_ko": "세자리오",
+    "name_tw": "西薩里奧",
+    "playable": true,
+    "active": true,
+    "va_en": "Haruka Satou",
+    "va_ja": "佐藤榛夏",
+    "va_ko": "사토 하루카",
+    "va_zh_tw": "佐藤榛夏",
+    "va_link": "https://myanimelist.net/people/81829/Haruka_Satou",
+    "three_sizes": {
+      "b": 80,
+      "w": 53,
+      "h": 84
+    },
+    "birth_day": 31,
+    "birth_month": 3,
+    "birth_year": 2002,
+    "height": 167,
+    "sex": 2,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2021-02-27",
+      "races": 6,
+      "wins": 5,
+      "record": "6-5-1-0",
+      "earnings": 228296000,
+      "earnings_other": [
+        [
+          450000,
+          "USD"
+        ]
+      ],
+      "active": "2004-2005"
+    }
+  },
+  "__file": "111002-cesario.json",
+  "has_release_en": false,
+  "has_version": true
+}

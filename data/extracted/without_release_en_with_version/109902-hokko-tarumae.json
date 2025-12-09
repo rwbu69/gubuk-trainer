@@ -1,0 +1,198 @@
+{
+  "url_name": "109902-hokko-tarumae",
+  "card_id": 109902,
+  "char_id": 1099,
+  "name_en": "Hokko Tarumae",
+  "name_jp": "ホッコータルマエ",
+  "name_ko": "홋코 타루마에",
+  "name_tw": "北幸樽前",
+  "version": "summer_trip",
+  "title": "Pastel Marine Locodol",
+  "title_jp": "[パステルマリン・ロコドル]",
+  "title_ko": "[파스텔 마린・지역 아이돌]",
+  "title_tw": "[粉藍海洋．地方偶像]",
+  "rarity": 3,
+  "costume": 109930,
+  "release": "2024-07-29",
+  "release_ko": "2025-11-17",
+  "release_zh_tw": "2025-11-30",
+  "obtained": "gacha",
+  "skills_unique": [
+    110991
+  ],
+  "skills_innate": [
+    202832,
+    202302,
+    203082
+  ],
+  "skills_evo": [
+    {
+      "old": 202831,
+      "new": 109902111
+    },
+    {
+      "old": 203081,
+      "new": 109902211
+    }
+  ],
+  "skills_awakening": [
+    203093,
+    202831,
+    202332,
+    203081
+  ],
+  "skills_event": [
+    202312,
+    201581,
+    200182,
+    201322,
+    201682,
+    202262
+  ],
+  "stat_bonus": [
+    15,
+    10,
+    0,
+    0,
+    5
+  ],
+  "talent_group": 109902,
+  "base_stats": [
+    95,
+    84,
+    85,
+    91,
+    95
+  ],
+  "aptitude": [
+    "G",
+    "A",
+    "F",
+    "A",
+    "A",
+    "E",
+    "B",
+    "A",
+    "G",
+    "G"
+  ],
+  "four_star_stats": [
+    105,
+    93,
+    94,
+    101,
+    107
+  ],
+  "five_star_stats": [
+    111,
+    103,
+    105,
+    112,
+    119
+  ],
+  "profile": {
+    "char_id": 1099,
+    "ja": {
+      "self_intro": "北の港から飛んできた、紙の翼の渡り鳥♪苫小牧ロコドル、ホッコータルマエだべ！…うーん、もっとひねった方がいいかな",
+      "tagline": "苫小牧を背負って走るリアリストなロコドル",
+      "weight": "増減なし",
+      "shoes": "左右ともに24.5cm",
+      "dorm": "栗東寮",
+      "class": "中等部",
+      "ears": "メンコは絶対つけ忘れない",
+      "tail": "ロコドルモードの時は、より動く",
+      "strong": "苫小牧クイズ、山登り",
+      "weak": "運頼み、船に乗ること",
+      "family": "仕送りには、必ず苫小牧銘菓が入っている",
+      "secrets": [
+        "実は、ゲン担ぎをしないのが一番のゲン担ぎだと思っている。",
+        "実は、ストレスがたまると小物を頭に乗せてボーっとしてしまう。"
+      ]
+    },
+    "ko": {
+      "self_intro": "북쪽 항구에서 날아 온, 종이 날개 철새♪ 토마코마이 로컬 아이돌, 홋코 타루마에여! …으~음, 좀 더 색다르게 하는 게 좋으려나.",
+      "tagline": "토마코마이를 짊어지고 달리는 현실주의자 지역 아이돌",
+      "weight": "변화 없음",
+      "shoes": "좌우 모두 24.5cm",
+      "dorm": "릿토 생활관",
+      "class": "중등부",
+      "ears": "귀 가리개 쓰는 것을 절대 잊지 않는다.",
+      "tail": "지역 아이돌 모드일 땐 더 활발히 움직인다.",
+      "strong": "토마코마이 퀴즈, 등산",
+      "weak": "운에 의지하기, 배를 타는 것",
+      "family": "집에서 온 소포엔 반드시 토마코마이 명과가 들어 있다.",
+      "secrets": [
+        "사실은 징크스에 의존하지 않는 것이 가장 좋은 징크스라고 생각한다.",
+        "사실은 스트레스가 쌓이면 작은 물건을 머리에 얹고 멍하니 있는다."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "儂是從北方港灣飛來的紙翼候鳥♪苫小牧的地方偶像──北幸樽前！……嗯～是不是應該再想特別一點的呀？",
+      "tagline": "背負著苫小牧未來的務實派地方偶像",
+      "weight": "無增減",
+      "shoes": "左右都是24.5cm",
+      "dorm": "栗東宿舍",
+      "class": "國中部",
+      "ears": "絕對不會忘記戴耳罩",
+      "tail": "進入地方偶像模式的時候特別好動",
+      "strong": "苫小牧知識問答、爬山",
+      "weak": "靠運氣、坐船",
+      "family": "家裡寄來的補給品一定會有苫小牧著名的點心",
+      "secrets": [
+        "其實她覺得不刻意求好運就是最棒的求好運方式。",
+        "其實她壓力大的時候，會把小東西放在頭上發呆。"
+      ]
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "url_name": "hokko-tarumae",
+    "char_id": 1099,
+    "jp_name": "ホッコータルマエ",
+    "en_name": "Hokko Tarumae",
+    "name_ko": "홋코 타루마에",
+    "name_tw": "北幸樽前",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "va_en": "Sayaka Kikuchi",
+    "va_ja": "菊池紗矢香",
+    "va_ko": "키쿠치 사야카",
+    "va_zh_tw": "菊池紗矢香",
+    "va_link": "https://myanimelist.net/people/51506/Sayaka_Kikuchi",
+    "three_sizes": {
+      "b": 86,
+      "w": 56,
+      "h": 85
+    },
+    "birth_day": 26,
+    "birth_month": 5,
+    "birth_year": 2009,
+    "height": 162,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": null,
+      "races": 39,
+      "wins": 17,
+      "record": "17-5-7-10",
+      "earnings": 1078706000,
+      "earnings_other": [
+        [
+          300000,
+          "USD"
+        ]
+      ],
+      "active": "2011-2016"
+    }
+  },
+  "__file": "109902-hokko-tarumae.json",
+  "has_release_en": false,
+  "has_version": true
+}

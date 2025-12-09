@@ -1,0 +1,170 @@
+{
+  "url_name": "104101-sakura-bakushin-o",
+  "card_id": 104101,
+  "char_id": 1041,
+  "name_en": "Sakura Bakushin O",
+  "name_jp": "サクラバクシンオー",
+  "name_ko": "사쿠라 바쿠신 오",
+  "name_tw": "櫻花驀進王",
+  "title": "Sakura, Forward!",
+  "title_jp": "[サクラ、すすめ！]",
+  "title_ko": "[사쿠라, 나아가라!]",
+  "title_tw": "[前進吧！櫻花]",
+  "title_en_gl": "[Blossom in Learning]",
+  "rarity": 1,
+  "costume": 104101,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "obtained": "gacha",
+  "skills_unique": [
+    10411,
+    100411
+  ],
+  "skills_innate": [
+    200841,
+    201312,
+    200652
+  ],
+  "skills_evo": [
+    {
+      "old": 200651,
+      "new": 104101111
+    },
+    {
+      "old": 200981,
+      "new": 104101211
+    }
+  ],
+  "skills_awakening": [
+    200982,
+    200651,
+    200992,
+    200981
+  ],
+  "skills_event": [
+    200042,
+    201282,
+    202042
+  ],
+  "skills_event_en": [
+    200042,
+    201282
+  ],
+  "stat_bonus": [
+    20,
+    0,
+    0,
+    0,
+    10
+  ],
+  "talent_group": 104101,
+  "base_stats": [
+    87,
+    54,
+    93,
+    85,
+    81
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "A",
+    "B",
+    "G",
+    "G",
+    "A",
+    "A",
+    "F",
+    "G"
+  ],
+  "two_star_stats": [
+    93,
+    57,
+    99,
+    90,
+    86
+  ],
+  "three_star_stats": [
+    98,
+    60,
+    105,
+    95,
+    92
+  ],
+  "four_star_stats": [
+    109,
+    67,
+    116,
+    106,
+    102
+  ],
+  "five_star_stats": [
+    120,
+    74,
+    128,
+    116,
+    112
+  ],
+  "profile": {
+    "self_intro": "Hello! I'm Sakura Bakushin O! As you can tell, I'm the model class representative AND Umamusume! BAKUSHIIIN!",
+    "tagline": "This class representative's gone wild! Full Speed Bakushiiiin!",
+    "weight": "No change",
+    "shoes": "Left and right: 24.0cm",
+    "dorm": "Miho Dormitory",
+    "class": "Senior Division",
+    "ears": "Only hear about half of what anyone says",
+    "tail": "Good luck grabbing it when she's in full-on Bakushin Mode",
+    "strong": "Being needed, helping others",
+    "weak": "Anything requiring three or more steps",
+    "family": "Her family's motto is \"Compliments, compliments, and more compliments!\"",
+    "secrets": [
+      "Did you know? She'll always protect her lance pieces in shogi."
+    ]
+  },
+  "charData": {
+    "url_name": "sakura-bakushin-o",
+    "char_id": 1041,
+    "jp_name": "サクラバクシンオー",
+    "en_name": "Sakura Bakushin O",
+    "name_ko": "사쿠라 바쿠신 오",
+    "name_tw": "櫻花驀進王",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "playable_en": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Sachika Misawa",
+    "va_ja": "三澤紗千香",
+    "va_ko": "미사와 사치카",
+    "va_zh_tw": "三澤紗千香",
+    "va_link": "https://myanimelist.net/people/7337/Sachika_Misawa",
+    "three_sizes": {
+      "b": 83,
+      "w": 55,
+      "h": 83
+    },
+    "birth_day": 14,
+    "birth_month": 4,
+    "birth_year": 1989,
+    "height": 158,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2011-04-30",
+      "races": 21,
+      "wins": 11,
+      "record": "11-2-1-7",
+      "earnings": 521253000,
+      "active": "1992-1994"
+    }
+  },
+  "__file": "104101-sakura-bakushin-o.json",
+  "has_release_en": true,
+  "has_version": false
+}

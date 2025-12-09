@@ -1,0 +1,212 @@
+{
+  "url_name": "104102-sakura-bakushin-o",
+  "card_id": 104102,
+  "char_id": 1041,
+  "name_en": "Sakura Bakushin O",
+  "name_jp": "サクラバクシンオー",
+  "name_ko": "사쿠라 바쿠신 오",
+  "name_tw": "櫻花驀進王",
+  "version": "sports_fest",
+  "title": "Red-Hot Leader",
+  "title_jp": "[レッドホット☆リーダー]",
+  "title_ko": "[레드 핫☆리더]",
+  "title_tw": "[赤熱☆隊長]",
+  "rarity": 3,
+  "costume": 104150,
+  "release": "2023-04-28",
+  "release_ko": "2024-08-16",
+  "release_zh_tw": "2024-08-29",
+  "obtained": "gacha",
+  "skills_unique": [
+    110411
+  ],
+  "skills_innate": [
+    202042,
+    200542,
+    200962
+  ],
+  "skills_evo": [
+    {
+      "old": 202041,
+      "new": 104102111
+    },
+    {
+      "old": 200963,
+      "new": 104102211
+    }
+  ],
+  "skills_awakening": [
+    201522,
+    202041,
+    200532,
+    200963
+  ],
+  "skills_event": [
+    200042,
+    200972,
+    201601,
+    201282,
+    202042
+  ],
+  "skills_event_en": [
+    200042,
+    200972,
+    201601,
+    201282
+  ],
+  "stat_bonus": [
+    14,
+    0,
+    8,
+    0,
+    8
+  ],
+  "talent_group": 104102,
+  "base_stats": [
+    107,
+    61,
+    93,
+    96,
+    93
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "A",
+    "B",
+    "G",
+    "G",
+    "A",
+    "A",
+    "F",
+    "G"
+  ],
+  "four_star_stats": [
+    119,
+    67,
+    104,
+    106,
+    104
+  ],
+  "five_star_stats": [
+    131,
+    74,
+    114,
+    117,
+    114
+  ],
+  "profile": {
+    "char_id": 1041,
+    "ja": {
+      "self_intro": "こんにちはッ！サクラバクシンオーです！ご覧の通り、優秀な委員長でもあります！みなの模範となるべく、いざ！バクシーン！",
+      "tagline": "大暴走・学級委員長。いつだって爆進！",
+      "weight": "増減なし",
+      "shoes": "左右ともに24.0cm",
+      "dorm": "美浦寮",
+      "class": "高等部",
+      "ears": "人の話は半分くらいしか聞こえていない",
+      "tail": "バクシンしていると、毛先さえも捕まらない",
+      "strong": "頼りにされること、人助け",
+      "weak": "手順がたくさん（3つ以上）あること",
+      "family": "家訓は『褒めて褒めて褒めて、褒めたい！』",
+      "secrets": [
+        "実は、『香車』のコマをお守りにしている。",
+        "実は、緑茶を淹れるのが得意。"
+      ]
+    },
+    "ko": {
+      "self_intro": "안녕하십니까! 사쿠라 바쿠신 오입니다! 보시는 바와 같이, 우수한 반장이기도 합니다! 모두의 모범이 되기 위해 지금 당장! 돌진~!",
+      "tagline": "대폭주 학급 반장. 언제든지 돌진!",
+      "weight": "변화 없음",
+      "shoes": "좌우 모두 24.0cm",
+      "dorm": "미호 생활관",
+      "class": "고등부",
+      "ears": "남의 말은 절반 밖에 안 들린다.",
+      "tail": "돌진하면 털끝조차 안 잡힌다.",
+      "strong": "타인에게 도움되기, 다른 사람 돕기",
+      "weak": "절차가 많이(3개 이상) 있는 것",
+      "family": "가훈은 『칭찬하고 칭찬하고 칭찬하고, 더 칭찬하기!』",
+      "secrets": [
+        "사실은 일본 장기의 『향차』말을 부적으로 삼고 있다.",
+        "사실은 녹차 우리기가 특기."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "你好！我是櫻花驀進王！如你所見，我還是個優秀的班長！我要成為大家的典範，衝啊！驀進～！",
+      "tagline": "橫衝直撞的班長。隨時隨地都要驀進！",
+      "weight": "無增減",
+      "shoes": "左右都是24.0cm",
+      "dorm": "美浦宿舍",
+      "class": "高中部",
+      "ears": "別人說的話只聽一半",
+      "tail": "在驀進時，會讓人連尾巴毛髮的尾端都抓不到",
+      "strong": "受人依靠、助人",
+      "weak": "步驟繁雜（3個以上）的事情",
+      "family": "家訓為「誇獎誇獎誇獎，真想誇獎！」",
+      "secrets": [
+        "其實她一直把將棋的『香車』作為護身符帶在身上。",
+        "其實她很擅長泡綠茶。"
+      ]
+    },
+    "en": {
+      "self_intro": "Hello! I'm Sakura Bakushin O! As you can tell, I'm the model class representative AND Umamusume! BAKUSHIIIN!",
+      "tagline": "This class representative's gone wild! Full Speed Bakushiiiin!",
+      "weight": "No change",
+      "shoes": "Left and right: 24.0cm",
+      "dorm": "Miho Dormitory",
+      "class": "Senior Division",
+      "ears": "Only hear about half of what anyone says",
+      "tail": "Good luck grabbing it when she's in full-on Bakushin Mode",
+      "strong": "Being needed, helping others",
+      "weak": "Anything requiring three or more steps",
+      "family": "Her family's motto is \"Compliments, compliments, and more compliments!\"",
+      "secrets": [
+        "Did you know? She'll always protect her lance pieces in shogi."
+      ]
+    }
+  },
+  "charData": {
+    "url_name": "sakura-bakushin-o",
+    "char_id": 1041,
+    "jp_name": "サクラバクシンオー",
+    "en_name": "Sakura Bakushin O",
+    "name_ko": "사쿠라 바쿠신 오",
+    "name_tw": "櫻花驀進王",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "playable_en": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Sachika Misawa",
+    "va_ja": "三澤紗千香",
+    "va_ko": "미사와 사치카",
+    "va_zh_tw": "三澤紗千香",
+    "va_link": "https://myanimelist.net/people/7337/Sachika_Misawa",
+    "three_sizes": {
+      "b": 83,
+      "w": 55,
+      "h": 83
+    },
+    "birth_day": 14,
+    "birth_month": 4,
+    "birth_year": 1989,
+    "height": 158,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2011-04-30",
+      "races": 21,
+      "wins": 11,
+      "record": "11-2-1-7",
+      "earnings": 521253000,
+      "active": "1992-1994"
+    }
+  },
+  "__file": "104102-sakura-bakushin-o.json",
+  "has_release_en": false,
+  "has_version": true
+}

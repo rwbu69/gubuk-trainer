@@ -1,0 +1,206 @@
+{
+  "url_name": "103102-ines-fujin",
+  "card_id": 103102,
+  "char_id": 1031,
+  "name_en": "Ines Fujin",
+  "name_jp": "アイネスフウジン",
+  "name_ko": "아이네스 후진",
+  "name_tw": "艾尼風神",
+  "version": "valentine",
+  "title": "MELTY GIFT",
+  "title_jp": "[MELTY GIFT]",
+  "title_ko": "[MELTY GIFT]",
+  "title_tw": "[MELTY GIFT]",
+  "rarity": 3,
+  "costume": 103113,
+  "release": "2023-01-30",
+  "release_ko": "2024-05-20",
+  "release_zh_tw": "2024-06-03",
+  "obtained": "gacha",
+  "skills_unique": [
+    110311
+  ],
+  "skills_innate": [
+    201601,
+    200432,
+    201252
+  ],
+  "skills_evo": [
+    {
+      "old": 200431,
+      "new": 103102111
+    },
+    {
+      "old": 201253,
+      "new": 103102211
+    }
+  ],
+  "skills_awakening": [
+    201522,
+    200431,
+    201082,
+    201253
+  ],
+  "skills_event": [
+    201661,
+    201262,
+    202462,
+    201571,
+    200532,
+    201242
+  ],
+  "stat_bonus": [
+    14,
+    0,
+    0,
+    8,
+    8
+  ],
+  "talent_group": 103102,
+  "base_stats": [
+    102,
+    95,
+    72,
+    85,
+    96
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "G",
+    "A",
+    "A",
+    "C",
+    "A",
+    "C",
+    "G",
+    "G"
+  ],
+  "four_star_stats": [
+    114,
+    106,
+    80,
+    95,
+    105
+  ],
+  "five_star_stats": [
+    125,
+    116,
+    88,
+    104,
+    117
+  ],
+  "profile": {
+    "char_id": 1031,
+    "ja": {
+      "self_intro": "はろはろ～！アイネスフウジンなの！家族みーんなに喜んでもらえるように、レースもバイトもいっぱいがんばるの～！",
+      "tagline": "元気いーっぱい！家族思いの働き者",
+      "weight": "微増（ちょっと食べ過ぎた？）",
+      "shoes": "左：24.0cm右：24.5cm",
+      "dorm": "美浦寮",
+      "class": "高等部",
+      "ears": "小さい子の声につい反応してしまう",
+      "tail": "妹たちにいじられ慣れ、掴まれても驚かない",
+      "strong": "時短料理",
+      "weak": "贅沢、頼みごと（断れない）",
+      "family": "『出かける時は、手を繋ぐ』が家族ルール",
+      "secrets": [
+        "実は、同級生から月に3回以上は『お姉ちゃん』と呼び間違えられる。",
+        "実は、どんな箱でも綺麗に素早くラッピングできる。"
+      ]
+    },
+    "ko": {
+      "self_intro": "헬로 헬로~! 아이네스 후진이야! 가족 모~두가 기뻐할 수 있도록 레이스도 아르바이트도 열심히 할 거야~!",
+      "tagline": "활기 가~득! 가족을 아끼는 부지런한 일꾼",
+      "weight": "약간 증가 (좀 과식했나?)",
+      "shoes": "좌:24.0cm 우:24.5cm",
+      "dorm": "미호 생활관",
+      "class": "고등부",
+      "ears": "어린아이 목소리에 무심코 반응한다",
+      "tail": "동생들의 장난에 익숙해져서 붙잡혀도 놀라지 않는다",
+      "strong": "빨리 만드는 요리",
+      "weak": "사치, 부탁받는 것 (거절할 수 없음)",
+      "family": "『외출할 때는 손을 잡는다』가 가족 룰",
+      "secrets": [
+        "사실은 동급생이 한 달에 3번 이상은 『언니』라고 잘못 부른다.",
+        "사실은 어떤 상자라도 예쁘고 빠르게 포장할 수 있다."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "哈囉哈囉～！我是艾尼風神！為了讓所～有家人都開心，不管競賽還是打工，我都會盡全力加油喔～！",
+      "tagline": "充滿活力！愛家的勤勞女孩",
+      "weight": "微增（似乎吃太多了？）",
+      "shoes": "左：24.0cm右：24.5cm",
+      "dorm": "美浦宿舍",
+      "class": "高中部",
+      "ears": "容易對小孩子的聲音有反應",
+      "tail": "習慣被妹妹們把玩，即使被抓住也不會嚇到",
+      "strong": "省時料理",
+      "weak": "浪費、他人的委託（無法拒絕）",
+      "family": "家訓是「外出時要手牽手」",
+      "secrets": [
+        "其實她每個月會被同學叫錯成「姐姐」超過三次。",
+        "其實無論是什麼樣的箱子，她都能迅速地包裝得很美。"
+      ]
+    },
+    "en": {
+      "self_intro": "Hello-lo! I'm Ines Fujin! I'm here to work hard and race harder to make my family proud!",
+      "tagline": "Bursting with energy! This girl works hard for her family.",
+      "weight": "A bit heavier than last time (too many protein bars?)",
+      "shoes": "Left: 24.0cm Right: 24.5cm",
+      "dorm": "Miho Dormitory",
+      "class": "Senior Division",
+      "ears": "Always react to the sound of children's voices",
+      "tail": "Due to years of sibling antics, they no longer react to being grabbed",
+      "strong": "Quick and easy recipes",
+      "weak": "Splurging, being asked for help (she can't say no)",
+      "family": "Her family has a rule to always hold hands when going out",
+      "secrets": [
+        "Did you know? At least three times a month, her classmates accidentally call her \"Big Sis.\""
+      ]
+    }
+  },
+  "charData": {
+    "url_name": "ines-fujin",
+    "char_id": 1031,
+    "jp_name": "アイネスフウジン",
+    "en_name": "Ines Fujin",
+    "name_ko": "아이네스 후진",
+    "name_tw": "艾尼風神",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Rika Nagae",
+    "va_ja": "長江里加",
+    "va_ko": "나가에 리카",
+    "va_zh_tw": "里加長江",
+    "va_link": "https://myanimelist.net/people/43303/Rika_Nagae",
+    "three_sizes": {
+      "b": 88,
+      "w": 58,
+      "h": 84
+    },
+    "birth_day": 10,
+    "birth_month": 4,
+    "birth_year": 1987,
+    "height": 167,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2004-04-05",
+      "races": 8,
+      "wins": 4,
+      "record": "4-3-0-1",
+      "earnings": 236000000,
+      "active": "1989-1990"
+    }
+  },
+  "__file": "103102-ines-fujin.json",
+  "has_release_en": false,
+  "has_version": true
+}

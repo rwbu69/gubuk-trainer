@@ -1,0 +1,189 @@
+{
+  "url_name": "108401-tanino-gimlet",
+  "card_id": 108401,
+  "char_id": 1084,
+  "name_en": "Tanino Gimlet",
+  "name_jp": "タニノギムレット",
+  "name_ko": "타니노 김렛",
+  "name_tw": "谷水琴蕾",
+  "title": "Embodiment of Keravnos",
+  "title_jp": "[身に纏うケラヴノス]",
+  "title_ko": "[몸을 휘감는 케라브노스]",
+  "title_tw": "[雷光纏身]",
+  "rarity": 3,
+  "costume": 108401,
+  "release": "2023-05-19",
+  "release_ko": "2024-09-06",
+  "release_zh_tw": "2024-09-19",
+  "obtained": "gacha",
+  "skills_unique": [
+    100841
+  ],
+  "skills_innate": [
+    200362,
+    200632,
+    202652
+  ],
+  "skills_evo": [
+    {
+      "old": 200631,
+      "new": 108401111
+    },
+    {
+      "old": 202651,
+      "new": 108401211
+    }
+  ],
+  "skills_awakening": [
+    200032,
+    200631,
+    200642,
+    202651
+  ],
+  "skills_event": [
+    200492,
+    201462,
+    201452,
+    202492
+  ],
+  "stat_bonus": [
+    0,
+    0,
+    30,
+    0,
+    0
+  ],
+  "talent_group": 108401,
+  "base_stats": [
+    99,
+    83,
+    102,
+    82,
+    84
+  ],
+  "aptitude": [
+    "A",
+    "F",
+    "F",
+    "A",
+    "A",
+    "F",
+    "G",
+    "D",
+    "A",
+    "A"
+  ],
+  "four_star_stats": [
+    110,
+    92,
+    114,
+    91,
+    93
+  ],
+  "five_star_stats": [
+    121,
+    101,
+    125,
+    100,
+    103
+  ],
+  "profile": {
+    "char_id": 1084,
+    "ja": {
+      "self_intro": "俺はタニノギムレット！求めるのは理想の“ワタシ”。仮棲まいの己を騙る気はない。壊せよ、蹴破れ――そして進みな、終焉へ！",
+      "tagline": "この美学に酔いな！ピーキーな耽美系破壊神",
+      "weight": "パーフェクト",
+      "shoes": "左：24.5cm右：24.0cm",
+      "dorm": "栗東寮",
+      "class": "高等部",
+      "ears": "俺を謳うは俺――（※取材陣を無視しがち）",
+      "tail": "概念に抗え――（※尻尾でも柵を壊したい）",
+      "strong": "神話、哲学、ヴ行の発音、日曜大工",
+      "weak": "予定調和、半熟卵、りんご",
+      "family": "家の表札は壊した柵の再利用（母のお手製）",
+      "secrets": [
+        "実は、亡霊を黎明へ誘う手遊び（廃材DIY）が得意。",
+        "実は、フィリアを有する者（友人）の巡り（散歩）について行くのが好き。"
+      ]
+    },
+    "ko": {
+      "self_intro": "이 몸은 타니노 김렛! 추구하는 건 이상적인 '나'. 임시로 깃든 몸을 속일 생각은 없다. 부수고, 파괴하고… 나아가라, 종언으로!",
+      "tagline": "이 미학에 취하거라!  괴짜인 탐미주의 파괴신",
+      "weight": "퍼펙트",
+      "shoes": "좌:24.5cm 우:24.0cm",
+      "dorm": "릿토 생활관",
+      "class": "고등부",
+      "ears": "나를 칭송하는 것은 나…(※취재진을 무시하기 일쑤)",
+      "tail": "개념에 저항하라…(※꼬리로도 울타리를 부수고 싶다)",
+      "strong": "신화, 철학, V 발음, DIY 목공",
+      "weak": "뻔한 전개, 반숙 계란, 사과",
+      "family": "집의 문패는 부숴 버린 울타리를 재활용(어머니가 직접 제작)",
+      "secrets": [
+        "사실은 망령을 여명으로 인도하는 소일거리 (폐자재 DIY)가 특기.",
+        "사실은 필리아를 가진 자(친구)의 순회(산책)에 따라가는 것을 좋아한다."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "我是谷水琴蕾！追求目標是理想中的「吾」。我無意以一時的軀殼偽裝自已。破壞、踹破吧──然後朝向終結，前進吧！",
+      "tagline": "沉醉在吾的美學中吧！激進的唯美主義破壞神",
+      "weight": "完美",
+      "shoes": "左：24.5cm右：24.0cm",
+      "dorm": "栗東宿舍",
+      "class": "高中部",
+      "ears": "只有我能歌詠我──（※經常無視採訪媒體）",
+      "tail": "違抗概念──（※即使用尾巴也想破壞柵欄）",
+      "strong": "神話、哲學、V開頭的單字發音、DIY",
+      "weak": "前定和諧、半熟蛋、蘋果",
+      "family": "門牌是將打壞的柵欄回收做成的（母親做的）",
+      "secrets": [
+        "其實她很擅長引誘亡靈邁向黎明來打發時間（廢物再利用）。",
+        "其實她很喜歡跟著去有親愛之人（朋友）陪同的巡禮（散步）。"
+      ]
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "url_name": "tanino-gimlet",
+    "char_id": 1084,
+    "jp_name": "タニノギムレット",
+    "en_name": "Tanino Gimlet",
+    "name_ko": "타니노 김렛",
+    "name_tw": "谷水琴蕾",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "va_en": "Misato Matsuoka",
+    "va_ja": "松岡美里",
+    "va_ko": "마츠오카 미사토",
+    "va_zh_tw": "松岡美里",
+    "va_link": "https://myanimelist.net/people/50192/Misato_Matsuoka",
+    "three_sizes": {
+      "b": 77,
+      "w": 56,
+      "h": 79
+    },
+    "birth_day": 4,
+    "birth_month": 5,
+    "birth_year": 1999,
+    "height": 166,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": null,
+      "races": 8,
+      "wins": 5,
+      "record": "5-1-2-0",
+      "earnings": 386010000,
+      "active": "2001-2002"
+    }
+  },
+  "__file": "108401-tanino-gimlet.json",
+  "has_release_en": false,
+  "has_version": false
+}

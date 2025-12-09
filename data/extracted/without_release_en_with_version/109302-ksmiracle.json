@@ -1,0 +1,186 @@
+{
+  "url_name": "109302-ksmiracle",
+  "card_id": 109302,
+  "char_id": 1093,
+  "name_en": "K.S.Miracle",
+  "name_jp": "ケイエスミラクル",
+  "name_ko": "케이에스 미라클",
+  "name_tw": "喜嘉奇蹟",
+  "version": "alt",
+  "title": "",
+  "title_jp": "[秋日色アンダンテ]",
+  "rarity": 3,
+  "costume": 109323,
+  "release": "2025-08-29",
+  "obtained": "gacha",
+  "skills_unique": [
+    110931
+  ],
+  "skills_innate": [
+    203222,
+    203872,
+    201902
+  ],
+  "skills_evo": [
+    {
+      "old": 203221,
+      "new": 109302111
+    },
+    {
+      "old": 203871,
+      "new": 109302211
+    }
+  ],
+  "skills_awakening": [
+    200192,
+    203221,
+    203042,
+    203871
+  ],
+  "skills_event": [
+    201002,
+    200652,
+    202372,
+    202042
+  ],
+  "stat_bonus": [
+    15,
+    0,
+    15,
+    0,
+    0
+  ],
+  "talent_group": 109302,
+  "base_stats": [
+    104,
+    65,
+    97,
+    91,
+    93
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "A",
+    "B",
+    "G",
+    "G",
+    "E",
+    "A",
+    "B",
+    "C"
+  ],
+  "four_star_stats": [
+    116,
+    73,
+    107,
+    102,
+    102
+  ],
+  "five_star_stats": [
+    128,
+    80,
+    118,
+    112,
+    112
+  ],
+  "profile": {
+    "char_id": 1093,
+    "ja": {
+      "self_intro": "…おれは、ケイエスミラクルです。この命をくれた、みんなに報いて…必ず、奇跡を起こします",
+      "tagline": "感謝のしるしに奇跡を。優しく穏やかなウマ娘",
+      "weight": "スマート",
+      "shoes": "左：22.5cm右：22.0cm",
+      "dorm": "栗東寮",
+      "class": "高等部",
+      "ears": "笑い声が聞こえると少しだけ揺れる",
+      "tail": "せっけんの香りがする",
+      "strong": "道案内、耳コピ",
+      "weak": "濃すぎる味付け、サイレンの音",
+      "family": "両親と話す際は少しだけ言葉数が多くなる",
+      "secrets": [
+        "実は、好きな絵本の影響で白鳥モチーフの持ち物が多い。",
+        "実は、寝言がけっこう大きい。"
+      ]
+    },
+    "ko": {
+      "self_intro": "…저는 케이에스 미라클입니다. 이 목숨을 주신 모두에게 보답해서… 반드시, 기적을 일으키겠습니다.",
+      "tagline": "감사의 증표로 기적을.  다정하고 온화한 우마무스메",
+      "weight": "스마트하게 관리",
+      "shoes": "좌:22.5cm 우:22.0cm",
+      "dorm": "릿토 생활관",
+      "class": "고등부",
+      "ears": "웃음소리가 들리면 살짝 흔들린다.",
+      "tail": "비누 향이 난다.",
+      "strong": "길 안내, 들었던 곡을 악보 없이 연주하기",
+      "weak": "너무 짠 음식, 사이렌 소리",
+      "family": "부모님과 이야기할 때는 살짝 말이 많아진다.",
+      "secrets": [
+        "사실은 좋아하는 그림책의 영향을 받아서 백조를 형상화한 소지품이 많다.",
+        "사실은 잠꼬대 소리가 꽤 크다."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "……我是喜嘉奇蹟。為了回報各位給我的生命……我一定會，創造奇蹟。",
+      "tagline": "為表感謝而獻上奇蹟。溫柔又穩重的賽馬娘",
+      "weight": "苗條",
+      "shoes": "左：22.5cm右：22.0cm",
+      "dorm": "栗東宿舍",
+      "class": "高中部",
+      "ears": "一聽見笑聲就會微微搖晃",
+      "tail": "散發出肥皂的香氣",
+      "strong": "帶路、聽過音樂後便可完美演奏",
+      "weak": "過重的調味、警報聲",
+      "family": "與雙親聊天時，話會變得稍微多一些",
+      "secrets": [
+        "其實她因為受到喜歡的繪本影響，擁有很多以天鵝為靈感的東西。",
+        "其實她說夢話的聲音挺大聲的。"
+      ]
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "url_name": "ksmiracle",
+    "char_id": 1093,
+    "jp_name": "ケイエスミラクル",
+    "en_name": "K.S.Miracle",
+    "name_ko": "케이에스 미라클",
+    "name_tw": "喜嘉奇蹟",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "va_en": "Hinata Satou",
+    "va_ja": "佐藤日向",
+    "va_ko": "사토 히나타",
+    "va_zh_tw": "佐藤日向",
+    "va_link": "https://myanimelist.net/people/30917/Hinata_Satou",
+    "three_sizes": {
+      "b": 79,
+      "w": 51,
+      "h": 77
+    },
+    "birth_day": 16,
+    "birth_month": 3,
+    "birth_year": 1988,
+    "height": 156,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "1991-12-15",
+      "races": 10,
+      "wins": 5,
+      "record": "5-2-1-2",
+      "earnings": 134226000,
+      "active": "1991-1991"
+    }
+  },
+  "__file": "109302-ksmiracle.json",
+  "has_release_en": false,
+  "has_version": true
+}

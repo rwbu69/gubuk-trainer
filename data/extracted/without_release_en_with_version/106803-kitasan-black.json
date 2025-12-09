@@ -1,0 +1,209 @@
+{
+  "url_name": "106803-kitasan-black",
+  "card_id": 106803,
+  "char_id": 1068,
+  "name_en": "Kitasan Black",
+  "name_jp": "キタサンブラック",
+  "name_ko": "키타산 블랙",
+  "name_tw": "北部玄駒",
+  "version": "anime_collab",
+  "title": "Final Bloom",
+  "title_jp": "[結願のしまい華]",
+  "title_ko": "[결원의 마지막 꽃]",
+  "title_tw": "[償願謝幕之花]",
+  "rarity": 3,
+  "costume": 106802,
+  "release": "2023-12-28",
+  "release_ko": "2025-04-17",
+  "release_zh_tw": "2025-05-01",
+  "obtained": "gacha",
+  "skills_unique": [
+    120681
+  ],
+  "skills_innate": [
+    200532,
+    202812,
+    202822
+  ],
+  "skills_evo": [
+    {
+      "old": 202811,
+      "new": 106803111
+    },
+    {
+      "old": 202821,
+      "new": 106803211
+    }
+  ],
+  "skills_awakening": [
+    201611,
+    202811,
+    200012,
+    202821
+  ],
+  "skills_event": [
+    200332,
+    200352,
+    201282,
+    200542,
+    202462,
+    200172,
+    201142,
+    201192,
+    200452
+  ],
+  "stat_bonus": [
+    10,
+    0,
+    0,
+    20,
+    0
+  ],
+  "talent_group": 106803,
+  "base_stats": [
+    94,
+    104,
+    76,
+    91,
+    85
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "E",
+    "C",
+    "A",
+    "A",
+    "A",
+    "B",
+    "C",
+    "G"
+  ],
+  "four_star_stats": [
+    104,
+    116,
+    84,
+    102,
+    94
+  ],
+  "five_star_stats": [
+    115,
+    128,
+    92,
+    112,
+    103
+  ],
+  "profile": {
+    "char_id": 1068,
+    "ja": {
+      "self_intro": "あたしはキタサンブラック！お祭りみたいにみんなが盛り上がる最高のレースを目指して、全力で駆けるよ！",
+      "tagline": "みんなの心を照らす！明朗快活お祭り娘！",
+      "weight": "もりもり成長中！",
+      "shoes": "左右ともに23.0㎝",
+      "dorm": "栗東寮",
+      "class": "中等部",
+      "ears": "音感に優れている",
+      "tail": "尻尾でも重たいものが持てる",
+      "strong": "マッサージ",
+      "weak": "見て見ぬふり",
+      "family": "父の弟子たちも同居の、30人家族",
+      "secrets": [
+        "実は、好きなものはたいていひと目惚れ。",
+        "実は、砂糖菓子を食べだすと止まらなくなってしまう。"
+      ]
+    },
+    "ko": {
+      "self_intro": "나는 키타산 블랙! 축제처럼 모두가 신나는 최고의 레이스를 목표로, 온 힘을 다해 달릴 거야!",
+      "tagline": "모두의 마음을 비춘다! 명랑 쾌활 축제 소녀!",
+      "weight": "쑥쑥 성장중!",
+      "shoes": "좌우 모두 23.0cm",
+      "dorm": "릿토 생활관",
+      "class": "중등부",
+      "ears": "음감이 뛰어나다",
+      "tail": "꼬리로도 무거운 것을 들 수 있다",
+      "strong": "마사지",
+      "weak": "보고도 못 본 척하기",
+      "family": "아버지의 제자들과 함께 사는, 30인 가족",
+      "secrets": [
+        "사실은 좋아하는 거엔 대체로 첫눈에 반한다.",
+        "사실은 설탕 과자를 한 번 먹기 시작하면 그만두지 못하게 된다."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "我是北部玄駒！我的目標是跟大家在如同祭典般熱鬧、最棒的競賽中，盡全力奔馳！",
+      "tagline": "照亮大家的心！爽朗活潑的祭典女孩！",
+      "weight": "旺盛成長中！",
+      "shoes": "左右都是23.0cm",
+      "dorm": "栗東宿舍",
+      "class": "國中部",
+      "ears": "音感優越",
+      "tail": "可以用尾巴提重物",
+      "strong": "按摩",
+      "weak": "視而不見",
+      "family": "是加上父親的徒弟們共30人的大家族",
+      "secrets": [
+        "其實她對於喜歡的東西，大多是一見鍾情。",
+        "其實她只要一吃起糖果就會變得停不下來。"
+      ]
+    },
+    "en": {
+      "self_intro": "I'm Kitasan Black. I always do my best to create a festive atmosphere that everyone can enjoy when I race!",
+      "tagline": "Her smile brightens the room. A festival-loving bucket of sunshine.",
+      "weight": "I'm a growing Uma!",
+      "shoes": "Left and right: 23.0cm",
+      "dorm": "Ritto Dormitory",
+      "class": "Junior Division",
+      "ears": "Excellent sense of pitch",
+      "tail": "Even her tail can carry a heavy weight",
+      "strong": "Giving massages",
+      "weak": "Turning a blind eye",
+      "family": "Including her father's pupils, her family home houses thirty people",
+      "secrets": [
+        "Did you know? She usually falls in love with things at first sight."
+      ]
+    }
+  },
+  "charData": {
+    "url_name": "kitasan-black",
+    "char_id": 1068,
+    "jp_name": "キタサンブラック",
+    "en_name": "Kitasan Black",
+    "name_ko": "키타산 블랙",
+    "name_tw": "北部玄駒",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Hinaki Yano",
+    "va_ja": "矢野妃菜喜",
+    "va_ko": "야노 히나키",
+    "va_zh_tw": "矢野妃菜喜",
+    "va_link": "https://myanimelist.net/people/49423/Hinaki_Yano",
+    "three_sizes": {
+      "b": 85,
+      "w": 56,
+      "h": 88
+    },
+    "birth_day": 10,
+    "birth_month": 3,
+    "birth_year": 2012,
+    "height": 162,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": null,
+      "races": 20,
+      "wins": 12,
+      "record": "12-2-4-2",
+      "earnings": 1876843000,
+      "active": "2015-2018"
+    }
+  },
+  "__file": "106803-kitasan-black.json",
+  "has_release_en": false,
+  "has_version": true
+}

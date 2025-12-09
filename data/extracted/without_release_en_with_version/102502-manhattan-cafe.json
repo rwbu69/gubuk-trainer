@@ -1,0 +1,205 @@
+{
+  "url_name": "102502-manhattan-cafe",
+  "card_id": 102502,
+  "char_id": 1025,
+  "name_en": "Manhattan Cafe",
+  "name_jp": "マンハッタンカフェ",
+  "name_ko": "맨하탄 카페",
+  "name_tw": "曼哈頓咖啡",
+  "version": "valentine",
+  "title": "Willow-Green Evening",
+  "title_jp": "[柳緑小夜]",
+  "title_ko": "[버들빛 밤]",
+  "title_tw": "[柳綠小夜]",
+  "rarity": 3,
+  "costume": 102513,
+  "release": "2024-01-31",
+  "release_ko": "2025-05-21",
+  "release_zh_tw": "2025-06-03",
+  "obtained": "gacha",
+  "skills_unique": [
+    110251
+  ],
+  "skills_innate": [
+    200642,
+    200742,
+    202852
+  ],
+  "skills_evo": [
+    {
+      "old": 200641,
+      "new": 102502111
+    },
+    {
+      "old": 202851,
+      "new": 102502211
+    }
+  ],
+  "skills_awakening": [
+    200142,
+    200641,
+    202562,
+    202851
+  ],
+  "skills_event": [
+    200602,
+    202172,
+    201452,
+    201172,
+    201182
+  ],
+  "stat_bonus": [
+    0,
+    20,
+    10,
+    0,
+    0
+  ],
+  "talent_group": 102502,
+  "base_stats": [
+    82,
+    98,
+    99,
+    81,
+    90
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "G",
+    "F",
+    "B",
+    "A",
+    "G",
+    "C",
+    "A",
+    "A"
+  ],
+  "four_star_stats": [
+    92,
+    109,
+    110,
+    90,
+    99
+  ],
+  "five_star_stats": [
+    101,
+    120,
+    121,
+    99,
+    109
+  ],
+  "profile": {
+    "char_id": 1025,
+    "ja": {
+      "self_intro": "…マンハッタンカフェ、です。私には…追いつきたい友だちがいます…。いつも私の前を走る子…ほら、そこに…",
+      "tagline": "見えない影を追い走るミステリアス少女",
+      "weight": "増減なし",
+      "shoes": "左右ともに22.0cm",
+      "dorm": "美浦寮",
+      "class": "高等部",
+      "ears": "彼女にだけ聞こえる声があるらしい",
+      "tail": "なにもしなくても、しっとりサラサラ毛質",
+      "strong": "コーヒーを淹れること",
+      "weak": "快晴の日",
+      "family": "家族でコーヒー愛好家のため、豆は直輸入",
+      "secrets": [
+        "実は、登山好き。",
+        "実は、深海魚に結構詳しい。"
+      ]
+    },
+    "ko": {
+      "self_intro": "…맨하탄 카페, 입니다. 저는… 따라잡고 싶은 친구가 있어요…. 항상 제 앞을 달리는 아이… 봐요, 거기에…",
+      "tagline": "보이지 않는 그림자를 쫓아 달리는 미스터리한 소녀",
+      "weight": "변화 없음",
+      "shoes": "좌우 모두 22.0cm",
+      "dorm": "미호 생활관",
+      "class": "고등부",
+      "ears": "그녀에게만 들리는 목소리가 있다고 한다",
+      "tail": "아무 손질 없이도 윤기나고 엉킴 없는 모질",
+      "strong": "커피를 내리는 것",
+      "weak": "쾌청한 날",
+      "family": "가족이 모두 커피 애호가라 원두는 직수입",
+      "secrets": [
+        "사실은 등산을 좋아한다.",
+        "사실은 심해어에 대해 아는 게 많다."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "……我是曼哈頓咖啡。我有個……想要追上的朋友……是那個一直跑在我前面的女生……看，就在那邊……",
+      "tagline": "追逐著看不見的身影而奔跑的神秘少女",
+      "weight": "無增減",
+      "shoes": "左右都是22.0cm",
+      "dorm": "美浦宿舍",
+      "class": "高中部",
+      "ears": "似乎能聽見只有她聽得見的聲音",
+      "tail": "即使沒有特別保養，髮質依舊潤滑柔順",
+      "strong": "沖泡咖啡",
+      "weak": "天氣晴朗的日子",
+      "family": "全家都是咖啡愛好者，會直接進口咖啡豆",
+      "secrets": [
+        "其實她很喜歡登山。",
+        "其實她對深海魚類的知識挺豐富的。"
+      ]
+    },
+    "en": {
+      "self_intro": "I'm Manhattan Cafe. I have... a friend I want to catch up with... She's always running ahead of me... You see, right there...",
+      "tagline": "Always chasing shadows... Quite the mysterious Umamusume.",
+      "weight": "No change",
+      "shoes": "Left and right: 22.0cm",
+      "dorm": "Miho Dormitory",
+      "class": "Senior Division",
+      "ears": "Can hear a voice no one else can",
+      "tail": "Silky and well-moisturized, even without using any products",
+      "strong": "Brewing coffee",
+      "weak": "Sunny days",
+      "family": "Her whole family are coffee lovers, so they import coffee beans directly",
+      "secrets": [
+        "Did you know? She loves mountain climbing."
+      ]
+    }
+  },
+  "charData": {
+    "url_name": "manhattan-cafe",
+    "char_id": 1025,
+    "jp_name": "マンハッタンカフェ",
+    "en_name": "Manhattan Cafe",
+    "name_ko": "맨하탄 카페",
+    "name_tw": "曼哈頓咖啡",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Yui Ogura",
+    "va_ja": "小倉唯",
+    "va_ko": "오구라 유이",
+    "va_zh_tw": "小倉唯",
+    "va_link": "https://myanimelist.net/people/10981/Yui_Ogura",
+    "three_sizes": {
+      "b": 73,
+      "w": 54,
+      "h": 78
+    },
+    "birth_day": 5,
+    "birth_month": 3,
+    "birth_year": 1998,
+    "height": 155,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": "2015-08-13",
+      "races": 12,
+      "wins": 6,
+      "record": "6-0-1-5",
+      "earnings": 522830000,
+      "active": "2001-2002"
+    }
+  },
+  "__file": "102502-manhattan-cafe.json",
+  "has_release_en": false,
+  "has_version": true
+}

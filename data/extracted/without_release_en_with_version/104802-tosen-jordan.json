@@ -1,0 +1,208 @@
+{
+  "url_name": "104802-tosen-jordan",
+  "card_id": 104802,
+  "char_id": 1048,
+  "name_en": "Tosen Jordan",
+  "name_jp": "トーセンジョーダン",
+  "name_ko": "토센 조던",
+  "name_tw": "島川喬登",
+  "version": "summer_trip",
+  "title": "Aurore☆Vacances",
+  "title_jp": "[Aurore☆Vacances]",
+  "title_ko": "[Aurore☆Vacances]",
+  "title_tw": "[Aurore☆Vacances]",
+  "rarity": 3,
+  "costume": 104823,
+  "release": "2023-06-29",
+  "release_ko": "2024-10-17",
+  "release_zh_tw": "2024-10-30",
+  "obtained": "gacha",
+  "skills_unique": [
+    110481
+  ],
+  "skills_innate": [
+    202662,
+    202082,
+    202122
+  ],
+  "skills_evo": [
+    {
+      "old": 202081,
+      "new": 104802111
+    },
+    {
+      "old": 202121,
+      "new": 104802211
+    },
+    {
+      "old": 202121,
+      "new": 104802221
+    }
+  ],
+  "skills_awakening": [
+    201142,
+    202081,
+    200302,
+    202121
+  ],
+  "skills_event": [
+    200372,
+    201402,
+    201392,
+    202102
+  ],
+  "stat_bonus": [
+    8,
+    8,
+    14,
+    0,
+    0
+  ],
+  "talent_group": 104802,
+  "base_stats": [
+    97,
+    84,
+    99,
+    86,
+    84
+  ],
+  "aptitude": [
+    "A",
+    "G",
+    "G",
+    "F",
+    "A",
+    "B",
+    "C",
+    "A",
+    "A",
+    "G"
+  ],
+  "four_star_stats": [
+    108,
+    93,
+    110,
+    96,
+    93
+  ],
+  "five_star_stats": [
+    119,
+    102,
+    121,
+    105,
+    103
+  ],
+  "profile": {
+    "char_id": 1048,
+    "ja": {
+      "self_intro": "あたしはトーセンジョーダン。夢は……って感じの、固い話NGだからよろ～☆とりまネイル見てよ？イケてるっしょ？",
+      "tagline": "泥臭いのはジョーダン！イマドキギャル☆",
+      "weight": "ノーコメント",
+      "shoes": "左：23.0cm右：22.5cm",
+      "dorm": "栗東寮",
+      "class": "高等部",
+      "ears": "両耳を畳んで写真撮影するのを流行らせたい",
+      "tail": "不器用で枝毛をチェックできないのが悩み",
+      "strong": "ネイル、バスケットボール",
+      "weak": "健康志向の食べ物、ぶどうの種",
+      "family": "野菜から食べなさい、が1番怒られた思い出",
+      "secrets": [
+        "実は、いつか自分のネイルブランドを立ち上げる野望がある。",
+        "実は、朝のテレビの星座占いをわりと真に受けている。"
+      ]
+    },
+    "ko": {
+      "self_intro": "나는 토센 조던. 꿈은… 요런 딱딱한 이야기는 NG니까 만반잘부~☆ 암튼 네일 좀 봐봐! 멋지지?",
+      "tagline": "촌스러운 건 사양! 요즘 잘 나가는 걸☆",
+      "weight": "노 코멘트",
+      "shoes": "좌:23.0cm 우:22.5cm",
+      "dorm": "릿토 생활관",
+      "class": "고등부",
+      "ears": "두 귀를 접고 사진 찍는 걸 유행시키고 싶다",
+      "tail": "손재주가 없어서 끝이 갈라진 털을 체크하지 못하는 게 고민",
+      "strong": "네일, 농구",
+      "weak": "건강에 좋은 음식, 포도 씨",
+      "family": "가장 많이 들은 잔소리는 '채소부터 먹어라'",
+      "secrets": [
+        "사실은 언젠가 자신의 네일 브랜드를 세우는 야망이 있다.",
+        "사실은 아침 방송의 별자리 점을 제법 진지하게 받아들인다."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "我叫島川喬登。夢想是……這種嚴肅的話題對我來說NG，多指教啦～☆總之先看一下我的指甲吧？很炫吧？",
+      "tagline": "說俗氣是喬登玩笑！時下辣妹☆",
+      "weight": "不予置評",
+      "shoes": "左：23.0cm右：22.5cm",
+      "dorm": "栗東宿舍",
+      "class": "高中部",
+      "ears": "希望讓折著雙耳拍照的方式流行起來",
+      "tail": "因為笨拙不會檢查毛髮分岔而感到煩惱",
+      "strong": "美甲、籃球",
+      "weak": "健康取向的食物、葡萄籽",
+      "family": "印象最深的是曾被他們生氣大吼「給我先吃蔬菜」",
+      "secrets": [
+        "其實她心懷壯志，有一天要成立自己的美甲品牌。",
+        "其實她算是完全相信晨間新聞播放的星座運勢。"
+      ]
+    },
+    "en": {
+      "self_intro": "Name's Tosen Jordan. My dream is... you know, intros aren't really my thing, so let's skip it. Nice to meecha. ☆ Anyway, check out my nails! Nice, huh?",
+      "tagline": "You'll never catch her looking basic! Modern and stylish! ☆",
+      "weight": "No comment",
+      "shoes": "Left: 23.0cm Right: 22.5cm",
+      "dorm": "Ritto Dormitory",
+      "class": "Senior Division",
+      "ears": "She wants to popularize selfies with both ears folded up",
+      "tail": "She always worries whether she missed any split ends",
+      "strong": "Doing nails, basketball",
+      "weak": "Health food, grapes with seeds",
+      "family": "She has many memories of being scolded to eat her vegetables first",
+      "secrets": [
+        "Did you know? She dreams of launching her own nail polish brand."
+      ]
+    }
+  },
+  "charData": {
+    "url_name": "tosen-jordan",
+    "char_id": 1048,
+    "jp_name": "トーセンジョーダン",
+    "en_name": "Tosen Jordan",
+    "name_ko": "토센 조던",
+    "name_tw": "島川喬登",
+    "playable": true,
+    "playable_ko": true,
+    "playable_zh_tw": true,
+    "active": true,
+    "active_ko": true,
+    "active_zh_tw": true,
+    "active_en": true,
+    "va_en": "Eri Suzuki",
+    "va_ja": "鈴木絵理",
+    "va_ko": "스즈키 에리",
+    "va_zh_tw": "鈴木絵理",
+    "va_link": "https://myanimelist.net/people/29651/Eri_Suzuki",
+    "three_sizes": {
+      "b": 82,
+      "w": 56,
+      "h": 84
+    },
+    "birth_day": 4,
+    "birth_month": 2,
+    "birth_year": 2006,
+    "height": 157,
+    "sex": 1,
+    "race": "uma",
+    "rl": {
+      "country": "jp",
+      "death": null,
+      "races": 30,
+      "wins": 9,
+      "record": "9-4-2-15",
+      "earnings": 0,
+      "active": "2008-2014"
+    }
+  },
+  "__file": "104802-tosen-jordan.json",
+  "has_release_en": false,
+  "has_version": true
+}
