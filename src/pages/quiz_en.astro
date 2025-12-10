@@ -26,7 +26,7 @@ const characters = await Promise.all(
       tail: data.profile?.tail || "N/A",
       strong: data.profile?.strong || "N/A",
       three_sizes: data.charData?.three_sizes
-        ? `B${data.charData.three_sizes.b} W${data.charData.three_sizes.w} H${data.charData.three_sizes.h}`
+        ? "B" + data.charData.three_sizes.b + " W" + data.charData.three_sizes.w + " H" + data.charData.three_sizes.h
         : "N/A",
       record: data.charData?.rl?.record || "N/A",
       active: data.charData?.rl?.active || "N/A",
@@ -47,10 +47,10 @@ const imageFiles = await readdir(imageDir);
 
 uniqueCharacters.forEach((char: any) => {
   const matchingImage = imageFiles.find((img) =>
-    img.startsWith(`hd_${char.char_id}_`)
+    img.startsWith("hd_" + char.char_id + "_")
   );
   char.imageUrl = matchingImage
-    ? `/images/character_hd/${matchingImage}`
+    ? import.meta.env.BASE_URL + "/images/character_hd/" + matchingImage
     : null;
 });
 
