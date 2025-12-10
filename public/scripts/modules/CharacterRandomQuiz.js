@@ -189,7 +189,7 @@ export class CharacterRandomQuiz {
         <img
           src="${this.getBasePath()}/images/character_hd/hd_${character.char_id}_${character.card_id}.png"
           alt="${character.name_en}"
-          class="w-12 h-12 object-cover rounded-lg flex-shrink-0"
+          class="w-12 h-12 object-cover rounded-lg shrink-0"
         />
         <p class="text-red-200 font-semibold">${character.name_en}</p>
       </div>

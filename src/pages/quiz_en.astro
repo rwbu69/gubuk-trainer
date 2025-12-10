@@ -59,14 +59,13 @@ uniqueCharacters.forEach((char: any) => {
     : null;
 });
 
-// Write the data to a static JSON file for client-side fetching
-import { writeFile, mkdir } from "fs/promises";
-const publicDataDir = path.join(process.cwd(), "public/data");
-await mkdir(publicDataDir, { recursive: true });
-await writeFile(
-  path.join(publicDataDir, "characters-en.json"),
-  JSON.stringify({ characters, uniqueCharacters })
-);
+// import { writeFile, mkdir } from "fs/promises";
+// const publicDataDir = path.join(process.cwd(), "public/data");
+// await mkdir(publicDataDir, { recursive: true });
+// await writeFile(
+//   path.join(publicDataDir, "characters-random-en.json"),
+//   JSON.stringify({ characters, uniqueCharacters })
+// );
 ---
 
 <Layout>
