@@ -4,23 +4,23 @@ import Layout from "../layouts/Layout.astro";
 
 <Layout title="Pilih Mode - Gubuk Trainer">
   <main
-    class="min-h-screen bg-gradient-to-br from-purple-900 via-purple-800 to-blue-900 flex items-center justify-center p-4"
+    class="min-h-screen bg-[#2D4F2B] flex items-center justify-center p-4"
   >
     <div class="max-w-2xl w-full">
       <div class="text-center mb-12">
-        <h1 class="text-5xl font-bold text-white mb-4">Pilih Mode</h1>
-        <p class="text-xl text-purple-200">Pilih game mode kamu</p>
+        <h1 class="text-5xl font-bold text-[#E7EFC7] mb-4">Pilih Mode</h1>
+        <p class="text-xl text-gray-300">Pilih game mode kamu</p>
       </div>
 
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
         <!-- Normal Mode -->
         <a
           href={`${import.meta.env.BASE_URL}/quiz_en`}
-          class="group block bg-gradient-to-br from-purple-600 to-purple-800 hover:from-purple-500 hover:to-purple-700 rounded-2xl p-8 transition-all duration-300 transform hover:scale-105 hover:shadow-2xl"
+          class="group block bg-[#3D6F3B] hover:bg-[#4D7F4B] rounded-2xl p-8 transition-all duration-300 transform hover:scale-105 hover:shadow-2xl border-2 border-[#B6F500]/30"
         >
           <div class="text-center">
-            <h2 class="text-3xl font-bold text-white mb-3">Normal</h2>
-            <p class="text-purple-100">
+            <h2 class="text-3xl font-bold text-[#E7EFC7] mb-3">Normal</h2>
+            <p class="text-gray-300">
                 Standard mode untuk menguji pengetahuan kamu secara umum.
             </p>
           </div>
@@ -29,11 +29,11 @@ import Layout from "../layouts/Layout.astro";
         <!-- Random Mode -->
         <a
           href={`${import.meta.env.BASE_URL}/random_en`}
-          class="group block bg-linear-to-br from-pink-600 to-pink-800 hover:from-pink-500 hover:to-pink-700 rounded-2xl p-8 transition-all duration-300 transform hover:scale-105 hover:shadow-2xl"
+          class="group block bg-[#3D6F3B] hover:bg-[#4D7F4B] rounded-2xl p-8 transition-all duration-300 transform hover:scale-105 hover:shadow-2xl border-2 border-[#B6F500]/30"
         >
           <div class="text-center">
-            <h2 class="text-3xl font-bold text-white mb-3">Random</h2>
-            <p class="text-pink-100">
+            <h2 class="text-3xl font-bold text-[#E7EFC7] mb-3">Random</h2>
+            <p class="text-gray-300">
               Pertanyaannya 100% random, mungkin kalian bisa dapet yang gampang, bisa juga yang susah
             </p>
           </div>
@@ -44,7 +44,7 @@ import Layout from "../layouts/Layout.astro";
       <div class="text-center mt-8">
         <a
           href={`${import.meta.env.BASE_URL}/pilih_server`}
-          class="inline-block text-white hover:text-purple-300 transition-colors duration-200"
+          class="inline-block text-white hover:text-[#B6F500] transition-colors duration-200"
         >
           ← Kembali ke Pilih Server
         </a>
