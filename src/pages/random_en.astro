@@ -34,7 +34,12 @@ const characters = await Promise.all(
       secrets: data.profile?.secrets || "N/A",
       va_en: data.charData?.va_en || "N/A",
       three_sizes: data.charData?.three_sizes
-        ? "B" + data.charData.three_sizes.b + " W" + data.charData.three_sizes.w + " H" + data.charData.three_sizes.h
+        ? "B" +
+          data.charData.three_sizes.b +
+          " W" +
+          data.charData.three_sizes.w +
+          " H" +
+          data.charData.three_sizes.h
         : "N/A",
       country: data.charData?.rl?.country || "N/A",
       death: data.charData?.rl?.death || "N/A",
@@ -89,15 +94,11 @@ await writeFile(
         </a>
       </div>
     </nav>
-
-    <!-- Quiz Container -->
     <div class="container mx-auto px-6 py-8">
       <div class="max-w-7xl mx-auto">
         <h1 class="text-4xl font-bold text-white text-center mb-8">
           Character Quiz - Random Mode
         </h1>
-
-        <!-- Progress -->
         <div class="bg-white/10 backdrop-blur-lg rounded-2xl p-4 mb-6">
           <div class="flex justify-between items-center mb-2">
             <span class="text-white font-semibold"
@@ -153,7 +154,9 @@ await writeFile(
                   class="hidden absolute z-60 w-full mt-2 bg-gray-900/95 backdrop-blur-lg rounded-lg border-2 border-white/20 max-h-96 overflow-hidden"
                 >
                   <!-- Search Input -->
-                  <div class="p-3 border-b border-white/20 sticky top-0 bg-gray-900">
+                  <div
+                    class="p-3 border-b border-white/20 sticky top-0 bg-gray-900"
+                  >
                     <input
                       type="text"
                       id="character-search"
@@ -187,36 +190,30 @@ await writeFile(
                   </div>
                 </div>
               </div>
-
-              <!-- Wrong Answers Display -->
               <div id="wrong-answers-container" class="mt-6 space-y-4 hidden">
               </div>
             </div>
           </div>
-
-          <!-- Left Side: All Questions/Clues (shown second on mobile) -->
           <div class="lg:col-span-7 order-2 lg:order-1 relative z-0">
             <div class="bg-white/10 backdrop-blur-lg rounded-2xl p-8">
               <h3 class="text-2xl font-bold text-white mb-6 text-center">
                 Petunjuk Karakter
               </h3>
-              <div id="clues-container" class="space-y-4">
-                <!-- Questions will be dynamically added here -->
-              </div>
+              <div id="clues-container" class="space-y-4"></div>
             </div>
           </div>
         </div>
 
-        <!-- Result Message -->
         <div
           id="result-message"
           class="hidden mt-6 p-4 rounded-xl text-center text-xl font-bold"
         >
         </div>
 
-        <!-- Final Results -->
         <div id="final-results" class="hidden mt-12">
-          <div class="bg-white/10 backdrop-blur-lg rounded-2xl p-12 text-center">
+          <div
+            class="bg-white/10 backdrop-blur-lg rounded-2xl p-12 text-center"
+          >
             <div class="text-8xl mb-6" id="result-icon"></div>
             <h2 class="text-4xl font-bold text-white mb-4" id="result-title">
             </h2>
@@ -226,9 +223,8 @@ await writeFile(
                 class="text-white font-bold"></span>
             </p>
             <p class="text-xl text-purple-300 mb-8">
-              You revealed <span
-                id="final-clues"
-                class="text-white font-bold"></span> clues
+              You revealed <span id="final-clues" class="text-white font-bold"
+              ></span> clues
             </p>
             <button
               id="restart-btn"
@@ -250,17 +246,19 @@ await writeFile(
     : "";
 
   // Dynamically import the module
-  import(`${basePath}/scripts/modules/CharacterRandomQuiz.js`).then((module) => {
-    const { CharacterRandomQuiz } = module;
-    
-    fetch(`${basePath}/data/characters-random-en.json`)
-      .then((response) => response.json())
-      .then((data) => {
-        const quiz = new CharacterRandomQuiz(
-          data.characters,
-          data.uniqueCharacters
-        );
-        quiz.init();
-      });
-  });
+  import(`${basePath}/scripts/modules/CharacterRandomQuiz.js`).then(
+    (module) => {
+      const { CharacterRandomQuiz } = module;
+
+      fetch(`${basePath}/data/characters-random-en.json`)
+        .then((response) => response.json())
+        .then((data) => {
+          const quiz = new CharacterRandomQuiz(
+            data.characters,
+            data.uniqueCharacters
+          );
+          quiz.init();
+        });
+    }
+  );
 </script>
