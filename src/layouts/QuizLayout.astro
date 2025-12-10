@@ -1,0 +1,243 @@
+---
+import Layout from "./Layout.astro";
+
+interface Props {
+  title: string;
+  subtitle?: string;
+  scriptSrc: string;
+}
+
+const { title, subtitle, scriptSrc } = Astro.props;
+---
+
+<Layout>
+  <div class="min-h-screen bg-[#2D4F2B]">
+    <!-- Navigation -->
+    <nav class="container mx-auto px-6 py-6">
+      <div class="flex items-center justify-between">
+        <a
+          href="/gubuk-trainer/"
+          class="text-white text-2xl font-bold tracking-wider hover:text-[#B6F500] transition-colors duration-300"
+        >
+          Gubuk Trainer
+        </a>
+      </div>
+    </nav>
+
+    <div class="container mx-auto px-6 py-10">
+      <div class="max-w-7xl mx-auto">
+        <!-- Header -->
+        <div class="text-center mb-8 relative">
+          <div class="inline-block">
+            <h1
+              class="text-4xl md:text-5xl font-bold text-[#E7EFC7] mb-4 drop-shadow-lg"
+            >
+              {title}
+            </h1>
+            <div
+              class="h-1 bg-gradient-to-r from-transparent via-[#B6F500] to-transparent rounded-full"
+            >
+            </div>
+          </div>
+          {
+            subtitle && (
+              <p class="text-xl text-gray-300 mt-4">{subtitle}</p>
+            )
+          }
+        </div>
+
+        <!-- Progress -->
+        <div
+          class="bg-white/10 backdrop-blur-lg rounded-2xl p-6 mb-6 shadow-xl border border-white/20"
+        >
+          <div class="flex justify-between items-center mb-3">
+            <span class="text-white font-semibold text-lg"
+              >Petunjuk tersisa: <span id="clues-revealed" class="text-[#B6F500]"
+                >0</span
+              >/10</span
+            >
+          </div>
+          <div
+            class="w-full bg-[#1D3F1B] rounded-full h-4 shadow-inner border border-white/10"
+          >
+            <div
+              id="progress-bar"
+              class="bg-gradient-to-r from-[#B6F500] to-[#9FD700] h-4 rounded-full transition-all duration-500 shadow-lg"
+              style="width: 0%"
+            >
+            </div>
+          </div>
+        </div>
+
+        <!-- Main Layout: Questions Left, Characters Right -->
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+          <!-- Right Side: Character Selector (shown first on mobile) -->
+          <div class="lg:col-span-5 order-1 lg:order-2 relative z-40">
+            <div
+              class="bg-gradient-to-br from-white/15 to-white/5 backdrop-blur-lg rounded-2xl p-6 lg:sticky lg:top-6 shadow-2xl border border-white/20"
+            >
+              <label
+                class="block text-2xl font-bold text-[#E7EFC7] mb-6 text-center drop-shadow-md"
+                >Pilih Jawabanmu:</label
+              >
+
+              <!-- Custom Dropdown -->
+              <div class="relative z-50">
+                <button
+                  id="dropdown-button"
+                  type="button"
+                  class="w-full bg-[#3D6F3B] hover:bg-[#4D7F4B] rounded-lg p-4 mt-9 border-2 border-[#B6F500]/40 transition-all duration-200 flex items-center justify-between text-white shadow-lg hover:shadow-xl hover:scale-[1.02]"
+                >
+                  <span id="selected-text">Pilih Karakter...</span>
+                  <svg
+                    class="w-5 h-5"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      d="M19 9l-7 7-7-7"></path>
+                  </svg>
+                </button>
+
+                <div
+                  id="dropdown-menu"
+                  class="hidden absolute z-[60] w-full mt-2 bg-[#1D3F1B]/95 backdrop-blur-lg rounded-lg border-2 border-[#B6F500]/30 max-h-96 overflow-hidden"
+                >
+                  <!-- Search Input -->
+                  <div
+                    class="p-3 border-b border-[#B6F500]/30 sticky top-0 bg-[#1D3F1B]"
+                  >
+                    <input
+                      type="text"
+                      id="character-search"
+                      placeholder="Search character..."
+                      class="w-full bg-white/10 text-white placeholder-gray-400 rounded-lg px-4 py-2 border border-white/20 focus:outline-none focus:border-[#B6F500] transition-colors"
+                    />
+                  </div>
+
+                  <!-- Character List -->
+                  <div id="character-list" class="overflow-y-auto max-h-80">
+                    <slot name="character-list" />
+                  </div>
+                </div>
+              </div>
+
+              <!-- Wrong Answers Display -->
+              <div id="wrong-answers-container" class="mt-6 space-y-4 hidden">
+              </div>
+            </div>
+          </div>
+
+          <!-- Left Side: All Questions/Clues (shown second on mobile) -->
+          <div class="lg:col-span-7 order-2 lg:order-1 relative z-0">
+            <div
+              class="bg-gradient-to-br from-white/15 to-white/5 backdrop-blur-lg rounded-2xl p-8 shadow-2xl border border-white/20"
+            >
+              <h3
+                class="text-2xl font-bold text-[#E7EFC7] mb-6 text-center drop-shadow-md"
+              >
+                Petunjuk Karakter
+              </h3>
+              <div id="clues-container" class="space-y-4">
+                <!-- Questions will be dynamically added here -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Result Message -->
+        <div
+          id="result-message"
+          class="hidden mt-6 p-4 rounded-xl text-center text-xl font-bold"
+        >
+        </div>
+
+        <!-- Final Results -->
+        <div
+          id="final-results"
+          class="hidden bg-white/10 backdrop-blur-lg rounded-2xl p-8 text-center"
+        >
+          <div id="result-icon" class="text-6xl mb-4"></div>
+          <h2 class="text-4xl font-bold text-white mb-4" id="result-title">
+            Quiz Complete!
+          </h2>
+          <p class="text-3xl text-gray-300 mb-4">
+            The answer was: <span class="text-purple-400" id="correct-answer"
+            ></span>
+          </p>
+          <p class="text-2xl text-gray-300 mb-6">
+            You guessed it with <span id="final-clues" class="text-pink-400"
+              >0</span
+            > clue(s)!
+          </p>
+          <button
+            id="restart-btn"
+            class="px-8 py-4 bg-[#B6F500] text-[#2D4F2B] rounded-xl font-bold text-lg hover:shadow-2xl hover:scale-105 transition-all duration-300 hover:brightness-110"
+          >
+            Play Again
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Animated Background Elements -->
+    <div class="fixed inset-0 pointer-events-none overflow-hidden -z-10">
+      <div
+        class="absolute top-1/4 left-1/4 w-64 h-64 bg-[#B6F500]/20 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob"
+      >
+      </div>
+      <div
+        class="absolute top-1/3 right-1/4 w-64 h-64 bg-[#9FD700]/20 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob animation-delay-2000"
+      >
+      </div>
+      <div
+        class="absolute bottom-1/4 left-1/3 w-64 h-64 bg-[#7CB900]/20 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob animation-delay-4000"
+      >
+      </div>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  @keyframes blob {
+    0%,
+    100% {
+      transform: translate(0px, 0px) scale(1);
+    }
+    33% {
+      transform: translate(30px, -50px) scale(1.1);
+    }
+    66% {
+      transform: translate(-20px, 20px) scale(0.9);
+    }
+  }
+
+  .animate-blob {
+    animation: blob 7s infinite;
+  }
+
+  .animation-delay-2000 {
+    animation-delay: 2s;
+  }
+
+  .animation-delay-4000 {
+    animation-delay: 4s;
+  }
+
+  .selected-wrong {
+    background-color: rgba(239, 68, 68, 0.3) !important;
+    border-color: rgb(239, 68, 68) !important;
+  }
+</style>
+
+<script type="module" define:vars={{ scriptSrc }}>
+  const basePath = scriptSrc;
+  const scriptElement = document.createElement("script");
+  scriptElement.type = "module";
+  scriptElement.src = basePath;
+  document.body.appendChild(scriptElement);
+</script>

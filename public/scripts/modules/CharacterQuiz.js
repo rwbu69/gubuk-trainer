@@ -3,16 +3,16 @@ export class CharacterQuiz {
     this.characters = characters;
     this.uniqueCharacters = uniqueCharacters;
     this.questions = [
-      { key: "weight", title: "Weight" },
-      { key: "ears", title: "Ears" },
-      { key: "weak", title: "Weakness" },
-      { key: "tail", title: "Tail" },
-      { key: "strong", title: "Strength" },
-      { key: "three_sizes", title: "Three Sizes" },
-      { key: "active", title: "Active Years" },
-      { key: "record", title: "Race Record" },
-      { key: "va_en", title: "Voice Actor (EN)" },
-      { key: "title", title: "Title" },
+      { key: "record", title: "Rekor Balapan" },
+      { key: "races", title: "Jumlah Balapan Yang Diikuti" },
+      { key: "ears", title: "Trivia Tentang Telinga" },
+      { key: "weak", title: "Kelemahan" },
+      { key: "tail", title: "Trivia Tentang Ekor" },
+      { key: "strong", title: "Kekuatan" },
+      { key: "three_sizes", title: "Three Sizes (u know lah ya)" },
+      { key: "active", title: "Tahun Aktif" },
+      { key: "va_en", title: "Pengisi Suara (EN)" },
+      { key: "title", title: "Gelar In-Game" },
     ];
     this.revealedClues = 0;
     this.currentAnswer = null;
