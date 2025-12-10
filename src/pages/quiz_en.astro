@@ -26,7 +26,12 @@ const characters = await Promise.all(
       tail: data.profile?.tail || "N/A",
       strong: data.profile?.strong || "N/A",
       three_sizes: data.charData?.three_sizes
-        ? "B" + data.charData.three_sizes.b + " W" + data.charData.three_sizes.w + " H" + data.charData.three_sizes.h
+        ? "B" +
+          data.charData.three_sizes.b +
+          " W" +
+          data.charData.three_sizes.w +
+          " H" +
+          data.charData.three_sizes.h
         : "N/A",
       record: data.charData?.rl?.record || "N/A",
       active: data.charData?.rl?.active || "N/A",
@@ -80,16 +85,16 @@ await writeFile(
       </div>
     </nav>
 
-    <!-- Quiz Container -->
     <div class="container mx-auto px-6 py-10">
       <div class="max-w-7xl mx-auto">
         <!-- Header -->
         <div class="text-center mb-8">
           <h1 class="text-4xl md:text-5xl font-bold text-white mb-4">
-            Kuis Karakter - Server EN 
+            Kuis Karakter - Server EN
           </h1>
           <p class="text-xl text-gray-300">
-            Tebak karakter berdasarkan petunjuk yang diberikan (sori belom di translet le)
+            Tebak karakter berdasarkan petunjuk yang diberikan (sori belom di
+            translet le)
           </p>
         </div>
 
@@ -121,7 +126,7 @@ await writeFile(
                 class="block text-2xl font-bold text-white mb-6 text-center"
                 >Pilih Jawabanmu:</label
               >
-              
+
               <!-- Custom Dropdown -->
               <div class="relative z-50">
                 <button
@@ -130,17 +135,28 @@ await writeFile(
                   class="w-full bg-white/10 hover:bg-white/20 rounded-lg p-4 mt-9 border-2 border-white/20 transition-colors duration-200 flex items-center justify-between text-white"
                 >
                   <span id="selected-text">Pilih Karakter...</span>
-                  <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                  <svg
+                    class="w-5 h-5"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      d="M19 9l-7 7-7-7"></path>
                   </svg>
                 </button>
-                
+
                 <div
                   id="dropdown-menu"
                   class="hidden absolute z-[60] w-full mt-2 bg-gray-900/95 backdrop-blur-lg rounded-lg border-2 border-white/20 max-h-96 overflow-hidden"
                 >
                   <!-- Search Input -->
-                  <div class="p-3 border-b border-white/20 sticky top-0 bg-gray-900">
+                  <div
+                    class="p-3 border-b border-white/20 sticky top-0 bg-gray-900"
+                  >
                     <input
                       type="text"
                       id="character-search"
@@ -148,28 +164,28 @@ await writeFile(
                       class="w-full bg-white/10 text-white placeholder-gray-400 rounded-lg px-4 py-2 border border-white/20 focus:outline-none focus:border-purple-400 transition-colors"
                     />
                   </div>
-                  
+
                   <!-- Character List -->
                   <div id="character-list" class="overflow-y-auto max-h-80">
                     {
                       uniqueCharacters.map((char) => (
-                      <button
-                        type="button"
-                        class="character-option w-full hover:bg-white/20 p-3 transition-colors duration-200 flex items-center gap-3 border-b border-white/10 last:border-b-0"
-                        data-char-id={char.char_id}
-                        data-card-id={char.card_id}
-                        data-name={char.name_en}
-                      >
-                        <img
-                          src={`${import.meta.env.BASE_URL}/images/character_hd/hd_${char.char_id}_${char.card_id}.png`}
-                          alt={char.name_en}
-                          class="w-12 h-12 object-cover rounded-lg flex-shrink-0"
-                        />
-                        <p class="text-white text-sm font-semibold text-left flex-1">
-                          {char.name_en}
-                        </p>
-                      </button>
-                    ))
+                        <button
+                          type="button"
+                          class="character-option w-full hover:bg-white/20 p-3 transition-colors duration-200 flex items-center gap-3 border-b border-white/10 last:border-b-0"
+                          data-char-id={char.char_id}
+                          data-card-id={char.card_id}
+                          data-name={char.name_en}
+                        >
+                          <img
+                            src={`${import.meta.env.BASE_URL}/images/character_hd/hd_${char.char_id}_${char.card_id}.png`}
+                            alt={char.name_en}
+                            class="w-12 h-12 object-cover rounded-lg flex-shrink-0"
+                          />
+                          <p class="text-white text-sm font-semibold text-left flex-1">
+                            {char.name_en}
+                          </p>
+                        </button>
+                      ))
                     }
                   </div>
                 </div>
@@ -279,4 +295,5 @@ await writeFile(
   }
 </style>
 
-<script type="module" src={`${import.meta.env.BASE_URL}/scripts/quiz.js`}></script>
+<script type="module" src={`${import.meta.env.BASE_URL}/scripts/quiz.js`}
+></script>
