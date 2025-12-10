@@ -70,13 +70,13 @@ uniqueCharacters.forEach((char: any) => {
 });
 
 // Write the data to a static JSON file for client-side fetching
-import { writeFile, mkdir } from "fs/promises";
-const publicDataDir = path.join(process.cwd(), "public/data");
-await mkdir(publicDataDir, { recursive: true });
-await writeFile(
-  path.join(publicDataDir, "characters-random-en.json"),
-  JSON.stringify({ characters, uniqueCharacters })
-);
+// import { writeFile, mkdir } from "fs/promises";
+// const publicDataDir = path.join(process.cwd(), "public/data");
+// await mkdir(publicDataDir, { recursive: true });
+// await writeFile(
+//   path.join(publicDataDir, "characters-random-en.json"),
+//   JSON.stringify({ characters, uniqueCharacters })
+// );
 ---
 
 <Layout>
@@ -94,6 +94,7 @@ await writeFile(
         </a>
       </div>
     </nav>
+
     <div class="container mx-auto px-6 py-8">
       <div class="max-w-7xl mx-auto">
         <h1 class="text-4xl font-bold text-white text-center mb-8">
@@ -239,26 +240,5 @@ await writeFile(
   </div>
 </Layout>
 
-<script>
-  const scriptPath = window.location.pathname;
-  const basePath = scriptPath.includes("/gubuk-trainer/")
-    ? "/gubuk-trainer"
-    : "";
-
-  // Dynamically import the module
-  import(`${basePath}/scripts/modules/CharacterRandomQuiz.js`).then(
-    (module) => {
-      const { CharacterRandomQuiz } = module;
-
-      fetch(`${basePath}/data/characters-random-en.json`)
-        .then((response) => response.json())
-        .then((data) => {
-          const quiz = new CharacterRandomQuiz(
-            data.characters,
-            data.uniqueCharacters
-          );
-          quiz.init();
-        });
-    }
-  );
-</script>
+<script type="module" src={`${import.meta.env.BASE_URL}/scripts/random_quiz.js`}
+></script>
