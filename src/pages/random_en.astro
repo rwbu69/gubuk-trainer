@@ -34,7 +34,7 @@ const characters = await Promise.all(
       secrets: data.profile?.secrets || "N/A",
       va_en: data.charData?.va_en || "N/A",
       three_sizes: data.charData?.three_sizes
-        ? `B${data.charData.three_sizes.b} W${data.charData.three_sizes.w} H${data.charData.three_sizes.h}`
+        ? "B" + data.charData.three_sizes.b + " W" + data.charData.three_sizes.w + " H" + data.charData.three_sizes.h
         : "N/A",
       country: data.charData?.rl?.country || "N/A",
       death: data.charData?.rl?.death || "N/A",
@@ -57,10 +57,10 @@ const imageFiles = await readdir(imageDir);
 
 uniqueCharacters.forEach((char: any) => {
   const matchingImage = imageFiles.find((img) =>
-    img.startsWith(`hd_${char.char_id}_`)
+    img.startsWith("hd_" + char.char_id + "_")
   );
   char.imageUrl = matchingImage
-    ? `/images/character_hd/${matchingImage}`
+    ? import.meta.env.BASE_URL + "/images/character_hd/" + matchingImage
     : null;
 });
 
@@ -94,7 +94,7 @@ await writeFile(
     <div class="container mx-auto px-6 py-8">
       <div class="max-w-7xl mx-auto">
         <h1 class="text-4xl font-bold text-white text-center mb-8">
-          Character Quiz - Random Mode 🎲
+          Character Quiz - Random Mode
         </h1>
 
         <!-- Progress -->
