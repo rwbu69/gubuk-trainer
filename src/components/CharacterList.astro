@@ -1,0 +1,29 @@
+---
+interface Props {
+  characters: any[];
+  baseUrl: string;
+}
+
+const { characters, baseUrl } = Astro.props;
+---
+
+{
+  characters.map((char) => (
+    <button
+      type="button"
+      class="character-option w-full hover:bg-white/20 p-3 transition-colors duration-200 flex items-center gap-3 border-b border-white/10 last:border-b-0"
+      data-char-id={char.char_id}
+      data-card-id={char.card_id}
+      data-name={char.name_en}
+    >
+      <img
+        src={`${baseUrl}/images/character_hd/hd_${char.char_id}_${char.card_id}.png`}
+        alt={char.name_en}
+        class="w-12 h-12 object-cover rounded-lg shrink-0"
+      />
+      <p class="text-white text-sm font-semibold text-left flex-1">
+        {char.name_en}
+      </p>
+    </button>
+  ))
+}

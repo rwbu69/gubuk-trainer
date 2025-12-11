@@ -6,21 +6,34 @@ dist/
 # dependencies
 node_modules/
 
+# vite / astro cache
+.vite/
+.cache/
+
 # logs
 npm-debug.log*
-yarn-debug.log*
+yarn-debug.log*w
 yarn-error.log*
 pnpm-debug.log*
 
 # environment variables
 .env
 .env.production
+.env.local
+.env.development
+.env.test
 
-# macOS-specific files
+# system files
 .DS_Store
+Thumbs.db
 
-# jetbrains setting folder
+# editor config folders
 .idea/
+.vscode/
+
+# test & build artifacts
+coverage/
+*.tsbuildinfo
 
 # Keep public/data for runtime
 !public/data/
