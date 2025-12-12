@@ -1,0 +1,47 @@
+{
+  "name_en": "Rice Shower",
+  "title": "Rose Dream",
+  "rarity": 3,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Aku Rice Shower... Sejujurnya, aku sering membawa kesialan... dan... aku memang kurang bisa apa-apa... T-tapi aku sedang berusaha jadi lebih baik!",
+    "tagline": "Pembawa kesialan? Pembalap ini tetap mengejar mimpinya meski pandangannya suram.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 21,0cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Senior",
+    "ears": "Menunduk lesu saat mendengar kesialan orang lain.",
+    "tail": "Berhati-hati agar ekornya tidak mengenai orang lain.",
+    "strong": "Menggambar.",
+    "weak": "Kesialan orang lain, dan hantu.",
+    "family": "Dulu orang tuanya sering membacakan buku bergambar sebagai dongeng sebelum tidur.",
+    "secrets": [
+      "Tahukah kamu? Dia lebih suka roti untuk sarapan."
+    ]
+  },
+  "charData": {
+    "va_en": "Manaka Iwami",
+    "three_sizes": {
+      "b": 75,
+      "w": 51,
+      "h": 76
+    },
+    "birth_day": 5,
+    "birth_month": 3,
+    "birth_year": 1989,
+    "height": 145,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "1995-06-04",
+      "races": 25,
+      "wins": 6,
+      "record": "6-5-2-12",
+      "earnings": 666860000,
+      "active": "1991-1995"
+    }
+  }
+}

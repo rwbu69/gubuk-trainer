@@ -156,5 +156,22 @@
   },
   "__file": "102001-seiun-sky.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Halo. Aku Seiun Sky. Aku menjalani semuanya dengan santai aja. Hal baik datang pada yang sabar, kan?",
+    "tagline": "Melakukan apa pun sesukanya, kapan pun ia mau. Sebebas awan yang melayang...",
+    "weight": "Tidak diumumkan",
+    "shoes": "Kiri dan Kanan : 22,5cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Junior",
+    "ears": "Kadang langsung berdiri tegak tanpa bergerak saat mendengar sesuatu.",
+    "tail": "Sudah terlihat bagus bahkan tanpa melakukan apa-apa.",
+    "strong": "Tidur siang dan memancing",
+    "weak": "Ruang sempit dan tertutup (Gerbangnya! Gerbangnya!).",
+    "family": "Setiap pulang kampung, ia selalu memancing bersama kakeknya.",
+    "secrets": [
+      "Tahukah kamu? Dia sama sekali, benar-benar tidak tahan makanan panas."
+    ]
+  },
+  "title_id": "Blue Cloud Thumbing"
 }

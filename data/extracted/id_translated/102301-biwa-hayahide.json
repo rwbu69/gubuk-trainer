@@ -1,0 +1,47 @@
+{
+  "name_en": "Biwa Hayahide",
+  "title": "pf.Victory Formula...",
+  "rarity": 3,
+  "release": "2021-03-18",
+  "release_ko": "2022-07-11",
+  "release_zh_tw": "2022-07-20",
+  "release_en": "2025-07-10",
+  "profile": {
+    "self_intro": "Aku Biwa Hayahide. Tujuanku adalah menemukan rumus kemenangan yang sempurna... Dan, sebagai catatan, ukuran kepalaku benar-benar normal!",
+    "tagline": "Seorang intelektual penuh semangat—logika adalah senjatanya!",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 25,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Sejak kecil dia peka terhadap suara, jadi mudah terkejut.",
+    "tail": "Kesulitan memasukkan ekornya ke lubang celana saat cuaca lembap.",
+    "strong": "Membersihkan rumah",
+    "weak": "Musim hujan.",
+    "family": "Dulu ibunya sering membuatnya memakai gaya rambut yang sama dengan kakaknya.",
+    "secrets": [
+      "Tahukah kamu? Dia menulis ulasan tentang hair spray."
+    ]
+  },
+  "charData": {
+    "va_en": "Yui Kondou",
+    "three_sizes": {
+      "b": 93,
+      "w": 61,
+      "h": 88
+    },
+    "birth_day": 10,
+    "birth_month": 3,
+    "birth_year": 1990,
+    "height": 171,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2020-07-21",
+      "races": 16,
+      "wins": 10,
+      "record": "10-5-0-1",
+      "earnings": 817690000,
+      "active": "1992-1994"
+    }
+  }
+}

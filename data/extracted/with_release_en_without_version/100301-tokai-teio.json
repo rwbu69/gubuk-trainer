@@ -147,5 +147,22 @@
   },
   "__file": "100301-tokai-teio.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Hei hei! Ini Tokai Teio! Awas matamu jangan lepas dari aku! Karena sang juara Triple Crown tak terkalahkan yang baru sudah datang!",
+    "tagline": "Tak terkalahkan dan menggemaskan! Pembalap ceria yang selalu melompat penuh semangat.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 22,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Tak pernah gagal mendengar pujian... atau suara pak Ketua.",
+    "tail": "Ekor itu bergoyang senang setiap kali dia mendapat perhatian.",
+    "strong": "Membuat teman baru",
+    "weak": "Dokter.",
+    "family": "Mereka menangis saat dia berhenti memanggil dengan sebutan “Mama” dan “Papa.”",
+    "secrets": [
+      "Tahukah kamu? Dia pemegang rekor untuk posisi membungkuk ke depan."
+    ]
+  },
+  "title_id": "Top of Joyful"
 }

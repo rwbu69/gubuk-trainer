@@ -1,0 +1,47 @@
+{
+  "name_en": "Kawakami Princess",
+  "title": "Princess of Pink",
+  "rarity": 3,
+  "release": "2021-10-11",
+  "release_ko": "2023-01-30",
+  "release_zh_tw": "2023-02-13",
+  "release_en": "2025-12-01",
+  "profile": {
+    "self_intro": "Ohoho! Aku Kawakami Princess. Betul sekali! Seorang putri di antara para putri! Aku di sini untuk mengalahkan lawan-lawanku dengan anggun, tentu saja!",
+    "tagline": "Ia bermimpi menjadi seorang putri! Umamusume yang berani dan berapi-api.",
+    "weight": "Tidak ada perubahan (tentu saja!)",
+    "shoes": "Kiri dan kanan : 21,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Bangga karena memiliki telinga yang paling pantas untuk mengenakan tiara.",
+    "tail": "Dengan penuh kasih dijuluki “Ekor Sang Putri.”",
+    "strong": "Membasmi hama (secara manual, dengan tangan)",
+    "weak": "Bersikap boros atau membuang-buang sesuatu.",
+    "family": "Orang tuanya selalu memberinya pakaian yang tidak hanya imut, tapi juga tahan lama.",
+    "secrets": [
+      "Tahukah kamu? Pernah dalam satu tahun, tinggi badannya bertambah dua belas sentimeter!"
+    ]
+  },
+  "charData": {
+    "va_en": "Karin Takahashi",
+    "three_sizes": {
+      "b": 91,
+      "w": 57,
+      "h": 87
+    },
+    "birth_day": 5,
+    "birth_month": 6,
+    "birth_year": 2003,
+    "height": 154,
+    "sex": 2,
+    "rl": {
+      "country": "jp",
+      "death": "2023-09-11",
+      "races": 17,
+      "wins": 5,
+      "record": "5-2-2-8",
+      "earnings": 350890000,
+      "active": "2006-2009"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name_en": "Loves Only You",
+  "title": "9927 Wishes",
+  "rarity": 3,
+  "release": "2025-05-21",
+  "profile": {
+    "char_id": 1132,
+    "ja": {
+      "self_intro": "ラヴズオンリーユーです♪私の愛【ラヴ】は一方通行じゃなく双方向！配信で、世界中に広めていこうね♡",
+      "tagline": "ラヴミー♡ラヴユー♡愛あふれる配信者",
+      "weight": "メン限公開中",
+      "shoes": "左右ともに25.5cm",
+      "dorm": "栗東寮",
+      "class": "中等部",
+      "ears": "配信ノイズは360度、聞き逃さない",
+      "tail": "猫の注意を引き、配信に飛び入りはさせない",
+      "strong": "映像編集、いろんな人とコラボすること",
+      "weak": "お絵かき、ホラーゲーム、何もしない休み",
+      "family": "記念日の撮影は、写真ではなく動画",
+      "secrets": [
+        "実は、格闘ゲームの鬼。",
+        "実は、ラズベリーと間違えてかじって以来梅干しに苦手意識がある。"
+      ]
+    },
+    "ko": {
+      "secrets": []
+    },
+    "zh_tw": {
+      "secrets": []
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "va_en": "Miyu Kubota",
+    "three_sizes": {
+      "b": 88,
+      "w": 58,
+      "h": 88
+    },
+    "birth_day": 26,
+    "birth_month": 3,
+    "birth_year": 2016,
+    "height": 158,
+    "sex": 2,
+    "rl": {
+      "country": "jp",
+      "races": 16,
+      "wins": 8,
+      "record": "16-8-2-3",
+      "earnings": 338749000,
+      "active": "2018-2021"
+    }
+  }
+}

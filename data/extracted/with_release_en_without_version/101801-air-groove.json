@@ -153,5 +153,22 @@
   },
   "__file": "101801-air-groove.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Aku Air Groove. Jika keyakinanmu tak tergoyahkan, idealismemu akan berkembang. Sebagai sang Permaisuri, tugasku adalah memimpin dengan memberi teladan.",
+    "tagline": "Sang Permaisuri yang tenang dan penuh perhitungan. Berbakat besar dan sangat ambisius.",
+    "weight": "Bentuk luar biasa",
+    "shoes": "Kiri dan Kanan : 24,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Sedikit menunduk lembut saat merawat bunga.",
+    "tail": "Menggunakan minyak perawatan ekor yang sama seperti ibunya.",
+    "strong": "Menanam dan merawat bunga",
+    "weak": "Benda yang tiba-tiba menyala atau bergerak.",
+    "family": "Merencanakan pesta ulang tahun ibunya dengan sangat detail, bahkan setahun sebelumnya.",
+    "secrets": [
+      "Tahukah kamu? Dia benci semua serangga—kecuali kumbang kecil berbintik (ladybug)."
+    ]
+  },
+  "title_id": "Empress Road"
 }

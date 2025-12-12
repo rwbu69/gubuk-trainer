@@ -156,5 +156,22 @@
   },
   "__file": "101101-grass-wonder.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Namaku Grass Wonder. Aku terlahir sebagai Umamusume, jadi aku akan menapaki jalan ini sejauh yang aku bisa. Hee hee~ ♪",
+    "tagline": "Rapi dan manis. Gadis berhati Jepang yang baru kembali dari Amerika.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri : 23,0cm Kanan : 23,5cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Junior",
+    "ears": "Tak bergetar sedikit pun saat melakukan upacara minum teh.",
+    "tail": "Bisa menyingkirkan serangga di punggungnya tanpa perlu menoleh.",
+    "strong": "Manisan Jepang, budaya Jepang, dan karuta kompetitif",
+    "weak": "Serangga, dan orang yang tidak menghormati sejarah atau tradisi.",
+    "family": "Kecintaannya pada Jepang berasal dari orang tuanya — bahkan rumahnya punya satu ruangan bergaya Jepang.",
+    "secrets": [
+      "Tahukah kamu? Dia diam-diam sangat teliti soal panjang rok yang ia pakai."
+    ]
+  },
+  "title_id": "Rock-piercing Blue"
 }

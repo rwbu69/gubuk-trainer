@@ -1,0 +1,47 @@
+{
+  "name_en": "Eishin Flash",
+  "title": "Meisterschaft",
+  "rarity": 3,
+  "release": "2021-08-20",
+  "release_ko": "2022-12-09",
+  "release_zh_tw": "2022-12-23",
+  "release_en": "2025-10-30",
+  "profile": {
+    "self_intro": "Namaku Eishin Flash. Aku berlari untuk menjaga tradisi Umamusume. Aku selalu berlari tepat waktu.",
+    "tagline": "Segala yang ia lakukan selalu sesuai rencana. Gadis Jerman yang serius dan tekun.",
+    "weight": "Tidak ada perubahan (bahkan tanpa kesalahan 1g)",
+    "shoes": "Kiri dan kanan : 23,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Menganggap bunyi metronom itu menenangkan.",
+    "tail": "Memangkas ekornya dengan presisi sampai milimeter terakhir.",
+    "strong": "Menciptakan ulang karya seni",
+    "weak": "Seni (kecuali yang bersifat hiburan).",
+    "family": "Keluarganya mengelola toko kue yang terkenal karena baumkuchen-nya.",
+    "secrets": [
+      "Tahukah kamu? Dia pandai sekali membacakan buku cerita dengan suara keras."
+    ]
+  },
+  "charData": {
+    "va_en": "Ayami Fujino",
+    "three_sizes": {
+      "b": 88,
+      "w": 58,
+      "h": 86
+    },
+    "birth_day": 27,
+    "birth_month": 3,
+    "birth_year": 2007,
+    "height": 160,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": null,
+      "races": 27,
+      "wins": 6,
+      "record": "6-3-7-11",
+      "earnings": 756070000,
+      "active": "2009-2013"
+    }
+  }
+}

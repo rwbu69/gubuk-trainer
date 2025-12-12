@@ -157,5 +157,22 @@
   },
   "__file": "102401-mayano-top-gun.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Aku Maya, heh heh! ☆ Aku suka segala hal yang menegangkan! Sensasi adrenalin itu yang terbaik! ♪ Senang bertemu denganmu!",
+    "tagline": "Dia seperti adik kecilmu yang manis—tak sabar untuk cepat dewasa!",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan Kanan : 20,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Bisa menggerakkan telinganya sesuka hati.",
+    "tail": "Ekor itu bergoyang hebat saat ia berbohong.",
+    "strong": "Hampir apa saja",
+    "weak": "Rahasia.",
+    "family": "Ayahnya seorang pilot, dan mereka dulu sering bermain bersama di bandara.",
+    "secrets": [
+      "Tahukah kamu? Kertas jenis apa pun bisa dia jadikan pesawat kertas yang luar biasa."
+    ]
+  },
+  "title_id": "Scramble ☆ Zone"
 }

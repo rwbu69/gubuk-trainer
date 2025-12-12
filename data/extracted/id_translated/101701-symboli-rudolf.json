@@ -1,0 +1,47 @@
+{
+  "name_en": "Symboli Rudolf",
+  "title": "Road of Emperor",
+  "rarity": 3,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Aku Symboli Rudolf. Aku memegang kehormatan sebagai sang 'Kaisar' yang ingin membantu semua Umamusume mencapai potensi sejatinya. Mari kita ukir jalan menuju kehormatan dan kejayaan bersama!",
+    "tagline": "Sang Kaisar yang berkuasa—pemerintahannya mutlak!",
+    "weight": "Hampir ideal",
+    "shoes": "Kiri dan kanan : 25,0cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Senior",
+    "ears": "Telinganya langsung berkedut tiap kali ia memikirkan permainan kata.",
+    "tail": "Bahkan bulu ekornya bergetar saat ia berpidato.",
+    "strong": "Catur",
+    "weak": "Ngobrol basa-basi.",
+    "family": "Sejak kecil, orang tuanya sudah mengajarinya seni memimpin dan mengatur.",
+    "secrets": [
+      "Tahukah kamu? Dia selalu bisa mengingat wajah seseorang."
+    ]
+  },
+  "charData": {
+    "va_en": "Azusa Tadokoro",
+    "three_sizes": {
+      "b": 86,
+      "w": 59,
+      "h": 85
+    },
+    "birth_day": 13,
+    "birth_month": 3,
+    "birth_year": 1981,
+    "height": 165,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2011-10-04",
+      "races": 16,
+      "wins": 13,
+      "record": "13-1-1-1",
+      "earnings": 684820000,
+      "active": "1983-1986"
+    }
+  }
+}

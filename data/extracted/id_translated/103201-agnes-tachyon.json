@@ -1,0 +1,47 @@
+{
+  "name_en": "Agnes Tachyon",
+  "title": "Tach-nology",
+  "rarity": 1,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Aku Agnes Tachyon. Kau tidak tertarik tahu seberapa cepat Umamusume bisa berlari, kan? Kebetulan aku sedang mencari kelinci percobaan...",
+    "tagline": "Ilmuwan gila yang tak gentar pada hukum apa pun. Kelemahan tubuh hanyalah hal yang bisa diatasi!",
+    "weight": "Menolak pengukuran",
+    "shoes": "Kiri dan Kanan : 22,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Jangan pernah, sekalipun, menyentuh telinganya atau dahinya.",
+    "tail": "Bulu ekornya berdiri tegak saat ia mendapat ide.",
+    "strong": "Meneliti, dan makan manisan sambil minum teh",
+    "weak": "Gangguan saat meneliti, dan makanan pahit.",
+    "family": "Si unik dari keluarga balap terkenal.",
+    "secrets": [
+      "Tahukah kamu? Dia sering sekali menerima paket dari luar negeri."
+    ]
+  },
+  "charData": {
+    "va_en": "Sumire Uesaka",
+    "three_sizes": {
+      "b": 83,
+      "w": 55,
+      "h": 81
+    },
+    "birth_day": 13,
+    "birth_month": 4,
+    "birth_year": 1998,
+    "height": 159,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2009-06-22",
+      "races": 4,
+      "wins": 4,
+      "record": "4-0-0-0",
+      "earnings": 222080000,
+      "active": "2000-2001"
+    }
+  }
+}

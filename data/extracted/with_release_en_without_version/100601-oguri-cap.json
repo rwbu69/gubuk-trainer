@@ -150,5 +150,22 @@
   },
   "__file": "100601-oguri-cap.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Aku Oguri Cap. Aku akan berusaha menang demi orang-orang di kampung halamanku. Terima kasih atas dukungannya.",
+    "tagline": "Pemimpi berhati tenang dari pedesaan.",
+    "weight": "Sedikit peningkatan (berlebihan)",
+    "shoes": "Kiri dan kanan : 27,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Bisa mengenali orang dari kampung halamannya hanya dari sorakannya.",
+    "tail": "Tubuhnya cukup lentur, jadi tak ada bagian ekor yang tak bisa ia jangkau.",
+    "strong": "Makan makanan lezat",
+    "weak": "Berenang.",
+    "family": "Keluarganya selalu berlibur ke pemandian air panas—bahkan tahu setidaknya satu mata air tersembunyi.",
+    "secrets": [
+      "Tahukah kamu? Dia luar biasa rapi dalam memotong kukunya."
+    ]
+  },
+  "title_id": "Starlight Beat"
 }

@@ -154,5 +154,22 @@
   },
   "__file": "101401-el-condor-pasa.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Seekor burung merah perkasa melesat ke lintasan! Satu-satunya, tak tertandingi! El Condor Pasaaa—Umamusume terkuat di duniaaa!",
+    "tagline": "Burung Hantu Hitam dari Amerika Utara! Petarung lucha libre yang lincah dan unik.",
+    "weight": "Sedikit peningkatan (angkat beban berhasil!)",
+    "shoes": "Kiri dan kanan : 24,0cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Junior",
+    "ears": "Langsung berdiri tegak tiap kali mendengar seseorang menghitung.",
+    "tail": "Katanya, menarik ekor dianggap pelanggaran.",
+    "strong": "Gulat profesional",
+    "weak": "Diam terlalu lama.",
+    "family": "Tumbuh besar bersama seekor elang bernama “Mambo,” yang sudah seperti saudara baginya.",
+    "secrets": [
+      "Tahukah kamu? Dia punya pelembut kain khusus hanya untuk maskernya."
+    ]
+  },
+  "title_id": "El ☆ Numero 1"
 }

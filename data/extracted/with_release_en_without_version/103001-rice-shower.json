@@ -146,5 +146,22 @@
   },
   "__file": "103001-rice-shower.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Aku Rice Shower... Sejujurnya, aku sering membawa sial... dan... aku memang kurang bisa apa-apa... T-tapi aku berusaha jadi lebih baik!",
+    "tagline": "Pembawa sial? Pembalap ini tetap mengejar mimpinya meski pandangannya suram.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 21,0cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Senior",
+    "ears": "Menunduk lesu saat mendengar kesialan orang lain.",
+    "tail": "Berhati-hati agar ekornya tidak mengenai orang lain.",
+    "strong": "Menggambar.",
+    "weak": "Kesialan orang lain, dan hantu.",
+    "family": "Dulu orang tuanya sering membacakan buku bergambar sebagai dongeng sebelum tidur.",
+    "secrets": [
+      "Tahukah kamu? Dia lebih suka roti untuk sarapan."
+    ]
+  },
+  "title_id": "Rose Dream"
 }

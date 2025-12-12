@@ -152,5 +152,22 @@
   },
   "__file": "104601-smart-falcon.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Namaku Smart Falcon, tapi panggil saja Falco! Mimpiku adalah menjadi seorang Umadol! Kalau mau tanda tanganku, bilang aja ya! ☆",
+    "tagline": "Urusan fanservice? Serahkan padanya! Mengaku sebagai calon Umadol nomor satu.",
+    "weight": "Sedikit penurunan (dengan anggaran terbatas)",
+    "shoes": "Kiri dan kanan : 23,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Bisa mendengar setiap penggemarnya",
+    "tail": "Duduk dengan hati-hati agar bulu ekornya tidak berantakan.",
+    "strong": "Mengingat nama dan wajah orang",
+    "weak": "Belajar.",
+    "family": "Hiasan rambutnya adalah bagian pertama dari kostum idol yang dibuat oleh ibunya.",
+    "secrets": [
+      "Tahukah kamu? Dia ahli membuat papan tulisan buatan tangan."
+    ]
+  },
+  "title_id": "Absolute ☆ LOVE"
 }

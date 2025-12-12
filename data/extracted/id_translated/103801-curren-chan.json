@@ -1,0 +1,47 @@
+{
+  "name_en": "Curren Chan",
+  "title": "Fille Éclair",
+  "rarity": 3,
+  "release": "2021-04-15",
+  "release_ko": "2022-08-10",
+  "release_zh_tw": "2022-08-17",
+  "release_en": "2025-07-27",
+  "profile": {
+    "self_intro": "Ini dia Curren Chan, siap membuat dunia jadi lebih imut! ☆ Curren satu-satunya gadis yang harus kamu perhatikan, ya! ♪",
+    "tagline": "Bintang bersinar penuh keimutan! Aku butuh banyak cinta dan perhatian, ya? ♡",
+    "weight": "Rahasia ♥",
+    "shoes": "Kiri dan kanan : 22,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Kalau dia melambai memanggilmu, itu artinya dia ingin dimanja.",
+    "tail": "Sangat lembut dan mengembang—hampir memikat siapa pun yang melihat.",
+    "strong": "Selfie dan bermain piano",
+    "weak": "Makan camilan sambil minum teh.",
+    "family": "Saking rindunya pada putri mereka, sampai-sampai mereka melamar kerja di Akademi Tracen.",
+    "secrets": [
+      "Tahukah kamu? Setengah dari sepuluh film favoritnya adalah film horor."
+    ]
+  },
+  "charData": {
+    "va_en": "Yuu Sasahara",
+    "three_sizes": {
+      "b": 83,
+      "w": 55,
+      "h": 79
+    },
+    "birth_day": 31,
+    "birth_month": 3,
+    "birth_year": 2007,
+    "height": 155,
+    "sex": 2,
+    "rl": {
+      "country": "jp",
+      "death": null,
+      "races": 18,
+      "wins": 9,
+      "record": "9-3-1-5",
+      "earnings": 401801000,
+      "active": "2009-2013"
+    }
+  }
+}

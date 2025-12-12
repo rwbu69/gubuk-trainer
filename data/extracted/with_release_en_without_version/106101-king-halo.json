@@ -161,5 +161,22 @@
   },
   "__file": "106101-king-halo.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Ohoho! Namaku King Halo. Sebagai pesaing kelas atas, tentu kamu bisa berharap banyak dariku. Tenang saja, King Halo akan jadi nama yang dikenal semua orang!",
+    "tagline": "Sangat angkuh—kesombongannya menjulang hingga ke langit!",
+    "weight": "Sempurna",
+    "shoes": "Kiri dan kanan : 23,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Tak tertarik mendengar apa pun yang bukan kelas atas.",
+    "tail": "Bahkan gerakan ekornya pun kelas atas.",
+    "strong": "Desain dan fesyen",
+    "weak": "Hal-hal yang tidak pantas untuk seorang raja—seperti keramaian dan panas.",
+    "family": "Ibunya buruk dalam pekerjaan rumah tangga, jadi keluarga mereka mempekerjakan asisten rumah tangga tetap.",
+    "secrets": [
+      "Tahukah kamu? Dia akan terus ikut undian sampai menang—atau dompetnya kosong."
+    ]
+  },
+  "title_id": "King of Emeralds"
 }

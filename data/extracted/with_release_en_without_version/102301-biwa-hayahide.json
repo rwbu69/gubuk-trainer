@@ -147,5 +147,22 @@
   },
   "__file": "102301-biwa-hayahide.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Aku Biwa Hayahide. Tujuanku adalah menemukan rumus kemenangan yang sempurna... Dan, sebagai catatan, ukuran kepalaku benar-benar normal!",
+    "tagline": "Seorang intelektual penuh semangat—logika adalah senjatanya!",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 25,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Sejak kecil dia peka terhadap suara, jadi mudah terkejut.",
+    "tail": "Kesulitan memasukkan ekornya ke lubang celana saat cuaca lembap.",
+    "strong": "Membersihkan rumah",
+    "weak": "Musim hujan.",
+    "family": "Dulu ibunya sering membuatnya memakai gaya rambut yang sama dengan kakaknya.",
+    "secrets": [
+      "Tahukah kamu? Dia menulis ulasan tentang hair spray."
+    ]
+  },
+  "title_id": "pf.Victory Formula..."
 }

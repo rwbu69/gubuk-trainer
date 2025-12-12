@@ -1,0 +1,47 @@
+{
+  "name_en": "Seiun Sky",
+  "title": "Blue Cloud Thumbing",
+  "rarity": 3,
+  "release": "2021-06-10",
+  "release_ko": "2022-09-28",
+  "release_zh_tw": "2022-10-13",
+  "release_en": "2025-09-07",
+  "profile": {
+    "self_intro": "Halo. Aku Seiun Sky. Aku menjalani semuanya dengan santai aja. Hal baik datang pada yang sabar, kan?",
+    "tagline": "Melakukan apa pun sesukanya, kapan pun ia mau. Sebebas awan yang melayang...",
+    "weight": "Tidak diumumkan",
+    "shoes": "Kiri dan Kanan : 22,5cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Junior",
+    "ears": "Kadang langsung berdiri tegak tanpa bergerak saat mendengar sesuatu.",
+    "tail": "Sudah terlihat bagus bahkan tanpa melakukan apa-apa.",
+    "strong": "Tidur siang dan memancing",
+    "weak": "Ruang sempit dan tertutup (Gerbangnya! Gerbangnya!).",
+    "family": "Setiap pulang kampung, ia selalu memancing bersama kakeknya.",
+    "secrets": [
+      "Tahukah kamu? Dia sama sekali, benar-benar tidak tahan makanan panas."
+    ]
+  },
+  "charData": {
+    "va_en": "Akari Kitou",
+    "three_sizes": {
+      "b": 77,
+      "w": 55,
+      "h": 80
+    },
+    "birth_day": 26,
+    "birth_month": 4,
+    "birth_year": 1995,
+    "height": 155,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2011-08-16",
+      "races": 13,
+      "wins": 7,
+      "record": "7-1-1-4",
+      "earnings": 610280000,
+      "active": "1998-2001"
+    }
+  }
+}

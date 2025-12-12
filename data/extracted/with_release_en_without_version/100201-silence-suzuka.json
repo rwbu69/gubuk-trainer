@@ -153,5 +153,22 @@
   },
   "__file": "100201-silence-suzuka.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Aku Silence Suzuka. Aku suka berlari, dan aku tak akan menyerahkan posisi depanku pada siapa pun. Uh... itu saja sih.",
+    "tagline": "Pelari sunyi yang bercita-cita menembus batas suara.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri : 23,5cm Kanan : 23,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Kadang tak mendengar apa pun saat sedang memikirkan tentang berlari.",
+    "tail": "Ia selalu berusaha mengurangi hambatan angin dengan ekornya.",
+    "strong": "Lari jarak jauh",
+    "weak": "Tempat ramai.",
+    "family": "Memberinya uang jajan tambahan khusus untuk beli sepatu.",
+    "secrets": [
+      "Tahukah kamu? Dia jago memutar-mutar pena di jarinya."
+    ]
+  },
+  "title_id": "Silent Innocence"
 }

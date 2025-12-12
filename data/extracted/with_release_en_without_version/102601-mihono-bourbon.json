@@ -147,5 +147,22 @@
   },
   "__file": "102601-mihono-bourbon.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Namaku Mihono Bourbon. Tujuanku adalah menjuarai Triple Crown. Silakan lihat spesifikasi diriku untuk informasi kemampuan lebih lanjut.",
+    "tagline": "Selalu patuh pada perintah! Umamusume bergaya cyborg.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 24,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Langsung bangun sigap saat mendengar perintah, bahkan dalam kondisi tidur lelap.",
+    "tail": "Ekor itu cukup kuat hingga ia bisa berdiri di atasnya... menurut rumor.",
+    "strong": "Adu tatap (adu tahan pandangan)",
+    "weak": "Menggunakan peralatan elektronik.",
+    "family": "Kini keluarganya hidup dengan gaya purba karena peralatan elektronik mereka sering rusak.",
+    "secrets": [
+      "Tahukah kamu? Karena ayahnya, dia masih percaya kalau petir bisa mencuri ekornya."
+    ]
+  },
+  "title_id": "MB-19890425"
 }

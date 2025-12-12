@@ -1,0 +1,47 @@
+{
+  "name_en": "Sakura Bakushin O",
+  "title": "Sakura, Forward!",
+  "rarity": 1,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Halo! Aku Sakura Bakushin O! Seperti yang bisa kamu lihat, aku ketua kelas teladan DAN seorang Umamusume! BAKUSHIIIN!",
+    "tagline": "Ketua kelas ini benar-benar lepas kendali! Kecepatan penuh—Bakushiiiin!",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 24,0cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Senior",
+    "ears": "Hanya mendengar setengah dari apa yang dikatakan orang lain.",
+    "tail": "Selamat mencoba memegangnya saat dia sedang dalam Mode Bakushin penuh!",
+    "strong": "Dibutuhkan, dan membantu orang lain",
+    "weak": "Hal apa pun yang butuh lebih dari tiga langkah.",
+    "family": "Moto keluarganya adalah: “Pujian, pujian, dan lebih banyak pujian!”",
+    "secrets": [
+      "Tahukah kamu? Dalam permainan shogi, dia selalu melindungi bidak tombaknya."
+    ]
+  },
+  "charData": {
+    "va_en": "Sachika Misawa",
+    "three_sizes": {
+      "b": 83,
+      "w": 55,
+      "h": 83
+    },
+    "birth_day": 14,
+    "birth_month": 4,
+    "birth_year": 1989,
+    "height": 158,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2011-04-30",
+      "races": 21,
+      "wins": 11,
+      "record": "11-2-1-7",
+      "earnings": 521253000,
+      "active": "1992-1994"
+    }
+  }
+}

@@ -161,5 +161,22 @@
   },
   "__file": "105601-matikanefukukitaru.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Salam! Namaku Matikanefukukitaru! Keyakinanku pada Dewa Shiraoki yang agung akan membawa berkah berlimpah dalam hidup kita. Ramalan dibuka siang dan malam!",
+    "tagline": "Keberuntungan bersamaku! Umamusume penuh pesona ini sangat gemar meramal nasib.",
+    "weight": "Penurunan sedikit karena hari ini adalah hari sial",
+    "shoes": "Kiri dan Kanan : 23,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Kadang telinganya dijadikan semacam ramalan arah keberuntungan.",
+    "tail": "Berhenti total saat sedang meramal nasib.",
+    "strong": "Meramal nasib",
+    "weak": "Hal-hal yang dianggap sial.",
+    "family": "Kakaknya yang berbakat mengagumi kepribadian cerah sang adik.",
+    "secrets": [
+      "Tahukah kamu? Dia memiliki peringkat tinggi dalam seni kaligrafi Jepang."
+    ]
+  },
+  "title_id": "Rising Luck ☆ Flood of Happiness"
 }

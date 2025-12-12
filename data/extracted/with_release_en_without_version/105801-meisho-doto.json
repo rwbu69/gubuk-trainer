@@ -147,5 +147,22 @@
   },
   "__file": "105801-meisho-doto.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "H-halo! A-aku Meisho Doto. A-aku... uh... semoga suatu hari aku bisa punya kepercayaan diri untuk... uh... a-aku berusaha... aah, kenapa lidahku belibet terus...",
+    "tagline": "Untuk mengubah pandangan dan dirinya sendiri, si pesimis ini berjuang sekuat tenaga.",
+    "weight": "Peningkatan yang sangat sedikit",
+    "shoes": "Kiri dan kanan : 25,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Sering bergetar tanpa sadar.",
+    "tail": "Sering kusut karena ia memainkan ekornya saat sedang cemas.",
+    "strong": "Tetap berpikiran positif, dan menyanyi enka",
+    "weak": "Lidah berbelit (tongue twister).",
+    "family": "Karena sering pindah-pindah demi pekerjaan, seluruh keluarganya jadi mahir berbahasa asing.",
+    "secrets": [
+      "Tahukah kamu? Dia suka makanan yang super pedas."
+    ]
+  },
+  "title_id": "Blue/Raging"
 }

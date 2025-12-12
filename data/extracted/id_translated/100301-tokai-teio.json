@@ -1,0 +1,47 @@
+{
+  "name_en": "Tokai Teio",
+  "title": "Top of Joyful",
+  "rarity": 3,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Hei hei! Ini Tokai Teio! Awas matamu jangan lepas dari aku! Karena sang juara Triple Crown tak terkalahkan yang baru sudah datang!",
+    "tagline": "Tak terkalahkan dan menggemaskan! Pembalap ceria yang selalu melompat penuh semangat.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 22,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Tak pernah gagal mendengar pujian... atau suara pak Ketua.",
+    "tail": "Ekor itu bergoyang senang setiap kali dia mendapat perhatian.",
+    "strong": "Membuat teman baru",
+    "weak": "Dokter.",
+    "family": "Mereka menangis saat dia berhenti memanggil dengan sebutan “Mama” dan “Papa.”",
+    "secrets": [
+      "Tahukah kamu? Dia pemegang rekor untuk posisi membungkuk ke depan."
+    ]
+  },
+  "charData": {
+    "va_en": "Machico",
+    "three_sizes": {
+      "b": 77,
+      "w": 54,
+      "h": 76
+    },
+    "birth_day": 20,
+    "birth_month": 4,
+    "birth_year": 1988,
+    "height": 150,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2013-08-30",
+      "races": 12,
+      "wins": 9,
+      "record": "9-0-0-3",
+      "earnings": 604700000,
+      "active": "1990-1993"
+    }
+  }
+}

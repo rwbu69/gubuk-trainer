@@ -1,0 +1,47 @@
+{
+  "name_en": "Fuji Kiseki",
+  "title": "Shooting Star Revue",
+  "rarity": 3,
+  "release": "2021-07-12",
+  "release_ko": "2022-10-31",
+  "release_zh_tw": "2022-11-14",
+  "release_en": "2025-10-02",
+  "profile": {
+    "self_intro": "Inilah bintang hitam kesayangan semua orang—Fuji Kiseki! Aku adalah keajaiban modern! Aku membawa senyum ke mana pun aku pergi! ♪",
+    "tagline": "Selalu siap melayani. Pembalap paling elegan yang pernah ada.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 26,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Memiliki perfect pitch.",
+    "tail": "Berayun anggun seperti aksesori bulu megah di panggung.",
+    "strong": "Mengejutkan orang lain",
+    "weak": "Makanan manis.",
+    "family": "Berasal dari keluarga teater, orang tuanya sering bepergian keliling negeri.",
+    "secrets": [
+      "Tahukah kamu? Dia bisa membuat merpati muncul dari topi silinder—dan juga membuat topi itu muncul entah dari mana."
+    ]
+  },
+  "charData": {
+    "va_en": "Eriko Matsui",
+    "three_sizes": {
+      "b": 84,
+      "w": 58,
+      "h": 82
+    },
+    "birth_day": 15,
+    "birth_month": 4,
+    "birth_year": 1992,
+    "height": 168,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2015-12-28",
+      "races": 4,
+      "wins": 4,
+      "record": "4-0-0-0",
+      "earnings": 129650000,
+      "active": "1994-1995"
+    }
+  }
+}

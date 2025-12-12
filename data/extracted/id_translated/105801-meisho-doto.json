@@ -1,0 +1,47 @@
+{
+  "name_en": "Meisho Doto",
+  "title": "Blue/Raging",
+  "rarity": 3,
+  "release": "2021-08-11",
+  "release_ko": "2022-11-30",
+  "release_zh_tw": "2022-12-14",
+  "release_en": "2025-10-21",
+  "profile": {
+    "self_intro": "H-halo! A-aku Meisho Doto. A-aku... uh... semoga suatu hari aku bisa punya kepercayaan diri untuk... uh... a-aku berusaha... aah, kenapa lidahku belibet terus...",
+    "tagline": "Untuk mengubah pandangan dan dirinya sendiri, si pesimis ini berjuang sekuat tenaga.",
+    "weight": "Peningkatan yang sangat sedikit",
+    "shoes": "Kiri dan kanan : 25,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Sering bergetar tanpa sadar.",
+    "tail": "Sering kusut karena ia memainkan ekornya saat sedang cemas.",
+    "strong": "Tetap berpikiran positif, dan menyanyi enka",
+    "weak": "Lidah berbelit (tongue twister).",
+    "family": "Karena sering pindah-pindah demi pekerjaan, seluruh keluarganya jadi mahir berbahasa asing.",
+    "secrets": [
+      "Tahukah kamu? Dia suka makanan yang super pedas."
+    ]
+  },
+  "charData": {
+    "va_en": "Misaki Watada",
+    "three_sizes": {
+      "b": 99,
+      "w": 61,
+      "h": 89
+    },
+    "birth_day": 25,
+    "birth_month": 3,
+    "birth_year": 1996,
+    "height": 164,
+    "sex": 1,
+    "rl": {
+      "country": "ie",
+      "death": null,
+      "races": 27,
+      "wins": 10,
+      "record": "10-8-2-7",
+      "earnings": 921334000,
+      "active": "1999-2001"
+    }
+  }
+}

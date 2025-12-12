@@ -1,0 +1,47 @@
+{
+  "name_en": "Special Week",
+  "title": "Special Dreamer",
+  "rarity": 3,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Namaku Special Week! Impianku adalah menjadi Umamusume terbaik di seluruh Jepang! Aku harus berusaha keras supaya kedua ibuku bangga!",
+    "tagline": "Siap berlari! Gadis berhati murni yang fokus mengejar mimpinya.",
+    "weight": "Sedikit turun (gugup sebelum balapan)",
+    "shoes": "Kiri : 23,5cm Kanan : 23,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Langsung muncul di dapur saat mendengar suara masakan.",
+    "tail": "Ekor itu bergerak mengikuti emosinya—membuatnya jadi pemain poker yang buruk.",
+    "strong": "Ulasan makanan secara mendetail",
+    "weak": "Menggunakan kartu kereta.",
+    "family": "Warna matanya diwarisi dari ibu kandungnya.",
+    "secrets": [
+      "Tahukah kamu? Dia bisa membedakan merek susu hanya dari rasanya saja."
+    ]
+  },
+  "charData": {
+    "va_en": "Azumi Waki",
+    "three_sizes": {
+      "b": 81,
+      "w": 56,
+      "h": 81
+    },
+    "birth_day": 2,
+    "birth_month": 5,
+    "birth_year": 1995,
+    "height": 158,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2018-04-27",
+      "races": 17,
+      "wins": 10,
+      "record": "10-4-2-1",
+      "earnings": 1092620000,
+      "active": "1997-1999"
+    }
+  }
+}

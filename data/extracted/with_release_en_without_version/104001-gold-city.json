@@ -149,5 +149,22 @@
   },
   "__file": "104001-gold-city.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Namaku Gold City. Jangan kira aku cuma wajah cantik biasa. Aku akan membiarkan larianku yang berbicara.",
+    "tagline": "Pembalap lugas sekaligus standar emas dalam kecepatan dan kecantikan.",
+    "weight": "Tidak muncul untuk pengukuran",
+    "shoes": "Kiri dan kanan : 23,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Suatu hari nanti, dia yakin akan menang melawan alarmnya sendiri.",
+    "tail": "Secara refleks diam total saat difoto.",
+    "strong": "Berjalan ala model",
+    "weak": "Bangun pagi.",
+    "family": "Kulitnya yang mulus diwarisi dari sang ibu, sementara rambut pirangnya dari ayahnya.",
+    "secrets": [
+      "Tahukah kamu? Jam wekernya disetel untuk berbunyi setiap dua menit."
+    ]
+  },
+  "title_id": "Authentic 1928"
 }

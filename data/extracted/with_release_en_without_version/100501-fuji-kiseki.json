@@ -152,5 +152,22 @@
   },
   "__file": "100501-fuji-kiseki.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Inilah bintang hitam kesayangan semua orang—Fuji Kiseki! Aku adalah keajaiban modern! Aku membawa senyum ke mana pun aku pergi! ♪",
+    "tagline": "Selalu siap melayani. Pembalap paling elegan yang pernah ada.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 26,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Memiliki perfect pitch.",
+    "tail": "Berayun anggun seperti aksesori bulu megah di panggung.",
+    "strong": "Mengejutkan orang lain",
+    "weak": "Makanan manis.",
+    "family": "Berasal dari keluarga teater, orang tuanya sering bepergian keliling negeri.",
+    "secrets": [
+      "Tahukah kamu? Dia bisa membuat merpati muncul dari topi silinder—dan juga membuat topi itu muncul entah dari mana."
+    ]
+  },
+  "title_id": "Shooting Star Revue"
 }

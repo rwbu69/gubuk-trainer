@@ -1,0 +1,47 @@
+{
+  "name_en": "Winning Ticket",
+  "title": "Go To Winning!",
+  "rarity": 1,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Hei, hei! Impianku selalu jadi juara Derby! Oh iya! Namaku! Aku Winning Ticket! Jangan lepas pandanganmu dariku!",
+    "tagline": "Jangan pernah menahan perasaanmu! Gadis ini selalu jujur menampilkan emosinya.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 21,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Teman baiknya bilang, “Bahkan cara telinganya bergerak pun nyebelin.”",
+    "tail": "Ekor itu mengekspresikan kegembiraan, amarah, bahkan kesedihannya.",
+    "strong": "Menyemangati teman, dan mengekspresikan perasaannya",
+    "weak": "Tidak memberi usaha sepenuhnya!",
+    "family": "Tak ada yang bisa menghalangi tradisi tahunan keluarganya menonton Derby bersama.",
+    "secrets": [
+      "Tahukah kamu? Dia sangat selektif dalam memilih pakaian dalamnya."
+    ]
+  },
+  "charData": {
+    "va_en": "Yui Watanabe",
+    "three_sizes": {
+      "b": 88,
+      "w": 57,
+      "h": 85
+    },
+    "birth_day": 21,
+    "birth_month": 3,
+    "birth_year": 1990,
+    "height": 157,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2023-02-18",
+      "races": 14,
+      "wins": 6,
+      "record": "6-1-2-5",
+      "earnings": 371770000,
+      "active": "1992-1994"
+    }
+  }
+}

@@ -150,5 +150,22 @@
   },
   "__file": "100401-maruzensky.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Hiii! Maruzensky di sini! Kamu datang buat lihat aku kan? Larianku luar biasa! Hehe~ Jangan sampai jatuh cinta terlalu dalam ya~ ♪",
+    "tagline": "Gaya klasik sepanjang masa! Pembalap sejati dengan jiwa ‘hot rod’!",
+    "weight": "Bentuk optimal",
+    "shoes": "Kiri dan kanan : 26,0cm",
+    "dorm": "Tinggal sendiri",
+    "class": "Divisi Senior",
+    "ears": "Langsung pengin goyang begitu mendengar musik Eurobeat.",
+    "tail": "Membuat ekornya lembut dengan mandi pagi adalah bagian favorit harinya.",
+    "strong": "Drifting (balap selip mobil)",
+    "weak": "Berkendara santai tanpa tujuan.",
+    "family": "Mobil sport merah menyala itu warisan dari ayahnya.",
+    "secrets": [
+      "Tahukah kamu? Dia mudah mabuk perjalanan kalau duduk di kursi penumpang."
+    ]
+  },
+  "title_id": "Rouge Formula"
 }

@@ -1,0 +1,47 @@
+{
+  "name_en": "Mejiro Ryan",
+  "title": "Straight Line",
+  "rarity": 1,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Yo! Mejiro Ryan di sini! Aku sangat suka latihan dan angkat beban. Semuanya tentang menjaga badan tetap kuat! Sampai jumpa di gym!",
+    "tagline": "Tak ada yang mengalahkan latihan yang baik! Bahkan keringatnya pun murni dan tulus.",
+    "weight": "Sedikit peningkatan (angkat beban berhasil!)",
+    "shoes": "Kiri dan Kanan : 24,5cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Senior",
+    "ears": "Sering pindah posisi saat membaca manga romantis.",
+    "tail": "Ia banyak berkeringat, jadi punya handuk khusus untuk ekornya.",
+    "strong": "Angkat besi",
+    "weak": "Kolesterol.",
+    "family": "Ayahnya terlihat begitu muda sampai sering disangka kakaknya.",
+    "secrets": [
+      "Tahukah kamu? Dia butuh waktu lama hanya untuk memutuskan tisu pembersih tubuh mana yang akan dibeli."
+    ]
+  },
+  "charData": {
+    "va_en": "Afumi Hashi",
+    "three_sizes": {
+      "b": 87,
+      "w": 57,
+      "h": 86
+    },
+    "birth_day": 11,
+    "birth_month": 4,
+    "birth_year": 1987,
+    "height": 163,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2016-03-17",
+      "races": 19,
+      "wins": 7,
+      "record": "7-4-3-5",
+      "earnings": 486930000,
+      "active": "1989-1992"
+    }
+  }
+}

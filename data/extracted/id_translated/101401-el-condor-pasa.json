@@ -1,0 +1,47 @@
+{
+  "name_en": "El Condor Pasa",
+  "title": "El ☆ Numero 1",
+  "rarity": 2,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Seekor burung merah perkasa melesat ke lintasan! Satu-satunya, tak tertandingi! El Condor Pasaaa—Umamusume terkuat di duniaaa!",
+    "tagline": "Burung Hantu Hitam dari Amerika Utara! Petarung lucha libre yang lincah dan unik.",
+    "weight": "Sedikit peningkatan (angkat beban berhasil!)",
+    "shoes": "Kiri dan kanan : 24,0cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Junior",
+    "ears": "Langsung berdiri tegak tiap kali mendengar seseorang menghitung.",
+    "tail": "Katanya, menarik ekor dianggap pelanggaran.",
+    "strong": "Gulat profesional",
+    "weak": "Diam terlalu lama.",
+    "family": "Tumbuh besar bersama seekor elang bernama “Mambo,” yang sudah seperti saudara baginya.",
+    "secrets": [
+      "Tahukah kamu? Dia punya pelembut kain khusus hanya untuk maskernya."
+    ]
+  },
+  "charData": {
+    "va_en": "Minami Takahashi",
+    "three_sizes": {
+      "b": 89,
+      "w": 58,
+      "h": 86
+    },
+    "birth_day": 17,
+    "birth_month": 3,
+    "birth_year": 1995,
+    "height": 163,
+    "sex": 1,
+    "rl": {
+      "country": "us",
+      "death": "2002-07-16",
+      "races": 11,
+      "wins": 8,
+      "record": "8-3-0-0",
+      "earnings": 376070000,
+      "active": "1997-1999"
+    }
+  }
+}

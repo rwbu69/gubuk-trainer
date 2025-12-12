@@ -1,0 +1,56 @@
+{
+  "name_en": "Gran Alegria",
+  "title": "sMile My Way!",
+  "rarity": 3,
+  "release": "2025-03-11",
+  "profile": {
+    "char_id": 1131,
+    "ja": {
+      "self_intro": "はいっ、グランアレグリアです！0.75マイルでも1.25マイルでも未来のマイル女王は負けませんっ！",
+      "tagline": "可能性は無限大マイル！最強マイルウマ娘",
+      "weight": "10マイルくらい成長中！",
+      "shoes": "左：24.0cm 右：24.5cm",
+      "dorm": "美浦寮",
+      "class": "中等部",
+      "ears": "マッサージされると爆速で眠くなる",
+      "tail": "眠る前は赤いリボンで毛先までまとめる",
+      "strong": "運動全般、ソフトクリームを綺麗に巻くこと",
+      "weak": "深海魚、静かな場所、かくれんぼ",
+      "family": "家族全員が英語で話す『英語の日』がある",
+      "secrets": [
+        "実は、一番かっこいいと思っている漢字は『哩』。",
+        "実は、マイルだと思ったら海里だったときちょっとがっかりする。"
+      ]
+    },
+    "ko": {
+      "secrets": []
+    },
+    "zh_tw": {
+      "secrets": []
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "va_en": "Hina Natsume",
+    "three_sizes": {
+      "b": 84,
+      "w": 55,
+      "h": 85
+    },
+    "birth_day": 24,
+    "birth_month": 1,
+    "birth_year": 2016,
+    "height": 160,
+    "sex": 2,
+    "rl": {
+      "country": "jp",
+      "races": 15,
+      "wins": 9,
+      "record": "15-9-2-2",
+      "earnings": 1073813000,
+      "active": "2018-2021"
+    }
+  }
+}

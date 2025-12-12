@@ -163,5 +163,22 @@
   },
   "__file": "100801-vodka.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Yo! Vodka di sini! Dengar ya—prinsipku adalah selalu jadi yang paling keren! Aku nggak pernah bertingkah payah. Paham?",
+    "tagline": "Keras kepala dan penuh semangat! Si pembalap jalanan berhati emas.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri : 24,5cm Kanan : 24,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Anehnya, jadi malu sendiri kalau telinganya disentuh.",
+    "tail": "Sedang berlatih cara mengayunkan ekor dengan gaya yang keren.",
+    "strong": "Bersepeda udara (air bike)",
+    "weak": "Gosip soal percintaan.",
+    "family": "Sering dimarahi ibunya karena berbuat jahil bersama sang ayah.",
+    "secrets": [
+      "Tahukah kamu? Dia berlatih menggeser gelas di meja bar seperti di film-film."
+    ]
+  },
+  "title_id": "Wild Top Gear"
 }
