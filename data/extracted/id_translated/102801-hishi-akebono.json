@@ -1,0 +1,47 @@
+{
+  "name_en": "Hishi Akebono",
+  "title": "Bono ☆ Alla Moda",
+  "rarity": 3,
+  "release": "2021-09-10",
+  "release_ko": "2022-12-30",
+  "release_zh_tw": "2023-01-13",
+  "release_en": "2025-11-11",
+  "profile": {
+    "self_intro": "Buono, buono! ♪ Hishi Akebono hadir! ☆ Entah memasak atau berlari, aku selalu menaruh sedikit cinta di setiap hal yang kulakukan!",
+    "tagline": "Besar dan dermawan... dalam porsi? Tambahkan lebih banyak ‘buono’ dalam hidupmu! ♪",
+    "weight": "Sangat besar",
+    "shoes": "Kiri dan kanan : 28,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Bisa mendengar perut keroncongan yang paling pelan sekalipun",
+    "tail": "Berputar-putar tiap kali ia mengaduk bahan masakan.",
+    "strong": "Membuat manisan, dan sumo",
+    "weak": "Orang yang terlalu ngatur saat makan hotpot.",
+    "family": "Ayahnya adalah koki profesional, sementara ibunya mengajar membuat kue dan manisan.",
+    "secrets": [
+      "Tahukah kamu? Dia menghabiskan buku catatan dengan kecepatan luar biasa."
+    ]
+  },
+  "charData": {
+    "va_en": "Rei Matsuzaki",
+    "three_sizes": {
+      "b": 99,
+      "w": 64,
+      "h": 88
+    },
+    "birth_day": 27,
+    "birth_month": 2,
+    "birth_year": 1992,
+    "height": 180,
+    "sex": 1,
+    "rl": {
+      "country": "us",
+      "death": "2008-11-19",
+      "races": 30,
+      "wins": 6,
+      "record": "6-1-6-17",
+      "earnings": 324260000,
+      "active": "1994-1998"
+    }
+  }
+}

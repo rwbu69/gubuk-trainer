@@ -1,0 +1,47 @@
+{
+  "name_en": "Haru Urara",
+  "title": "Uraran First Prize ♪",
+  "rarity": 1,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Aku Haru Urara! Aku suka wortel! Oh, dan juga berlari! ♪ Aku selalu berusaha sekuat tenaga untuk meraih posisi pertama!",
+    "tagline": "Tak peduli berapa kali jatuh, gadis ini selalu bangkit lagi!",
+    "weight": "Sedikit peningkatan (tapi bukan masalah besar)",
+    "shoes": "Kiri dan Kanan : 20,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Kata rumit masuk telinga kanan keluar telinga kiri",
+    "tail": "Dulu dia pikir memutar ekornya bisa membuatnya berlari lebih cepat.",
+    "strong": "Bekerja sekeras mungkin",
+    "weak": "Kanji yang sulit.",
+    "family": "Masakan favoritnya adalah nasi wortel buatan ibunya.",
+    "secrets": [
+      "Tahukah kamu? Dia tidak bisa mengucapkan kata “prestigious.”"
+    ]
+  },
+  "charData": {
+    "va_en": "Yukina Shutou",
+    "three_sizes": {
+      "b": 74,
+      "w": 51,
+      "h": 73
+    },
+    "birth_day": 27,
+    "birth_month": 2,
+    "birth_year": 1996,
+    "height": 140,
+    "sex": 2,
+    "rl": {
+      "country": "jp",
+      "death": "2025-09-09",
+      "races": 113,
+      "wins": 0,
+      "record": "0-5-7-101",
+      "earnings": 0,
+      "active": "1998-2004"
+    }
+  }
+}

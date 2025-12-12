@@ -1,0 +1,47 @@
+{
+  "name_en": "King Halo",
+  "title": "King of Emeralds",
+  "rarity": 1,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Ohoho! Namaku King Halo. Sebagai pesaing kelas atas, tentu kamu bisa berharap banyak dariku. Tenang saja, King Halo akan jadi nama yang dikenal semua orang!",
+    "tagline": "Sangat angkuh—kesombongannya menjulang hingga ke langit!",
+    "weight": "Sempurna",
+    "shoes": "Kiri dan kanan : 23,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Tak tertarik mendengar apa pun yang bukan kelas atas.",
+    "tail": "Bahkan gerakan ekornya pun kelas atas.",
+    "strong": "Desain dan fesyen",
+    "weak": "Hal-hal yang tidak pantas untuk seorang raja—seperti keramaian dan panas.",
+    "family": "Ibunya buruk dalam pekerjaan rumah tangga, jadi keluarga mereka mempekerjakan asisten rumah tangga tetap.",
+    "secrets": [
+      "Tahukah kamu? Dia akan terus ikut undian sampai menang—atau dompetnya kosong."
+    ]
+  },
+  "charData": {
+    "va_en": "Iori Saeki",
+    "three_sizes": {
+      "b": 85,
+      "w": 60,
+      "h": 85
+    },
+    "birth_day": 28,
+    "birth_month": 4,
+    "birth_year": 1995,
+    "height": 159,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2019-03-19",
+      "races": 27,
+      "wins": 6,
+      "record": "6-4-4-13",
+      "earnings": 500266000,
+      "active": "1997-2000"
+    }
+  }
+}

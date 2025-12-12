@@ -155,5 +155,22 @@
   },
   "__file": "100701-gold-ship.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Bersujudlah! Gold Ship telah tiba! Mau itu neraka yang membara, tanah berlumpur, atau luar angkasa sekalipun—aku selalu siap berpetualang! ☆",
+    "tagline": "Liar dan tak terduga—pelari emas ini tak seperti siapa pun yang lain!",
+    "weight": "Tidak diukur",
+    "shoes": "Kiri dan kanan : 26,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "???",
+    "ears": "Menutup telinga orang lain lalu bertanya, “Tebak siapa?”",
+    "tail": "Kadang katanya dia lupa membawa ekornya dari kamar (katanya sih).",
+    "strong": "Melatih otot wajah",
+    "weak": "Diam di tempat terlalu lama.",
+    "family": "Katanya sih, itu rahasia negara.",
+    "secrets": [
+      "Tahukah kamu? Dia luar biasa hebat dalam kuis trivia—sampai bikin orang lain ciut."
+    ]
+  },
+  "title_id": "Red Strife"
 }

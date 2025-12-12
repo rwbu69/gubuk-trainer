@@ -160,5 +160,22 @@
   },
   "__file": "105201-haru-urara.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Aku Haru Urara! Aku suka wortel! Oh, dan juga berlari! ♪ Aku selalu berusaha sekuat tenaga untuk meraih posisi pertama!",
+    "tagline": "Tak peduli berapa kali jatuh, gadis ini selalu bangkit lagi!",
+    "weight": "Sedikit peningkatan (tapi bukan masalah besar)",
+    "shoes": "Kiri dan Kanan : 20,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Kata rumit masuk telinga kanan keluar telinga kiri",
+    "tail": "Dulu dia pikir memutar ekornya bisa membuatnya berlari lebih cepat.",
+    "strong": "Bekerja sekeras mungkin",
+    "weak": "Kanji yang sulit.",
+    "family": "Masakan favoritnya adalah nasi wortel buatan ibunya.",
+    "secrets": [
+      "Tahukah kamu? Dia tidak bisa mengucapkan kata “prestigious.”"
+    ]
+  },
+  "title_id": "Uraran First Prize ♪"
 }

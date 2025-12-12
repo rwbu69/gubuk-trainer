@@ -1,0 +1,47 @@
+{
+  "name_en": "Silence Suzuka",
+  "title": "Silent Innocence",
+  "rarity": 3,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Aku Silence Suzuka. Aku suka berlari, dan aku tak akan menyerahkan posisi depanku pada siapa pun. Uh... itu saja sih.",
+    "tagline": "Pelari sunyi yang bercita-cita menembus batas suara.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri : 23,5cm Kanan : 23,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Kadang tak mendengar apa pun saat sedang memikirkan tentang berlari.",
+    "tail": "Ia selalu berusaha mengurangi hambatan angin dengan ekornya.",
+    "strong": "Lari jarak jauh",
+    "weak": "Tempat ramai.",
+    "family": "Memberinya uang jajan tambahan khusus untuk beli sepatu.",
+    "secrets": [
+      "Tahukah kamu? Dia jago memutar-mutar pena di jarinya."
+    ]
+  },
+  "charData": {
+    "va_en": "Marika Kouno",
+    "three_sizes": {
+      "b": 70,
+      "w": 53,
+      "h": 79
+    },
+    "birth_day": 1,
+    "birth_month": 5,
+    "birth_year": 1994,
+    "height": 161,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "1998-11-01",
+      "races": 16,
+      "wins": 9,
+      "record": "9-1-0-6",
+      "earnings": 455980000,
+      "active": "1997-1998"
+    }
+  }
+}

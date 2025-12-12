@@ -145,5 +145,22 @@
   },
   "__file": "101301-mejiro-mcqueen.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Aku Mejiro McQueen. Aku pasti akan memenuhi ambisi keluargaku—merebut mahkota Tenno Sho.",
+    "tagline": "Permata mahkota keluarga Mejiro yang terpandang—gadis muda yang anggun dan berkelas.",
+    "weight": "Sedikit peningkatan (membuat penyesuaian yang panik!)",
+    "shoes": "Kiri dan Kanan : 22,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Cenderung berdiri sangat tegak bila ada orang lain di sekitarnya.",
+    "tail": "Mengibas-ibaskan ekornya dengan antusias saat membicarakan olahraga.",
+    "strong": "Etika makan di meja",
+    "weak": "Menahan diri dari makan manisan.",
+    "family": "Orang tuanya memanggilnya dengan sebutan “Mackie.”",
+    "secrets": [
+      "Tahukah kamu? Kadang dia berteriak, “Bawa pulang mereka!” saat tidur, lalu terbangun sendiri."
+    ]
+  },
+  "title_id": "Elegance Line"
 }

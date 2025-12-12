@@ -1,0 +1,47 @@
+{
+  "name_en": "Vodka",
+  "title": "Wild Top Gear",
+  "rarity": 2,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Yo! Vodka di sini! Dengar ya—prinsipku adalah selalu jadi yang paling keren! Aku nggak pernah bertingkah payah. Paham?",
+    "tagline": "Keras kepala dan penuh semangat! Si pembalap jalanan berhati emas.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri : 24,5cm Kanan : 24,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Anehnya, jadi malu sendiri kalau telinganya disentuh.",
+    "tail": "Sedang berlatih cara mengayunkan ekor dengan gaya yang keren.",
+    "strong": "Bersepeda udara (air bike)",
+    "weak": "Gosip soal percintaan.",
+    "family": "Sering dimarahi ibunya karena berbuat jahil bersama sang ayah.",
+    "secrets": [
+      "Tahukah kamu? Dia berlatih menggeser gelas di meja bar seperti di film-film."
+    ]
+  },
+  "charData": {
+    "va_en": "Ayaka Oohashi",
+    "three_sizes": {
+      "b": 76,
+      "w": 55,
+      "h": 78
+    },
+    "birth_day": 4,
+    "birth_month": 4,
+    "birth_year": 2004,
+    "height": 165,
+    "sex": 2,
+    "rl": {
+      "country": "jp",
+      "death": "2019-04-01",
+      "races": 26,
+      "wins": 10,
+      "record": "10-5-3-8",
+      "earnings": 1304870000,
+      "active": "2006-2010"
+    }
+  }
+}

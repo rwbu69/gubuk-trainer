@@ -1,0 +1,47 @@
+{
+  "name_en": "Nice Nature",
+  "title": "Poinsettia Ribbon",
+  "rarity": 1,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Hei. Aku Nice Nature. Haha, sebenarnya aku nggak selalu bisa memenuhi harapan orang... tapi nggak apa-apa juga sih. Aku lebih suka jalan santai aja.",
+    "tagline": "Jangan berharap terlalu banyak darinya—Umamusume ini super sinis.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 22,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Selalu bergetar sedikit setiap kali dia mendengar \"Natie\"",
+    "tail": "Diam-diam menyisir ekornya larut malam.",
+    "strong": "Tenis meja dan mencari camilan baru",
+    "weak": "Media sosial.",
+    "family": "Artikel tentang dirinya dipajang di dinding bar milik keluarganya.",
+    "secrets": [
+      "Tahukah kamu? Dia jago mengolah sisa makanan di kulkas jadi hidangan baru."
+    ]
+  },
+  "charData": {
+    "va_en": "Kaori Maeda",
+    "three_sizes": {
+      "b": 79,
+      "w": 56,
+      "h": 80
+    },
+    "birth_day": 16,
+    "birth_month": 4,
+    "birth_year": 1988,
+    "height": 157,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2023-05-30",
+      "races": 41,
+      "wins": 7,
+      "record": "7-6-8-20",
+      "earnings": 623585600,
+      "active": "1990-1996"
+    }
+  }
+}

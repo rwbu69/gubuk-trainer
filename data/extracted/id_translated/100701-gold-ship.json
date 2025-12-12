@@ -1,0 +1,47 @@
+{
+  "name_en": "Gold Ship",
+  "title": "Red Strife",
+  "rarity": 2,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Bersujudlah! Gold Ship telah tiba! Mau itu neraka yang membara, tanah berlumpur, atau luar angkasa sekalipun—aku selalu siap berpetualang! ☆",
+    "tagline": "Liar dan tak terduga—pelari emas ini tak seperti siapa pun yang lain!",
+    "weight": "Tidak diukur",
+    "shoes": "Kiri dan kanan : 26,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "???",
+    "ears": "Menutup telinga orang lain lalu bertanya, “Tebak siapa?”",
+    "tail": "Kadang katanya dia lupa membawa ekornya dari kamar (katanya sih).",
+    "strong": "Melatih otot wajah",
+    "weak": "Diam di tempat terlalu lama.",
+    "family": "Katanya sih, itu rahasia negara.",
+    "secrets": [
+      "Tahukah kamu? Dia luar biasa hebat dalam kuis trivia—sampai bikin orang lain ciut."
+    ]
+  },
+  "charData": {
+    "va_en": "Hitomi Ueda",
+    "three_sizes": {
+      "b": 88,
+      "w": 55,
+      "h": 88
+    },
+    "birth_day": 6,
+    "birth_month": 3,
+    "birth_year": 2009,
+    "height": 170,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": null,
+      "races": 28,
+      "wins": 13,
+      "record": "13-3-2-10",
+      "earnings": 1397767000,
+      "active": "2011-2015"
+    }
+  }
+}

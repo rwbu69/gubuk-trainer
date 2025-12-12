@@ -1,0 +1,31 @@
+---
+import CharacterListLayout from "../layouts/CharacterListLayout.astro";
+import { generateQuizData } from "../utils/characterData";
+import path from "path";
+
+const { uniqueCharacters } = await generateQuizData({
+  dataDir: path.join(
+    process.cwd(),
+    "data/extracted/with_release_en_without_version"
+  ),
+  outputFileName: "characters-trivia-en.json",
+  fields: [
+    "title",
+    "title_id",
+    "profile.self_intro",
+    "profile_id.self_intro",
+    "profile.tagline",
+    "profile_id.tagline",
+    "release_en",
+    "rarity",
+  ],
+  baseUrl: import.meta.env.BASE_URL,
+});
+---
+
+<CharacterListLayout
+  title="Daftar Karakter - Server EN"
+  subtitle={`${uniqueCharacters.length} karakter tersedia`}
+  characters={uniqueCharacters}
+  baseUrl={import.meta.env.BASE_URL}
+/>

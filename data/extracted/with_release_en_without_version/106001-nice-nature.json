@@ -161,5 +161,22 @@
   },
   "__file": "106001-nice-nature.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Hei. Aku Nice Nature. Haha, sebenarnya aku nggak selalu bisa memenuhi harapan orang... tapi nggak apa-apa juga sih. Aku lebih suka jalan santai aja.",
+    "tagline": "Jangan berharap terlalu banyak darinya—Umamusume ini super sinis.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 22,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Selalu bergetar sedikit setiap kali dia mendengar \"Natie\"",
+    "tail": "Diam-diam menyisir ekornya larut malam.",
+    "strong": "Tenis meja dan mencari camilan baru",
+    "weak": "Media sosial.",
+    "family": "Artikel tentang dirinya dipajang di dinding bar milik keluarganya.",
+    "secrets": [
+      "Tahukah kamu? Dia jago mengolah sisa makanan di kulkas jadi hidangan baru."
+    ]
+  },
+  "title_id": "Poinsettia Ribbon"
 }

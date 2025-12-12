@@ -1,0 +1,57 @@
+{
+  "name_en": "Bubble Gum Fellow",
+  "title": "POPPING!",
+  "rarity": 3,
+  "release": "2024-10-11",
+  "profile": {
+    "char_id": 1124,
+    "ja": {
+      "self_intro": "私は宣言する。『切り込み隊長として、四天王旋風を巻き起こす！』一緒に夢、膨らませていこう！",
+      "tagline": "膨らむ夢、ハジける闘志の切り込み隊長！",
+      "weight": "宣言通りの仕上がり",
+      "shoes": "左：25.5cm 右：25.0cm",
+      "dorm": "美浦寮",
+      "class": "高等部",
+      "ears": "『四天王』の中で1番、聴覚が鋭い",
+      "tail": "パステル調のアクセでアレンジするのが好き",
+      "strong": "バルーンアート、洋楽のアカペラ",
+      "weak": "ハムスター",
+      "family": "みんな、どこか甘くて上品な香りがする",
+      "secrets": [
+        "実は、ゆめかわキャラブランド発行の月刊新聞を定期購読している。",
+        "実は、ドイツ語の歌だけは聴いているとどうにも眠くなってしまう。"
+      ]
+    },
+    "ko": {
+      "secrets": []
+    },
+    "zh_tw": {
+      "secrets": []
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "va_en": "Sayaka Kamitani",
+    "three_sizes": {
+      "b": 82,
+      "w": 58,
+      "h": 84
+    },
+    "birth_day": 11,
+    "birth_month": 4,
+    "birth_year": 1993,
+    "height": 166,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2010-04-26",
+      "races": 13,
+      "wins": 7,
+      "record": "13-7-2-3",
+      "earnings": 554430000,
+      "active": "1995-1997"
+    }
+  }
+}

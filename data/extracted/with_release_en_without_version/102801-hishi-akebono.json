@@ -150,5 +150,22 @@
   },
   "__file": "102801-hishi-akebono.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Buono, buono! ♪ Hishi Akebono hadir! ☆ Entah memasak atau berlari, aku selalu menaruh sedikit cinta di setiap hal yang kulakukan!",
+    "tagline": "Besar dan dermawan... dalam porsi? Tambahkan lebih banyak ‘buono’ dalam hidupmu! ♪",
+    "weight": "Sangat besar",
+    "shoes": "Kiri dan kanan : 28,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Bisa mendengar perut keroncongan yang paling pelan sekalipun",
+    "tail": "Berputar-putar tiap kali ia mengaduk bahan masakan.",
+    "strong": "Membuat manisan, dan sumo",
+    "weak": "Orang yang terlalu ngatur saat makan hotpot.",
+    "family": "Ayahnya adalah koki profesional, sementara ibunya mengajar membuat kue dan manisan.",
+    "secrets": [
+      "Tahukah kamu? Dia menghabiskan buku catatan dengan kecepatan luar biasa."
+    ]
+  },
+  "title_id": "Bono ☆ Alla Moda"
 }

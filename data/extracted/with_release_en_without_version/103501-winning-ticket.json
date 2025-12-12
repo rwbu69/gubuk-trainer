@@ -165,5 +165,22 @@
   },
   "__file": "103501-winning-ticket.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Hei, hei! Impianku selalu jadi juara Derby! Oh iya! Namaku! Aku Winning Ticket! Jangan lepas pandanganmu dariku!",
+    "tagline": "Jangan pernah menahan perasaanmu! Gadis ini selalu jujur menampilkan emosinya.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 21,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Teman baiknya bilang, “Bahkan cara telinganya bergerak pun nyebelin.”",
+    "tail": "Ekor itu mengekspresikan kegembiraan, amarah, bahkan kesedihannya.",
+    "strong": "Menyemangati teman, dan mengekspresikan perasaannya",
+    "weak": "Tidak memberi usaha sepenuhnya!",
+    "family": "Tak ada yang bisa menghalangi tradisi tahunan keluarganya menonton Derby bersama.",
+    "secrets": [
+      "Tahukah kamu? Dia sangat selektif dalam memilih pakaian dalamnya."
+    ]
+  },
+  "title_id": "Go To Winning!"
 }

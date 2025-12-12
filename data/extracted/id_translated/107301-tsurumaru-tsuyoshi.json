@@ -1,0 +1,75 @@
+{
+  "name_en": "Tsurumaru Tsuyoshi",
+  "title": "Dream Bold, Stand Tall, Tsuyoshi!",
+  "rarity": 2,
+  "release": "2025-02-14",
+  "profile": {
+    "char_id": 1073,
+    "ja": {
+      "self_intro": "ツルマルツヨシ！憧れの『三冠ウマ娘』目指して！とにかく全力をっ――…ゲホッ！…む、むせただけです！超元気です大丈夫！",
+      "tagline": "夢は三冠！！常に全力！！限界超えがち！？",
+      "weight": "増量中",
+      "shoes": "左右ともに22.5cm",
+      "dorm": "栗東寮",
+      "class": "中等部",
+      "ears": "人に頼られると嬉しそうにぴよぴよ揺れる",
+      "tail": "洗ったらすぐ乾かさないと風邪をひく",
+      "strong": "オリジナルスムージー開発",
+      "weak": "湿布のにおい、低気圧、『絶対安静』",
+      "family": "よく果物を仕送りしてくれている",
+      "secrets": [
+        "実は、人によく道をたずねられることがひそかな自慢。",
+        "実は、前髪の白い部分のセットには毎朝じっくり時間をかけている。"
+      ]
+    },
+    "ko": {
+      "self_intro": "츠루마루 츠요시! 동경하는 『3관 우마무스메』를 목표로! 하여간 있는 힘껏…… 쿨럭! …사, 사레가 들렸을 뿐이에요! 엄청 건강해요, 괜찮아요!",
+      "tagline": "꿈은 3관!! 언제나 전력!! 자주 한계를 무시!?",
+      "dorm": "릿토 생활관",
+      "class": "중등부",
+      "secrets": [
+        "사실은 사람들이 자주 길을 물어보는 것이 은밀한 자랑.",
+        "사실은 앞머리의 하얀 부분을 매일 아침 공들여 세팅하고 있다."
+      ]
+    },
+    "zh_tw": {
+      "self_intro": "鶴丸強志！目標是成為自己憧憬的「三冠賽馬娘」！總之盡全力──咳咳！……只、只是嗆到而已！我很好別擔心！",
+      "tagline": "夢想獲得三冠！！總是全力以赴！！經常超越極限！？",
+      "dorm": "栗東宿舍",
+      "class": "國中部",
+      "secrets": [
+        "其實常常被人問路是她默默自豪的事情。",
+        "其實她每天早上都會花時間仔細打理瀏海白色的部分。"
+      ]
+    },
+    "en": {
+      "self_intro": "Tsurumaru Tsuyoshi here! I've always dreamed of winning the Triple Crown, and now I'm going all out to—cough, cough! I-I'm all right, just choked on air. Really, never felt better!",
+      "tagline": "Dreams of the Triple Crown! Always gives 110%! Knows no limits!",
+      "dorm": "Ritto Dormitory",
+      "class": "Junior Division",
+      "secrets": []
+    }
+  },
+  "charData": {
+    "va_en": "Yoshino Aoyama",
+    "three_sizes": {
+      "b": 85,
+      "w": 58,
+      "h": 86
+    },
+    "birth_day": 6,
+    "birth_month": 4,
+    "birth_year": 1995,
+    "height": 160,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": null,
+      "races": 11,
+      "wins": 5,
+      "record": "5-0-1-5",
+      "earnings": 174282000,
+      "active": "1997-2001"
+    }
+  }
+}

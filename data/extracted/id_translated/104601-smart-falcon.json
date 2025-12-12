@@ -1,0 +1,47 @@
+{
+  "name_en": "Smart Falcon",
+  "title": "Absolute ☆ LOVE",
+  "rarity": 3,
+  "release": "2021-05-06",
+  "release_ko": "2022-08-26",
+  "release_zh_tw": "2022-09-08",
+  "release_en": "2025-08-11",
+  "profile": {
+    "self_intro": "Namaku Smart Falcon, tapi panggil saja Falco! Mimpiku adalah menjadi seorang Umadol! Kalau mau tanda tanganku, bilang aja ya! ☆",
+    "tagline": "Urusan fanservice? Serahkan padanya! Mengaku sebagai calon Umadol nomor satu.",
+    "weight": "Sedikit penurunan (dengan anggaran terbatas)",
+    "shoes": "Kiri dan kanan : 23,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Bisa mendengar setiap penggemarnya",
+    "tail": "Duduk dengan hati-hati agar bulu ekornya tidak berantakan.",
+    "strong": "Mengingat nama dan wajah orang",
+    "weak": "Belajar.",
+    "family": "Hiasan rambutnya adalah bagian pertama dari kostum idol yang dibuat oleh ibunya.",
+    "secrets": [
+      "Tahukah kamu? Dia ahli membuat papan tulisan buatan tangan."
+    ]
+  },
+  "charData": {
+    "va_en": "Hitomi Oowada",
+    "three_sizes": {
+      "b": 78,
+      "w": 55,
+      "h": 80
+    },
+    "birth_day": 4,
+    "birth_month": 4,
+    "birth_year": 2005,
+    "height": 156,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": null,
+      "races": 34,
+      "wins": 23,
+      "record": "23-4-1-6",
+      "earnings": 990730000,
+      "active": "2007-2012"
+    }
+  }
+}

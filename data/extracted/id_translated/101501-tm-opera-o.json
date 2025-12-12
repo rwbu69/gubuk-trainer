@@ -1,0 +1,47 @@
+{
+  "name_en": "TM Opera O",
+  "title": "O Sole So",
+  "rarity": 3,
+  "release": "2021-03-02",
+  "release_ko": "2022-06-27",
+  "release_zh_tw": "2022-07-04",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Muahahaha! Tataplah penguasa indah nan perkasa kalian—T.M. Opera O! Legenda diriku... dimulai sekarang!",
+    "tagline": "Bintang panggung yang penuh percaya diri—tawanya menggema memenuhi ruangan!",
+    "weight": "Sempurna selamanya (menurut dirinya sendiri)",
+    "shoes": "Kiri dan kanan : 23,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Menganggap semua yang didengarnya sebagai pujian.",
+    "tail": "Tampak berkilau ketika terkena cahaya.",
+    "strong": "Pertunjukan opera dadakan",
+    "weak": "Pekerjaan yang membosankan.",
+    "family": "Bersyukur kepada orang tuanya karena telah menciptakan putri secantik dirinya.",
+    "secrets": [
+      "Tahukah kamu? Dulunya, dia hanya pernah sekali mengubah hiasan telinganya secara besar-besaran."
+    ]
+  },
+  "charData": {
+    "va_en": "Sora Tokui",
+    "three_sizes": {
+      "b": 76,
+      "w": 55,
+      "h": 80
+    },
+    "birth_day": 13,
+    "birth_month": 3,
+    "birth_year": 1996,
+    "height": 156,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2018-05-17",
+      "races": 26,
+      "wins": 14,
+      "record": "14-6-3-3",
+      "earnings": 1835189000,
+      "active": "1998-2002"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name_en": "Maruzensky",
+  "title": "Rouge Formula",
+  "rarity": 3,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Hiii! Maruzensky di sini! Kamu datang buat lihat aku kan? Larianku luar biasa! Hehe~ Jangan sampai jatuh cinta terlalu dalam ya~ ♪",
+    "tagline": "Gaya klasik sepanjang masa! Pembalap sejati dengan jiwa ‘hot rod’!",
+    "weight": "Bentuk optimal",
+    "shoes": "Kiri dan kanan : 26,0cm",
+    "dorm": "Tinggal sendiri",
+    "class": "Divisi Senior",
+    "ears": "Langsung pengin goyang begitu mendengar musik Eurobeat.",
+    "tail": "Membuat ekornya lembut dengan mandi pagi adalah bagian favorit harinya.",
+    "strong": "Drifting (balap selip mobil)",
+    "weak": "Berkendara santai tanpa tujuan.",
+    "family": "Mobil sport merah menyala itu warisan dari ayahnya.",
+    "secrets": [
+      "Tahukah kamu? Dia mudah mabuk perjalanan kalau duduk di kursi penumpang."
+    ]
+  },
+  "charData": {
+    "va_en": "Lynn",
+    "three_sizes": {
+      "b": 92,
+      "w": 58,
+      "h": 88
+    },
+    "birth_day": 19,
+    "birth_month": 5,
+    "birth_year": 1974,
+    "height": 164,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "1997-08-21",
+      "races": 8,
+      "wins": 8,
+      "record": "8-0-0-0",
+      "earnings": 76600000,
+      "active": "1976-1977"
+    }
+  }
+}

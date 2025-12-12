@@ -1,0 +1,56 @@
+{
+  "name_en": "Fenomeno",
+  "title": "Black Flame of Righteousness",
+  "rarity": 3,
+  "release": "2025-04-21",
+  "profile": {
+    "char_id": 1127,
+    "ja": {
+      "self_intro": "はっ！本官はフェノーメノ、所属は中央トレセン学園であります！子どもたちの規範となるべく、粉骨砕身してまいります！",
+      "tagline": "厳格なる正義――走る強面おまわりさん",
+      "weight": "怪物的",
+      "shoes": "左右ともに26.0cm",
+      "dorm": "美浦寮",
+      "class": "高等部",
+      "ears": "威厳のある毛並みはひそかなお気に入り",
+      "tail": "ボスの前ではたいてい揺れている",
+      "strong": "書道、感謝状を書くこと",
+      "weak": "ヘアワックス、ハッカ飴",
+      "family": "一家揃ってつぶあん派",
+      "secrets": [
+        "実は、野菜や果物の輪切り柄が好き。",
+        "実は、不思議とカルガモ親子の引っ越しに遭遇しがち。"
+      ]
+    },
+    "ko": {
+      "secrets": []
+    },
+    "zh_tw": {
+      "secrets": []
+    },
+    "en": {
+      "secrets": []
+    }
+  },
+  "charData": {
+    "va_en": "Yuriko Hibi",
+    "three_sizes": {
+      "b": 81,
+      "w": 59,
+      "h": 82
+    },
+    "birth_day": 20,
+    "birth_month": 4,
+    "birth_year": 2009,
+    "height": 171,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "races": 18,
+      "wins": 7,
+      "record": "18-7-2-0",
+      "earnings": 629108000,
+      "active": "2011-2015"
+    }
+  }
+}

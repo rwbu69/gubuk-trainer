@@ -1,0 +1,47 @@
+{
+  "name_en": "Narita Taishin",
+  "title": "Nevertheless",
+  "rarity": 3,
+  "release": "2021-04-26",
+  "release_ko": "2022-08-18",
+  "release_zh_tw": "2022-08-29",
+  "release_en": "2025-08-03",
+  "profile": {
+    "self_intro": "Namaku Narita Taishin. Aku di sini untuk membuat semua orang yang meragukanku terlihat bodoh. Sekarang, biarkan aku sendiri.",
+    "tagline": "Dingin dan to the point! Tubuh mungilnya justru memberinya keuntungan tak terduga.",
+    "weight": "Menolak pengukuran",
+    "shoes": "Kiri dan Kanan : 20,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Hanya memperhatikan hal-hal yang menarik minatnya.",
+    "tail": "Kecuali kamu teman dekat, menyentuhnya akan berujung pada tendangan cepat.",
+    "strong": "Main game, dan pekerjaan rumah",
+    "weak": "Keramaian.",
+    "family": "Ada rumor bahwa grup para ibu BNW akan segera terbentuk.",
+    "secrets": [
+      "Tahukah kamu? Dia cukup terkenal di dunia game ritme."
+    ]
+  },
+  "charData": {
+    "va_en": "Keiko Watanabe",
+    "three_sizes": {
+      "b": 69,
+      "w": 50,
+      "h": 73
+    },
+    "birth_day": 10,
+    "birth_month": 6,
+    "birth_year": 1990,
+    "height": 145,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2020-04-13",
+      "races": 15,
+      "wins": 4,
+      "record": "4-6-1-4",
+      "earnings": 397408000,
+      "active": "1992-1995"
+    }
+  }
+}

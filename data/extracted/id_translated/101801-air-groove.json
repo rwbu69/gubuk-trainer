@@ -1,0 +1,47 @@
+{
+  "name_en": "Air Groove",
+  "title": "Empress Road",
+  "rarity": 2,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Aku Air Groove. Jika keyakinanmu tak tergoyahkan, idealismemu akan berkembang. Sebagai sang Permaisuri, tugasku adalah memimpin dengan memberi teladan.",
+    "tagline": "Sang Permaisuri yang tenang dan penuh perhitungan. Berbakat besar dan sangat ambisius.",
+    "weight": "Bentuk luar biasa",
+    "shoes": "Kiri dan Kanan : 24,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Sedikit menunduk lembut saat merawat bunga.",
+    "tail": "Menggunakan minyak perawatan ekor yang sama seperti ibunya.",
+    "strong": "Menanam dan merawat bunga",
+    "weak": "Benda yang tiba-tiba menyala atau bergerak.",
+    "family": "Merencanakan pesta ulang tahun ibunya dengan sangat detail, bahkan setahun sebelumnya.",
+    "secrets": [
+      "Tahukah kamu? Dia benci semua serangga—kecuali kumbang kecil berbintik (ladybug)."
+    ]
+  },
+  "charData": {
+    "va_en": "Ruriko Aoki",
+    "three_sizes": {
+      "b": 90,
+      "w": 57,
+      "h": 86
+    },
+    "birth_day": 6,
+    "birth_month": 4,
+    "birth_year": 1993,
+    "height": 165,
+    "sex": 2,
+    "rl": {
+      "country": "jp",
+      "death": "2013-04-23",
+      "races": 19,
+      "wins": 9,
+      "record": "9-5-3-2",
+      "earnings": 821960000,
+      "active": "1995-1999"
+    }
+  }
+}

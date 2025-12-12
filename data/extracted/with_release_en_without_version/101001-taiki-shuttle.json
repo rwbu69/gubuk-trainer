@@ -153,5 +153,22 @@
   },
   "__file": "101001-taiki-shuttle.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Howdy! Taiki Shuttle hadir! Aku ingin membuat orang-orang tersenyum lewat larianku yang penuh semangat!",
+    "tagline": "Gadis ramah yang lahir di Amerika Serikat.",
+    "weight": "Sedikit peningkatan (tapi tidak masalah!)",
+    "shoes": "Kiri dan kanan : 25,0cm (Khusus)",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Senior",
+    "ears": "Langsung berlari datang begitu mendengar kata “pesta.”",
+    "tail": "Dia memakai semprotan ekor kiriman dari keluarganya di kampung.",
+    "strong": "Berpikir positif",
+    "weak": "Sendirian.",
+    "family": "Kembang api penyambutan selalu disiapkan tiap kali dia pulang ke rumah.",
+    "secrets": [
+      "Tahukah kamu? Dia juara bertahan dalam lomba menggambar cepat."
+    ]
+  },
+  "title_id": "Wild Frontier"
 }

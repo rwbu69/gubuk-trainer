@@ -1,0 +1,47 @@
+{
+  "name_en": "Mihono Bourbon",
+  "title": "MB-19890425",
+  "rarity": 3,
+  "release": "2021-03-09",
+  "release_ko": "2022-07-04",
+  "release_zh_tw": "2022-07-11",
+  "release_en": "2025-07-02",
+  "profile": {
+    "self_intro": "Namaku Mihono Bourbon. Tujuanku adalah menjuarai Triple Crown. Silakan lihat spesifikasi diriku untuk informasi kemampuan lebih lanjut.",
+    "tagline": "Selalu patuh pada perintah! Umamusume bergaya cyborg.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 24,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Langsung bangun sigap saat mendengar perintah, bahkan dalam kondisi tidur lelap.",
+    "tail": "Ekor itu cukup kuat hingga ia bisa berdiri di atasnya... menurut rumor.",
+    "strong": "Adu tatap (adu tahan pandangan)",
+    "weak": "Menggunakan peralatan elektronik.",
+    "family": "Kini keluarganya hidup dengan gaya purba karena peralatan elektronik mereka sering rusak.",
+    "secrets": [
+      "Tahukah kamu? Karena ayahnya, dia masih percaya kalau petir bisa mencuri ekornya."
+    ]
+  },
+  "charData": {
+    "va_en": "Ikumi Hasegawa",
+    "three_sizes": {
+      "b": 86,
+      "w": 54,
+      "h": 87
+    },
+    "birth_day": 25,
+    "birth_month": 4,
+    "birth_year": 1989,
+    "height": 160,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2017-02-22",
+      "races": 8,
+      "wins": 7,
+      "record": "7-1-0-0",
+      "earnings": 437300000,
+      "active": "1991-1992"
+    }
+  }
+}

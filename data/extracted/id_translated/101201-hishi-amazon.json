@@ -1,0 +1,47 @@
+{
+  "name_en": "Hishi Amazon",
+  "title": "Amazoness Lapis",
+  "rarity": 3,
+  "release": "2021-06-21",
+  "release_ko": "2022-10-11",
+  "release_zh_tw": "2022-10-24",
+  "release_en": "2025-09-17",
+  "profile": {
+    "self_intro": "Kulihat banyak Umamusume di sini siap bertarung! Baiklah, Hishiama akan kasih kalian tantangan yang sepadan! Ayo, satu lawan satu!",
+    "tagline": "Mau tanding? Satu lawan satu! Pemimpin asrama yang dikenal dan disayangi semua orang.",
+    "weight": "Sedikit peningkatan (tidak ada komentar)",
+    "shoes": "Kiri dan kanan : 24,0cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Senior",
+    "ears": "Bisa mendengar orang mengatakan \"satu lawan satu\" dari jarak jauh",
+    "tail": "Ekor hitam mengilapnya dikagumi banyak siswa.",
+    "strong": "Menyajikan masakan buatan sendiri",
+    "weak": "Berpikir keras.",
+    "family": "Menuruni sifat penyayang dari ibunya, dan ternyata dia anak bungsu di keluarganya.",
+    "secrets": [
+      "Tahukah kamu? Dia menggunakan kain setrika yang unik dan tak biasa."
+    ]
+  },
+  "charData": {
+    "va_en": "Yuiko Tatsumi",
+    "three_sizes": {
+      "b": 92,
+      "w": 59,
+      "h": 89
+    },
+    "birth_day": 26,
+    "birth_month": 3,
+    "birth_year": 1991,
+    "height": 160,
+    "sex": 2,
+    "rl": {
+      "country": "us",
+      "death": "2019-04-15",
+      "races": 20,
+      "wins": 10,
+      "record": "10-5-0-5",
+      "earnings": 695820000,
+      "active": "1993-1996"
+    }
+  }
+}

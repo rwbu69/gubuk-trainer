@@ -1,0 +1,47 @@
+{
+  "name_en": "Grass Wonder",
+  "title": "Rock-piercing Blue",
+  "rarity": 2,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Namaku Grass Wonder. Aku terlahir sebagai Umamusume, jadi aku akan menapaki jalan ini sejauh yang aku bisa. Hee hee~ ♪",
+    "tagline": "Rapi dan manis. Gadis berhati Jepang yang baru kembali dari Amerika.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri : 23,0cm Kanan : 23,5cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Junior",
+    "ears": "Tak bergetar sedikit pun saat melakukan upacara minum teh.",
+    "tail": "Bisa menyingkirkan serangga di punggungnya tanpa perlu menoleh.",
+    "strong": "Manisan Jepang, budaya Jepang, dan karuta kompetitif",
+    "weak": "Serangga, dan orang yang tidak menghormati sejarah atau tradisi.",
+    "family": "Kecintaannya pada Jepang berasal dari orang tuanya — bahkan rumahnya punya satu ruangan bergaya Jepang.",
+    "secrets": [
+      "Tahukah kamu? Dia diam-diam sangat teliti soal panjang rok yang ia pakai."
+    ]
+  },
+  "charData": {
+    "va_en": "Rena Maeda",
+    "three_sizes": {
+      "b": 77,
+      "w": 53,
+      "h": 84
+    },
+    "birth_day": 18,
+    "birth_month": 2,
+    "birth_year": 1995,
+    "height": 152,
+    "sex": 1,
+    "rl": {
+      "country": "us",
+      "death": "2025-08-08",
+      "races": 15,
+      "wins": 9,
+      "record": "9-1-0-5",
+      "earnings": 691640000,
+      "active": "1997-2000"
+    }
+  }
+}

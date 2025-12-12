@@ -147,5 +147,22 @@
   },
   "__file": "103901-kawakami-princess.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Ohoho! Aku Kawakami Princess. Betul sekali! Seorang putri di antara para putri! Aku di sini untuk mengalahkan lawan-lawanku dengan anggun, tentu saja!",
+    "tagline": "Ia bermimpi menjadi seorang putri! Umamusume yang berani dan berapi-api.",
+    "weight": "Tidak ada perubahan (tentu saja!)",
+    "shoes": "Kiri dan kanan : 21,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Bangga karena memiliki telinga yang paling pantas untuk mengenakan tiara.",
+    "tail": "Dengan penuh kasih dijuluki “Ekor Sang Putri.”",
+    "strong": "Membasmi hama (secara manual, dengan tangan)",
+    "weak": "Bersikap boros atau membuang-buang sesuatu.",
+    "family": "Orang tuanya selalu memberinya pakaian yang tidak hanya imut, tapi juga tahan lama.",
+    "secrets": [
+      "Tahukah kamu? Pernah dalam satu tahun, tinggi badannya bertambah dua belas sentimeter!"
+    ]
+  },
+  "title_id": "Princess of Pink"
 }

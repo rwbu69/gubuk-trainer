@@ -1,0 +1,47 @@
+{
+  "name_en": "Taiki Shuttle",
+  "title": "Wild Frontier",
+  "rarity": 3,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Howdy! Taiki Shuttle hadir! Aku ingin membuat orang-orang tersenyum lewat larianku yang penuh semangat!",
+    "tagline": "Gadis ramah yang lahir di Amerika Serikat.",
+    "weight": "Sedikit peningkatan (tapi tidak masalah!)",
+    "shoes": "Kiri dan kanan : 25,0cm (Khusus)",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Senior",
+    "ears": "Langsung berlari datang begitu mendengar kata “pesta.”",
+    "tail": "Dia memakai semprotan ekor kiriman dari keluarganya di kampung.",
+    "strong": "Berpikir positif",
+    "weak": "Sendirian.",
+    "family": "Kembang api penyambutan selalu disiapkan tiap kali dia pulang ke rumah.",
+    "secrets": [
+      "Tahukah kamu? Dia juara bertahan dalam lomba menggambar cepat."
+    ]
+  },
+  "charData": {
+    "va_en": "Yuka Ootsubo",
+    "three_sizes": {
+      "b": 94,
+      "w": 59,
+      "h": 90
+    },
+    "birth_day": 23,
+    "birth_month": 3,
+    "birth_year": 1994,
+    "height": 172,
+    "sex": 1,
+    "rl": {
+      "country": "us",
+      "death": "2022-08-17",
+      "races": 13,
+      "wins": 11,
+      "record": "11-1-1-0",
+      "earnings": 615480000,
+      "active": "1997-1998"
+    }
+  }
+}

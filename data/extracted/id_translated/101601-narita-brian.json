@@ -1,0 +1,47 @@
+{
+  "name_en": "Narita Brian",
+  "title": "Maverick",
+  "rarity": 3,
+  "release": "2021-05-17",
+  "release_ko": "2022-09-05",
+  "release_zh_tw": "2022-09-19",
+  "release_en": "2025-08-20",
+  "profile": {
+    "self_intro": "Aku Narita Brian. Aku di sini untuk mengitari lawanku di lintasan, bukan untuk ngobrol. Itu saja.",
+    "tagline": "Tindakan lebih berarti daripada kata-kata! Serigala penyendiri yang tangguh dan keras kepala.",
+    "weight": "Tidak ada halangan untuk balapan",
+    "shoes": "Kiri dan Kanan : 24,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Darahnya langsung terpompa tiap kali mendengar fanfare.",
+    "tail": "Dia tidak terlalu peduli dengan penampilan.",
+    "strong": "Memecahkan kacang kenari",
+    "weak": "Membelai makhluk kecil (seperti hewan mungil).",
+    "family": "Orang tua dan kakaknya bilang, sikap diamnya adalah bukti dari kebaikan hatinya.",
+    "secrets": [
+      "Tahukah kamu? Batang yang sering ia gigit itu berasal dari kebun keluarganya."
+    ]
+  },
+  "charData": {
+    "va_en": "Rika Kinugawa",
+    "three_sizes": {
+      "b": 91,
+      "w": 58,
+      "h": 85
+    },
+    "birth_day": 3,
+    "birth_month": 5,
+    "birth_year": 1991,
+    "height": 160,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "1998-09-27",
+      "races": 21,
+      "wins": 12,
+      "record": "12-3-1-5",
+      "earnings": 947420000,
+      "active": "1993-1996"
+    }
+  }
+}

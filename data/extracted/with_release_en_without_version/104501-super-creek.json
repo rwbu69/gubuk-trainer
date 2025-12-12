@@ -155,5 +155,22 @@
   },
   "__file": "104501-super-creek.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Hehe. ♪ Aku Super Creek. Aku akan berusaha keras membuat semua orang tersenyum. Serahkan saja padaku ya~ ♪",
+    "tagline": "Keibuan dan lembut—kehadirannya selalu menenangkan.",
+    "weight": "Sedikit peningkatan (alasannya rahasia)",
+    "shoes": "Kiri dan kanan : 25,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Suka membersihkan telinga orang lain, tapi tidak suka telinganya dibersihkan.",
+    "tail": "Ahli menenangkan anak-anak dengan ekornya.",
+    "strong": "Merawat orang lain",
+    "weak": "Menggambar.",
+    "family": "Keluarganya mengelola penitipan anak yang terkenal karena suasananya yang hangat.",
+    "secrets": [
+      "Tahukah kamu? Dia sangat lihai membuat kue mochi bulat sempurna."
+    ]
+  },
+  "title_id": "Murmuring Stream"
 }

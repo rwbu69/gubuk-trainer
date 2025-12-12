@@ -166,5 +166,22 @@
   },
   "__file": "101901-agnes-digital.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Hai hai! Aku Digitan! Aku di sini untuk mendukung semua Umamusume yang bersinar ini! Setiap hari itu hari baik! Terutama bagi Uma Otaku sepertiku!",
+    "tagline": "Aku cinta Umamusume! Otaku serba bisa yang super aktif.",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 21,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Rambutnya berdiri saat menangkap 'gelombang emosi' dari seseorang.",
+    "tail": "Ia menata ekornya di salon sebelum konser.",
+    "strong": "Pijatan dengan tingkat keajaiban",
+    "weak": "Perdebatan soal pasangan favorit (shipping wars).",
+    "family": "Keluarganya sangat menyukai berkemah, festival, dan barbeque!",
+    "secrets": [
+      "Tahukah kamu? Saat berlari paling belakang, dia berharap bisa membawa papan bertuliskan 'Akhir Barisan.'"
+    ]
+  },
+  "title_id": "Super Express! Full Color Special"
 }

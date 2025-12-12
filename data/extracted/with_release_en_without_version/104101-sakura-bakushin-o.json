@@ -166,5 +166,22 @@
   },
   "__file": "104101-sakura-bakushin-o.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Halo! Aku Sakura Bakushin O! Seperti yang bisa kamu lihat, aku ketua kelas teladan DAN seorang Umamusume! BAKUSHIIIN!",
+    "tagline": "Ketua kelas ini benar-benar lepas kendali! Kecepatan penuh—Bakushiiiin!",
+    "weight": "Tidak berubah",
+    "shoes": "Kiri dan kanan : 24,0cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Senior",
+    "ears": "Hanya mendengar setengah dari apa yang dikatakan orang lain.",
+    "tail": "Selamat mencoba memegangnya saat dia sedang dalam Mode Bakushin penuh!",
+    "strong": "Dibutuhkan, dan membantu orang lain",
+    "weak": "Hal apa pun yang butuh lebih dari tiga langkah.",
+    "family": "Moto keluarganya adalah: “Pujian, pujian, dan lebih banyak pujian!”",
+    "secrets": [
+      "Tahukah kamu? Dalam permainan shogi, dia selalu melindungi bidak tombaknya."
+    ]
+  },
+  "title_id": "Sakura, Forward!"
 }

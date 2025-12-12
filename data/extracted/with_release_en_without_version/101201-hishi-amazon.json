@@ -150,5 +150,22 @@
   },
   "__file": "101201-hishi-amazon.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Kulihat banyak Umamusume di sini siap bertarung! Baiklah, Hishiama akan kasih kalian tantangan yang sepadan! Ayo, satu lawan satu!",
+    "tagline": "Mau tanding? Satu lawan satu! Pemimpin asrama yang dikenal dan disayangi semua orang.",
+    "weight": "Sedikit peningkatan (tidak ada komentar)",
+    "shoes": "Kiri dan kanan : 24,0cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Senior",
+    "ears": "Bisa mendengar orang mengatakan \"satu lawan satu\" dari jarak jauh",
+    "tail": "Ekor hitam mengilapnya dikagumi banyak siswa.",
+    "strong": "Menyajikan masakan buatan sendiri",
+    "weak": "Berpikir keras.",
+    "family": "Menuruni sifat penyayang dari ibunya, dan ternyata dia anak bungsu di keluarganya.",
+    "secrets": [
+      "Tahukah kamu? Dia menggunakan kain setrika yang unik dan tak biasa."
+    ]
+  },
+  "title_id": "Amazoness Lapis"
 }

@@ -163,5 +163,22 @@
   },
   "__file": "100901-daiwa-scarlet.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Halo! Daiwa Scarlet di sini! Aku akan berusaha... Eh, apa sih aku ngomong? ‘Berusaha’ aja nggak cukup. Aku pasti jadi nomor satu!",
+    "tagline": "Sombongnya tiada tanding! Gadis berapi-api ini benci kekalahan.",
+    "weight": "Tidak jelas (menolak pengukuran)",
+    "shoes": "Kiri dan Kanan : 24,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Pengkhianat sejati.",
+    "tail": "Setiap hari berjuang dengan sisirnya untuk menaklukkan rambut ikal ekornya.",
+    "strong": "Belajar dan pekerjaan rumah",
+    "weak": "Mengalah atau berkompromi.",
+    "family": "Mengagumi sekaligus merindukan ibunya yang pekerja keras.",
+    "secrets": [
+      "Tahukah kamu? Dia bisa menggambar garis lurus tanpa penggaris."
+    ]
+  },
+  "title_id": "Top of Blue"
 }

@@ -161,5 +161,22 @@
   },
   "__file": "102701-mejiro-ryan.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Yo! Mejiro Ryan di sini! Aku sangat suka latihan dan angkat beban. Semuanya tentang menjaga badan tetap kuat! Sampai jumpa di gym!",
+    "tagline": "Tak ada yang mengalahkan latihan yang baik! Bahkan keringatnya pun murni dan tulus.",
+    "weight": "Sedikit peningkatan (angkat beban berhasil!)",
+    "shoes": "Kiri dan Kanan : 24,5cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Senior",
+    "ears": "Sering pindah posisi saat membaca manga romantis.",
+    "tail": "Ia banyak berkeringat, jadi punya handuk khusus untuk ekornya.",
+    "strong": "Angkat besi",
+    "weak": "Kolesterol.",
+    "family": "Ayahnya terlihat begitu muda sampai sering disangka kakaknya.",
+    "secrets": [
+      "Tahukah kamu? Dia butuh waktu lama hanya untuk memutuskan tisu pembersih tubuh mana yang akan dibeli."
+    ]
+  },
+  "title_id": "Straight Line"
 }

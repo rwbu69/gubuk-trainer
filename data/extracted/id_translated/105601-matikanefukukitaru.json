@@ -1,0 +1,47 @@
+{
+  "name_en": "Matikanefukukitaru",
+  "title": "Rising Luck ☆ Flood of Happiness",
+  "rarity": 1,
+  "release": "2021-02-24",
+  "release_ko": "2022-06-20",
+  "release_zh_tw": "2022-06-27",
+  "release_en": "2025-06-26",
+  "profile": {
+    "self_intro": "Salam! Namaku Matikanefukukitaru! Keyakinanku pada Dewa Shiraoki yang agung akan membawa berkah berlimpah dalam hidup kita. Ramalan dibuka siang dan malam!",
+    "tagline": "Keberuntungan bersamaku! Umamusume penuh pesona ini sangat gemar meramal nasib.",
+    "weight": "Penurunan sedikit karena hari ini adalah hari sial",
+    "shoes": "Kiri dan Kanan : 23,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Kadang telinganya dijadikan semacam ramalan arah keberuntungan.",
+    "tail": "Berhenti total saat sedang meramal nasib.",
+    "strong": "Meramal nasib",
+    "weak": "Hal-hal yang dianggap sial.",
+    "family": "Kakaknya yang berbakat mengagumi kepribadian cerah sang adik.",
+    "secrets": [
+      "Tahukah kamu? Dia memiliki peringkat tinggi dalam seni kaligrafi Jepang."
+    ]
+  },
+  "charData": {
+    "va_en": "Hiyori Nitta",
+    "three_sizes": {
+      "b": 84,
+      "w": 59,
+      "h": 83
+    },
+    "birth_day": 22,
+    "birth_month": 5,
+    "birth_year": 1994,
+    "height": 158,
+    "sex": 1,
+    "rl": {
+      "country": "jp",
+      "death": "2020-07-31",
+      "races": 22,
+      "wins": 6,
+      "record": "6-4-1-11",
+      "earnings": 370246000,
+      "active": "1996-2000"
+    }
+  }
+}

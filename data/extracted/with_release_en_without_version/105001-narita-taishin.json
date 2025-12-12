@@ -146,5 +146,22 @@
   },
   "__file": "105001-narita-taishin.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Namaku Narita Taishin. Aku di sini untuk membuat semua orang yang meragukanku terlihat bodoh. Sekarang, biarkan aku sendiri.",
+    "tagline": "Dingin dan to the point! Tubuh mungilnya justru memberinya keuntungan tak terduga.",
+    "weight": "Menolak pengukuran",
+    "shoes": "Kiri dan Kanan : 20,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Hanya memperhatikan hal-hal yang menarik minatnya.",
+    "tail": "Kecuali kamu teman dekat, menyentuhnya akan berujung pada tendangan cepat.",
+    "strong": "Main game, dan pekerjaan rumah",
+    "weak": "Keramaian.",
+    "family": "Ada rumor bahwa grup para ibu BNW akan segera terbentuk.",
+    "secrets": [
+      "Tahukah kamu? Dia cukup terkenal di dunia game ritme."
+    ]
+  },
+  "title_id": "Nevertheless"
 }

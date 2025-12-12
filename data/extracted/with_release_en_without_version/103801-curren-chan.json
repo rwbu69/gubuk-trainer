@@ -152,5 +152,22 @@
   },
   "__file": "103801-curren-chan.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Ini dia Curren Chan, siap membuat dunia jadi lebih imut! ☆ Curren satu-satunya gadis yang harus kamu perhatikan, ya! ♪",
+    "tagline": "Bintang bersinar penuh keimutan! Aku butuh banyak cinta dan perhatian, ya? ♡",
+    "weight": "Rahasia ♥",
+    "shoes": "Kiri dan kanan : 22,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Kalau dia melambai memanggilmu, itu artinya dia ingin dimanja.",
+    "tail": "Sangat lembut dan mengembang—hampir memikat siapa pun yang melihat.",
+    "strong": "Selfie dan bermain piano",
+    "weak": "Makan camilan sambil minum teh.",
+    "family": "Saking rindunya pada putri mereka, sampai-sampai mereka melamar kerja di Akademi Tracen.",
+    "secrets": [
+      "Tahukah kamu? Setengah dari sepuluh film favoritnya adalah film horor."
+    ]
+  },
+  "title_id": "Fille Éclair"
 }

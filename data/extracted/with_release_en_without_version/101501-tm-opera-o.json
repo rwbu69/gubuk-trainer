@@ -145,5 +145,22 @@
   },
   "__file": "101501-tm-opera-o.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Muahahaha! Tataplah penguasa indah nan perkasa kalian—T.M. Opera O! Legenda diriku... dimulai sekarang!",
+    "tagline": "Bintang panggung yang penuh percaya diri—tawanya menggema memenuhi ruangan!",
+    "weight": "Sempurna selamanya (menurut dirinya sendiri)",
+    "shoes": "Kiri dan kanan : 23,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Menganggap semua yang didengarnya sebagai pujian.",
+    "tail": "Tampak berkilau ketika terkena cahaya.",
+    "strong": "Pertunjukan opera dadakan",
+    "weak": "Pekerjaan yang membosankan.",
+    "family": "Bersyukur kepada orang tuanya karena telah menciptakan putri secantik dirinya.",
+    "secrets": [
+      "Tahukah kamu? Dulunya, dia hanya pernah sekali mengubah hiasan telinganya secara besar-besaran."
+    ]
+  },
+  "title_id": "O Sole So"
 }

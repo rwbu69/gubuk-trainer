@@ -147,5 +147,22 @@
   },
   "__file": "103701-eishin-flash.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Namaku Eishin Flash. Aku berlari untuk menjaga tradisi Umamusume. Aku selalu berlari tepat waktu.",
+    "tagline": "Segala yang ia lakukan selalu sesuai rencana. Gadis Jerman yang serius dan tekun.",
+    "weight": "Tidak ada perubahan (bahkan tanpa kesalahan 1g)",
+    "shoes": "Kiri dan kanan : 23,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Menganggap bunyi metronom itu menenangkan.",
+    "tail": "Memangkas ekornya dengan presisi sampai milimeter terakhir.",
+    "strong": "Menciptakan ulang karya seni",
+    "weak": "Seni (kecuali yang bersifat hiburan).",
+    "family": "Keluarganya mengelola toko kue yang terkenal karena baumkuchen-nya.",
+    "secrets": [
+      "Tahukah kamu? Dia pandai sekali membacakan buku cerita dengan suara keras."
+    ]
+  },
+  "title_id": "Meisterschaft"
 }

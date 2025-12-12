@@ -145,5 +145,22 @@
   },
   "__file": "101701-symboli-rudolf.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Aku Symboli Rudolf. Aku memegang kehormatan sebagai sang 'Kaisar' yang ingin membantu semua Umamusume mencapai potensi sejatinya. Mari kita ukir jalan menuju kehormatan dan kejayaan bersama!",
+    "tagline": "Sang Kaisar yang berkuasa—pemerintahannya mutlak!",
+    "weight": "Hampir ideal",
+    "shoes": "Kiri dan kanan : 25,0cm",
+    "dorm": "Asrama Miho",
+    "class": "Divisi Senior",
+    "ears": "Telinganya langsung berkedut tiap kali ia memikirkan permainan kata.",
+    "tail": "Bahkan bulu ekornya bergetar saat ia berpidato.",
+    "strong": "Catur",
+    "weak": "Ngobrol basa-basi.",
+    "family": "Sejak kecil, orang tuanya sudah mengajarinya seni memimpin dan mengatur.",
+    "secrets": [
+      "Tahukah kamu? Dia selalu bisa mengingat wajah seseorang."
+    ]
+  },
+  "title_id": "Road of Emperor"
 }

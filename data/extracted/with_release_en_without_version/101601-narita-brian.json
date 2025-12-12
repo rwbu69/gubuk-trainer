@@ -145,5 +145,22 @@
   },
   "__file": "101601-narita-brian.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Aku Narita Brian. Aku di sini untuk mengitari lawanku di lintasan, bukan untuk ngobrol. Itu saja.",
+    "tagline": "Tindakan lebih berarti daripada kata-kata! Serigala penyendiri yang tangguh dan keras kepala.",
+    "weight": "Tidak ada halangan untuk balapan",
+    "shoes": "Kiri dan Kanan : 24,5cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Senior",
+    "ears": "Darahnya langsung terpompa tiap kali mendengar fanfare.",
+    "tail": "Dia tidak terlalu peduli dengan penampilan.",
+    "strong": "Memecahkan kacang kenari",
+    "weak": "Membelai makhluk kecil (seperti hewan mungil).",
+    "family": "Orang tua dan kakaknya bilang, sikap diamnya adalah bukti dari kebaikan hatinya.",
+    "secrets": [
+      "Tahukah kamu? Batang yang sering ia gigit itu berasal dari kebun keluarganya."
+    ]
+  },
+  "title_id": "Maverick"
 }

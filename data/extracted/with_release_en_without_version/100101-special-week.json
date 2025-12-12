@@ -18,14 +18,8 @@
   "release_zh_tw": "2022-06-27",
   "release_en": "2025-06-26",
   "obtained": "gacha",
-  "skills_unique": [
-    100011
-  ],
-  "skills_innate": [
-    200512,
-    201352,
-    200732
-  ],
+  "skills_unique": [100011],
+  "skills_innate": [200512, 201352, 200732],
   "skills_evo": [
     {
       "old": 201351,
@@ -36,62 +30,14 @@
       "new": 100101211
     }
   ],
-  "skills_awakening": [
-    200162,
-    201351,
-    200612,
-    200511
-  ],
-  "skills_event": [
-    200472,
-    200512,
-    200332,
-    200032,
-    200042,
-    200562,
-    200602
-  ],
-  "stat_bonus": [
-    0,
-    20,
-    0,
-    0,
-    10
-  ],
+  "skills_awakening": [200162, 201351, 200612, 200511],
+  "skills_event": [200472, 200512, 200332, 200032, 200042, 200562, 200602],
+  "stat_bonus": [0, 20, 0, 0, 10],
   "talent_group": 100101,
-  "base_stats": [
-    83,
-    88,
-    98,
-    90,
-    91
-  ],
-  "aptitude": [
-    "A",
-    "G",
-    "F",
-    "C",
-    "A",
-    "A",
-    "G",
-    "A",
-    "A",
-    "C"
-  ],
-  "four_star_stats": [
-    92,
-    98,
-    109,
-    100,
-    101
-  ],
-  "five_star_stats": [
-    102,
-    108,
-    120,
-    110,
-    110
-  ],
+  "base_stats": [83, 88, 98, 90, 91],
+  "aptitude": ["A", "G", "F", "C", "A", "A", "G", "A", "A", "C"],
+  "four_star_stats": [92, 98, 109, 100, 101],
+  "five_star_stats": [102, 108, 120, 110, 110],
   "profile": {
     "self_intro": "My name's Special Week! My dream is to be the top Umamusume in all of Japan! I gotta work hard to make my moms proud!",
     "tagline": "Rar'n to go! A pure-hearted girl focused on her dream.",
@@ -151,5 +97,22 @@
   },
   "__file": "100101-special-week.json",
   "has_release_en": true,
-  "has_version": false
+  "has_version": false,
+  "profile_id": {
+    "self_intro": "Namaku Special Week! Impianku adalah menjadi Umamusume terbaik di seluruh Jepang! Aku harus berusaha keras supaya kedua ibuku bangga!",
+    "tagline": "Siap berlari! Gadis berhati murni yang fokus mengejar mimpinya.",
+    "weight": "Sedikit turun (gugup sebelum balapan)",
+    "shoes": "Kiri : 23,5cm Kanan : 23,0cm",
+    "dorm": "Asrama Ritto",
+    "class": "Divisi Junior",
+    "ears": "Langsung muncul di dapur saat mendengar suara masakan.",
+    "tail": "Ekor itu bergerak mengikuti emosinya—membuatnya jadi pemain poker yang buruk.",
+    "strong": "Ulasan makanan secara mendetail",
+    "weak": "Menggunakan kartu kereta.",
+    "family": "Warna matanya diwarisi dari ibu kandungnya.",
+    "secrets": [
+      "Tahukah kamu? Dia bisa membedakan merek susu hanya dari rasanya saja."
+    ]
+  },
+  "title_id": "Special Dreamer"
 }
