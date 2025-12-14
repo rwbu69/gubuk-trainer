@@ -1,0 +1,40 @@
+---
+import CharacterIndividualLayout from "../../layouts/CharacterIndividualLayout.astro";
+import fs from "fs";
+import path from "path";
+
+export async function getStaticPaths() {
+  // Read all character files from id_translated folder
+  const dataDir = path.join(process.cwd(), "data/extracted/id_translated");
+  const files = fs.readdirSync(dataDir).filter((file) => file.endsWith(".json"));
+
+  return files.map((file) => {
+    const filePath = path.join(dataDir, file);
+    const characterData = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+    
+    // Extract card_id from filename (e.g., "100101-special-week.json" -> "100101")
+    const card_id = file.split("-")[0];
+    
+    // Parse char_id from card_id (first 4 digits)
+    const char_id = card_id.slice(0, 4);
+
+    return {
+      params: { id: card_id },
+      props: {
+        character: {
+          ...characterData,
+          char_id,
+          card_id,
+        },
+      },
+    };
+  });
+}
+
+const { character } = Astro.props;
+---
+
+<CharacterIndividualLayout
+  character={character}
+  baseUrl={import.meta.env.BASE_URL}
+/>

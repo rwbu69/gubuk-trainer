@@ -1,0 +1,455 @@
+---
+import Layout from "./Layout.astro";
+import { getMonthName } from "../utils/monthName";
+
+interface Props {
+  character: any;
+  baseUrl: string;
+}
+
+const { character, baseUrl } = Astro.props;
+
+// Helper function to format date
+const formatDate = (dateString: string) => {
+  if (!dateString) return "N/A";
+  const date = new Date(dateString);
+  return date.toLocaleDateString("id-ID", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
+};
+
+// Helper function to format three sizes
+const formatThreeSizes = (sizes: any) => {
+  if (!sizes) return "N/A";
+  return `B${sizes.b} W${sizes.w} H${sizes.h}`;
+};
+
+// Helper function to format currency
+const formatCurrency = (amount: number) => {
+  return new Intl.NumberFormat("id-ID", {
+    style: "currency",
+    currency: "JPY",
+    maximumFractionDigits: 0,
+  }).format(amount);
+};
+---
+
+<Layout>
+  <div class="min-h-screen bg-[#2D4F2B] relative">
+    <!-- Navigation -->
+    <nav class="container mx-auto px-6 py-6">
+      <div class="flex items-center justify-between">
+        <a
+          href="/gubuk-trainer/"
+          class="text-white text-2xl font-bold tracking-wider hover:text-[#B6F500] transition-colors duration-300"
+        >
+          Gubuk Trainer
+        </a>
+        <a
+          href="/gubuk-trainer/character_list_en"
+          class="bg-[#B6F500] text-[#2D4F2B] px-6 py-2 rounded-full font-bold hover:bg-[#9FD700] transition-all duration-300 shadow-lg"
+        >
+          ← Kembali ke Daftar
+        </a>
+      </div>
+    </nav>
+
+    <div class="container mx-auto px-6 py-10 pb-20">
+      <div class="max-w-5xl mx-auto">
+        <!-- Character Header Card -->
+        <div
+          class="bg-gradient-to-br from-white/15 to-white/5 backdrop-blur-lg rounded-3xl overflow-hidden shadow-2xl border border-white/20 mb-8"
+        >
+          <div class="flex flex-col md:flex-row">
+            <!-- Character Image -->
+            <div
+              class="md:w-1/3 flex-shrink-0 bg-gradient-to-br from-[#B6F500]/20 to-transparent"
+            >
+              <img
+                src={`${baseUrl}/images/character_hd/hd_${character.char_id}_${character.card_id}.png`}
+                alt={character.name_en}
+                class="w-full h-full object-cover"
+              />
+            </div>
+
+            <!-- Character Basic Info -->
+            <div class="flex-1 p-8">
+              <div class="flex items-start justify-between mb-4">
+                <div>
+                  <h1
+                    class="text-4xl md:text-5xl font-bold text-[#E7EFC7] mb-2 drop-shadow-lg"
+                  >
+                    {character.name_en}
+                  </h1>
+                  {
+                    character.title && (
+                      <p class="text-xl text-[#B6F500] font-semibold mb-2">
+                        {character.title}
+                      </p>
+                    )
+                  }
+                </div>
+                {
+                  character.rarity && (
+                    <div class="bg-[#B6F500] text-[#2D4F2B] px-4 py-2 rounded-full font-bold text-lg shrink-0">
+                      ★{character.rarity}
+                    </div>
+                  )
+                }
+              </div>
+
+              {
+                character.profile?.tagline && (
+                  <p class="text-gray-300 text-lg italic mb-4 border-l-4 border-[#B6F500] pl-4">
+                    "{character.profile.tagline}"
+                  </p>
+                )
+              }
+
+              {
+                character.profile?.self_intro && (
+                  <p class="text-gray-300 leading-relaxed mb-6">
+                    {character.profile.self_intro}
+                  </p>
+                )
+              }
+
+              <!-- Quick Stats -->
+              <div class="grid grid-cols-2 gap-4 pt-4 border-t border-white/10">
+                {
+                  character.charData?.birth_month &&
+                    character.charData?.birth_day && (
+                      <div>
+                        <p class="text-xs text-white mb-1">Ulang Tahun</p>
+                        <p class="text-[#E7EFC7] font-semibold">
+                          {character.charData.birth_day}
+                          {getMonthName(character.charData.birth_month)}
+                        </p>
+                      </div>
+                    )
+                }
+                {
+                  character.charData?.height && (
+                    <div>
+                      <p class="text-xs text-white mb-1">Tinggi</p>
+                      <p class="text-[#E7EFC7] font-semibold">
+                        {character.charData.height} cm
+                      </p>
+                    </div>
+                  )
+                }
+                {
+                  character.charData?.three_sizes && (
+                    <div>
+                      <p class="text-xs text-white mb-1">Ukuran</p>
+                      <p class="text-[#E7EFC7] font-semibold">
+                        {formatThreeSizes(character.charData.three_sizes)}
+                      </p>
+                    </div>
+                  )
+                }
+                {
+                  character.charData?.va_en && (
+                    <div>
+                      <p class="text-xs text-white mb-1">Voice Actor</p>
+                      <p class="text-[#E7EFC7] font-semibold">
+                        {character.charData.va_en}
+                      </p>
+                    </div>
+                  )
+                }
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Profile Details -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+          {
+            character.profile?.weight && (
+              <div class="bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10">
+                <h3 class="text-[#B6F500] font-bold mb-2 flex items-center">
+                  Berat Badan
+                </h3>
+                <p class="text-gray-300">{character.profile.weight}</p>
+              </div>
+            )
+          }
+
+          {
+            character.profile?.shoes && (
+              <div class="bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10">
+                <h3 class="text-[#B6F500] font-bold mb-2 flex items-center">
+                  Ukuran Sepatu
+                </h3>
+                <p class="text-gray-300">{character.profile.shoes}</p>
+              </div>
+            )
+          }
+
+          {
+            character.profile?.dorm && (
+              <div class="bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10">
+                <h3 class="text-[#B6F500] font-bold mb-2 flex items-center">
+                  Asrama
+                </h3>
+                <p class="text-gray-300">{character.profile.dorm}</p>
+              </div>
+            )
+          }
+
+          {
+            character.profile?.class && (
+              <div class="bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10">
+                <h3 class="text-[#B6F500] font-bold mb-2 flex items-center">
+                  Kelas
+                </h3>
+                <p class="text-gray-300">{character.profile.class}</p>
+              </div>
+            )
+          }
+
+          {
+            character.profile?.ears && (
+              <div class="bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10">
+                <h3 class="text-[#B6F500] font-bold mb-2 flex items-center">
+                  Telinga
+                </h3>
+                <p class="text-gray-300">{character.profile.ears}</p>
+              </div>
+            )
+          }
+
+          {
+            character.profile?.tail && (
+              <div class="bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10">
+                <h3 class="text-[#B6F500] font-bold mb-2 flex items-center">
+                  Ekor
+                </h3>
+                <p class="text-gray-300">{character.profile.tail}</p>
+              </div>
+            )
+          }
+
+          {
+            character.profile?.strong && (
+              <div class="bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10">
+                <h3 class="text-[#B6F500] font-bold mb-2 flex items-center">
+                  Kelebihan
+                </h3>
+                <p class="text-gray-300">{character.profile.strong}</p>
+              </div>
+            )
+          }
+
+          {
+            character.profile?.weak && (
+              <div class="bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10">
+                <h3 class="text-[#B6F500] font-bold mb-2 flex items-center">
+                  Kekurangan
+                </h3>
+                <p class="text-gray-300">{character.profile.weak}</p>
+              </div>
+            )
+          }
+
+          {
+            character.profile?.family && (
+              <div class="bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10">
+                <h3 class="text-[#B6F500] font-bold mb-2 flex items-center">
+                  Keluarga
+                </h3>
+                <p class="text-gray-300">{character.profile.family}</p>
+              </div>
+            )
+          }
+        </div>
+
+        <!-- Secrets/Trivia -->
+        {
+          character.profile?.secrets &&
+            character.profile.secrets.length > 0 && (
+              <div class="bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 mb-8">
+                <h3 class="text-2xl font-bold text-[#E7EFC7] mb-4 flex items-center">
+                  Tahukah Kamu?
+                </h3>
+                <ul class="space-y-2">
+                  {character.profile.secrets.map((secret: string) => (
+                    <li class="text-gray-300 flex items-start">
+                      <span class="text-[#B6F500] mr-2">•</span>
+                      <span>{secret}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )
+        }
+
+        <!-- Real Life Info -->
+        {
+          character.charData?.rl && (
+            <div class="bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 mb-8">
+              <h3 class="text-2xl font-bold text-[#E7EFC7] mb-4 flex items-center">
+                Informasi Kuda Asli
+              </h3>
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                {character.charData.rl.country && (
+                  <div>
+                    <p class="text-xs text-white mb-1">Negara</p>
+                    <p class="text-[#E7EFC7] font-semibold uppercase">
+                      {character.charData.rl.country}
+                    </p>
+                  </div>
+                )}
+                {character.charData.rl.active && (
+                  <div>
+                    <p class="text-xs text-white mb-1">Periode Aktif</p>
+                    <p class="text-[#E7EFC7] font-semibold">
+                      {character.charData.rl.active}
+                    </p>
+                  </div>
+                )}
+                {character.charData.rl.record && (
+                  <div>
+                    <p class="text-xs text-white mb-1">Rekor (W-P-S-4th)</p>
+                    <p class="text-[#E7EFC7] font-semibold">
+                      {character.charData.rl.record}
+                    </p>
+                  </div>
+                )}
+                {character.charData.rl.races && (
+                  <div>
+                    <p class="text-xs text-white mb-1">Total Balapan</p>
+                    <p class="text-[#E7EFC7] font-semibold">
+                      {character.charData.rl.races}
+                    </p>
+                  </div>
+                )}
+                {character.charData.rl.wins && (
+                  <div>
+                    <p class="text-xs text-white mb-1">Kemenangan</p>
+                    <p class="text-[#E7EFC7] font-semibold">
+                      {character.charData.rl.wins}
+                    </p>
+                  </div>
+                )}
+                {character.charData.rl.earnings && (
+                  <div>
+                    <p class="text-xs text-white mb-1">Total Hadiah</p>
+                    <p class="text-[#E7EFC7] font-semibold">
+                      {formatCurrency(character.charData.rl.earnings)}
+                    </p>
+                  </div>
+                )}
+                {character.charData.rl.death && (
+                  <div class="md:col-span-2">
+                    <p class="text-xs text-white mb-1">Tanggal Meninggal</p>
+                    <p class="text-[#E7EFC7] font-semibold">
+                      {formatDate(character.charData.rl.death)}
+                    </p>
+                  </div>
+                )}
+              </div>
+            </div>
+          )
+        }
+
+        <!-- Release Dates -->
+        <div
+          class="bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10"
+        >
+          <h3 class="text-2xl font-bold text-[#E7EFC7] mb-4 flex items-center">
+            Tanggal Rilis
+          </h3>
+          <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+            {
+              character.release && (
+                <div>
+                  <p class="text-xs text-white mb-1">🇯🇵 JP</p>
+                  <p class="text-[#E7EFC7] font-semibold text-sm">
+                    {formatDate(character.release)}
+                  </p>
+                </div>
+              )
+            }
+            {
+              character.release_ko && (
+                <div>
+                  <p class="text-xs text-white mb-1">🇰🇷 KR</p>
+                  <p class="text-[#E7EFC7] font-semibold text-sm">
+                    {formatDate(character.release_ko)}
+                  </p>
+                </div>
+              )
+            }
+            {
+              character.release_zh_tw && (
+                <div>
+                  <p class="text-xs text-white mb-1">🇹🇼 TW</p>
+                  <p class="text-[#E7EFC7] font-semibold text-sm">
+                    {formatDate(character.release_zh_tw)}
+                  </p>
+                </div>
+              )
+            }
+            {
+              character.release_en && (
+                <div>
+                  <p class="text-xs text-white mb-1">🇺🇸 EN</p>
+                  <p class="text-[#E7EFC7] font-semibold text-sm">
+                    {formatDate(character.release_en)}
+                  </p>
+                </div>
+              )
+            }
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Animated Background Elements -->
+    <div class="fixed inset-0 pointer-events-none overflow-hidden -z-10">
+      <div
+        class="absolute top-1/4 left-1/4 w-64 h-64 bg-[#B6F500]/20 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob"
+      >
+      </div>
+      <div
+        class="absolute top-1/3 right-1/4 w-64 h-64 bg-[#9FD700]/20 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob animation-delay-2000"
+      >
+      </div>
+      <div
+        class="absolute bottom-1/4 left-1/3 w-64 h-64 bg-[#7CB900]/20 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob animation-delay-4000"
+      >
+      </div>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  @keyframes blob {
+    0%,
+    100% {
+      transform: translate(0px, 0px) scale(1);
+    }
+    33% {
+      transform: translate(30px, -50px) scale(1.1);
+    }
+    66% {
+      transform: translate(-20px, 20px) scale(0.9);
+    }
+  }
+
+  .animate-blob {
+    animation: blob 7s infinite;
+  }
+
+  .animation-delay-2000 {
+    animation-delay: 2s;
+  }
+
+  .animation-delay-4000 {
+    animation-delay: 4s;
+  }
+</style>
