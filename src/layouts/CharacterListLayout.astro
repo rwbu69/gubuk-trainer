@@ -49,9 +49,16 @@ const sortedCharacters = [...characters].sort((a, b) => {
         <!-- Character List -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
           {
-            sortedCharacters.map((char) => (
-              <div class="bg-gradient-to-br from-white/15 to-white/5 backdrop-blur-lg rounded-2xl overflow-hidden shadow-2xl border border-white/20 hover:border-[#B6F500] transition-all duration-300">
-                <div class="flex flex-col sm:flex-row">
+            sortedCharacters.map((char) => {
+              // Use card_id as the unique identifier
+              const characterId = char.card_id;
+              
+              return (
+                <a
+                  href={`${baseUrl}/character/${characterId}`}
+                  class="bg-gradient-to-br from-white/15 to-white/5 backdrop-blur-lg rounded-2xl overflow-hidden shadow-2xl border border-white/20 hover:border-[#B6F500] hover:scale-105 transition-all duration-300 block"
+                >
+                  <div class="flex flex-col sm:flex-row">
                   <!-- Character Image -->
                   <div class="sm:w-40 flex-shrink-0">
                     <img
@@ -102,8 +109,9 @@ const sortedCharacters = [...characters].sort((a, b) => {
                     )}
                   </div>
                 </div>
-              </div>
-            ))
+              </a>
+            );
+            })
           }
         </div>
       </div>
